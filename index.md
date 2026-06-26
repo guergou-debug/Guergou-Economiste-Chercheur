@@ -1,47 +1,77 @@
-[Accueil](./index.md) | [Formation](./formation.md) | [Projets](./projets.md) | [Expériences](./experiences.md)
 ---
-![Mon Portrait](./photo.jpg){: width="150px" style="border-radius: 50%;"}
-
-# Bienvenue sur mon portfolio.
-# GUERGOU GAGARA Abdoul-Samah
-**Élève Ingénieur en Économie Appliquée, Statistique & Big Data (INSEA)** *Candidat à la recherche en Économie du Développement*
-
----
-
-## 👤 À propos
-Élève ingénieur à l’INSEA, je développe une approche rigoureuse et quantitative des problématiques économiques contemporaines. Ma formation articule trois dimensions essentielles : la **théorie économique**, la **modélisation statistique** et l’**analyse de données à grande échelle**.
-> "Ma démarche repose sur l'exploitation rigoureuse des données :  
-> $$P(\theta|D) = \frac{P(D|\theta)P(\theta)}{P(D)}$$"
-
-Mon objectif est de produire des analyses quantitatives solides au service de politiques publiques efficaces, inclusives et basées sur l’évidence empirique.
-
-## 🎯 Intérêts de Recherche
-Mes travaux et ma veille scientifique se concentrent sur :
-* **Évaluation des politiques publiques** & Méthodes causales (DID, RDD, IV).
-* **Économie du développement** (Inégalités, pauvreté, capital humain).
-* **Microéconométrie appliquée** aux pays en développement.
-* **Dynamiques structurelles** (Emploi, informel, transformation productive).
-
-## 🛠️ Compétences Techniques
-* **Programmation & Stats :** Python (Data Science), R, VBA, SQL.
-* **Économétrie :** Modélisation avancée, Microéconométrie, Analyse de données massives.
-* **Outils Académiques :** LaTeX, Comptabilité nationale, Rédaction scientifique.
-
-## 📚 Travaux & Projets Académiques
-* **Analyse Macroéconomique :** Travaux en comptabilité nationale avec approche genre.
-* **Data Science :** Études de cas en data analysis appliquée et modélisation comportementale.
-* **Prospective :** Simulations d'alertes économiques et analyses stratégiques.
-
-## 🧠 Vision Scientifique
-Je conçois l’économie comme une discipline où les modèles doivent être confrontés aux données réelles. Je m'intéresse particulièrement aux enjeux structurels des économies émergentes et africaines : transformation productive, accès au financement et gouvernance.
-
+layout: splash
+permalink: /
+hidden: true
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/banner-niger-data.jpg
+  # Tu devras ajouter une image de bannière. Une image de synthèse avec des données et une carte de l'Afrique serait parfaite.
+  actions:
+    - label: "📊 Explorer mes travaux"
+      url: "/projets/"
+    - label: "📬 Me contacter"
+      url: "/contact/"
+excerpt: " "
 ---
 
-## 📬 Contact
-* **Email :** [asamahgagara@gmail.com](mailto:asamahgagara@gmail.com)
-* **Téléphone :** +212 714430432
-* **Localisation :** Rabat, Maroc (INSEA)
-* [LinkedIn](Ton_Lien_Ici) | [GitHub](https://github.com/guergou-debug)
+<div style="text-align: center; margin-top: -10px;">
+  <h1 style="font-size: 3em;">GUERGOU GAGARA Abdoul-Samah</h1>
+  <p style="font-size: 1.5em; color: #ccc;">Élève Ingénieur en Économie Appliquée, Statistique & Big Data (INSEA)</p>
+  <p style="font-size: 1.2em; max-width: 800px; margin: 20px auto; color: #aaa;">
+    Je transforme les données en politiques publiques pour un développement inclusif.
+  </p>
+</div>
 
-* ### Travaux en comptabilité nationale
-* [Télécharger mon rapport sur l'approche genre (PDF)](./projets/rapport_comptabilite_nationale.pdf)
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 40px 0;">
+
+  <div style="background: rgba(255,255,255,0.05); border-radius: 10px; padding: 30px; flex: 1 1 300px;">
+    <h2 style="color: #fff;">👤 À propos de moi</h2>
+    <p style="text-align: justify;">
+      Élève ingénieur à l'INSEA, je développe une approche rigoureuse et quantitative des problématiques économiques contemporaines. Ma formation articule trois dimensions essentielles : la <strong>théorie économique</strong>, la <strong>modélisation statistique</strong> et l'<strong>analyse de données à grande échelle</strong>.
+    </p>
+    <p style="text-align: justify;">
+      Mon objectif est de produire des analyses quantitatives solides au service de politiques publiques efficaces, inclusives et basées sur l'évidence empirique.
+    </p>
+  </div>
+
+  <div style="background: rgba(255,255,255,0.05); border-radius: 10px; padding: 30px; flex: 1 1 300px;">
+    <h2 style="color: #fff;">🎯 Intérêts de Recherche</h2>
+    <ul style="list-style: none; padding: 0; text-align: left;">
+      <li style="margin-bottom: 10px;">📈 Évaluation des politiques publiques (DID, RDD, IV)</li>
+      <li style="margin-bottom: 10px;">🌍 Économie du développement (Inégalités, pauvreté, capital humain)</li>
+      <li style="margin-bottom: 10px;">🔬 Microéconométrie appliquée aux pays en développement</li>
+      <li style="margin-bottom: 10px;">📊 Dynamiques structurelles (Emploi, informel, transformation productive)</li>
+    </ul>
+     <p style="font-style: italic; color: #aaa; margin-top: 20px;">
+      “Ma démarche repose sur l’exploitation rigoureuse des données : \(P(\theta|D) = \frac{P(D|\theta)P(\theta)}{P(D)}\)”
+    </p>
+  </div>
+
+  <div style="background: rgba(255,255,255,0.05); border-radius: 10px; padding: 30px; flex: 1 1 300px;">
+    <h2 style="color: #fff;">🛠️ Compétences Clés</h2>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+      <span style="background: #007BFF; padding: 8px 15px; border-radius: 20px; font-size: 0.9em;">Python</span>
+      <span style="background: #28A745; padding: 8px 15px; border-radius: 20px; font-size: 0.9em;">R</span>
+      <span style="background: #6F42C1; padding: 8px 15px; border-radius: 20px; font-size: 0.9em;">SQL</span>
+      <span style="background: #FD7E14; padding: 8px 15px; border-radius: 20px; font-size: 0.9em;">Power BI</span>
+      <span style="background: #17A2B8; padding: 8px 15px; border-radius: 20px; font-size: 0.9em;">Machine Learning</span>
+      <span style="background: #DC3545; padding: 8px 15px; border-radius: 20px; font-size: 0.9em;">Économétrie</span>
+      <span style="background: #20C997; padding: 8px 15px; border-radius: 20px; font-size: 0.9em;">Statistiques</span>
+    </div>
+     <p style="margin-top: 30px;">
+       <a href="/formation" style="color: #00BFFF; text-decoration: none;">Découvrir ma formation →</a>
+    </p>
+  </div>
+
+</div>
+
+<div style="text-align: center; margin-top: 40px; border-top: 1px solid #444; padding-top: 30px;">
+  <p style="color: #888;">
+    Basé à Rabat, Maroc (INSEA) | <a href="mailto:asamahgagara@gmail.com" style="color: #00BFFF;">asamahgagara@gmail.com</a>
+  </p>
+  <p style="color: #888; font-size: 0.9em;">
+    <a href="https://linkedin.com/in/ton-profil" target="_blank" style="color: #00BFFF;">LinkedIn</a> |
+    <a href="https://github.com/guergou-debug" target="_blank" style="color: #00BFFF;">GitHub</a>
+  </p>
+</div>
