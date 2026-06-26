@@ -67,10 +67,10 @@ excerpt: " "
 
 <div style="text-align: center; margin-top: 40px; border-top: 1px solid #444; padding-top: 30px;">
   <p style="color: #888;">
-    Basé à Rabat, Maroc (INSEA) | <a href="mailto:asamahgagara@gmail.com" style="color: #00BFFF;">asamahgagara@gmail.com</a>
+    Basé à Rabat, Maroc | <a href="mailto:asguergougagara@insea.ac.ma" style="color: #00BFFF;">asguergougagara@insea.ac.ma</a>
   </p>
   <p style="color: #888; font-size: 0.9em;">
-    <a href="https://linkedin.com/in/ton-profil" target="_blank" style="color: #00BFFF;">LinkedIn</a> |
+    <a href="https://www.linkedin.com/in/abdoul-samah-guergou-gagara-9a2905328/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bf5Xi8n%2FnR6q0P95JGEXI9Q%3D%3D" target="_blank" style="color: #00BFFF;">LinkedIn</a> |
     <a href="https://github.com/guergou-debug" target="_blank" style="color: #00BFFF;">GitHub</a>
   </p>
 </div>
