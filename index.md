@@ -5,7 +5,7 @@ hidden: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/banner-niger-data.jpg
+  overlay_image: /assets/images/banner-niger-data.png
   # Tu devras ajouter une image de bannière. Une image de synthèse avec des données et une carte de l'Afrique serait parfaite.
   actions:
     - label: "📊 Explorer mes travaux"
