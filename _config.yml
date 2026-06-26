@@ -1,1 +1,129 @@
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+# Site Settings
+locale                   : "fr-FR"
+title                    : "Guergou Gagara - Économiste & Data Scientist"
+name                     : "GUERGOU GAGARA Abdoul-Samah"
+description              : "Élève Ingénieur en Économie Appliquée, Statistique & Big Data"
+url                      : "https://guergou-debug.github.io"
+baseurl                  : "/Guergou-Economiste-Chercheur"
+repository               : "guergou-debug/Guergou-Economiste-Chercheur"
+
+# Site Author
+author:
+  name                   : "GUERGOU GAGARA Abdoul-Samah"
+  avatar                 : "/assets/images/avatar.jpg"
+  bio                    : "Élève Ingénieur | Économie Appliquée, Statistique & Big Data @ INSEA"
+  location               : "Rabat, Maroc"
+  email                  : "asamahgagara@gmail.com"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/ton-profil"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/guergou-debug"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:asamahgagara@gmail.com"
+
+# Footer Links
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/ton-profil"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/guergou-debug"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:asamahgagara@gmail.com"
+
+# Defaults
+defaults:
+  # _pages
+  - scope:
+      path: "_pages"
+      type: "pages"
+    values:
+      layout: "single"
+      author_profile: true
+  # _posts
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "single"
+      author_profile: true
+      read_time: true
+      comments: false
+      share: false
+      related: false
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - Makefile
+  - node_modules
+  - package.json
+  - package-lock.json
+  - Rakefile
+  - README
+  - tmp
+  - vendor
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+# Pagination
+paginate: 10
+paginate_path: /page:num/
