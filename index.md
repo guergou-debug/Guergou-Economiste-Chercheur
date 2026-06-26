@@ -59,7 +59,7 @@ excerpt: " "
       <span style="background: #20C997; padding: 8px 15px; border-radius: 20px; font-size: 0.9em;">Statistiques</span>
     </div>
      <p style="margin-top: 30px;">
-       <a href="/formation/" style="color: #00BFFF; text-decoration: none;">Découvrir ma formation →</a>
+       <a href="{{ site.baseurl }}/formation/" style="color: #00BFFF; text-decoration: none;">Découvrir ma formation →</a>
     </p>
   </div>
 
