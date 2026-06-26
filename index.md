@@ -17,8 +17,8 @@ excerpt: " "
 
 <div style="text-align: center; margin-top: -10px;">
   <h1 style="font-size: 3em;">GUERGOU GAGARA Abdoul-Samah</h1>
-  <p style="font-size: 1.5em; color: #ccc;">Élève Ingénieur en Économie Appliquée, Statistique & Big Data (INSEA)</p>
-  <p style="font-size: 1.2em; max-width: 800px; margin: 20px auto; color: #aaa;">
+  <p style="font-size: 1.5em; color: #00008b;">Élève Ingénieur en Économie Appliquée, Statistique & Big Data (INSEA)</p>
+  <p style="font-size: 1.2em; max-width: 800px; margin: 20px auto; color: #00008b;">
     Je transforme les données en politiques publiques pour un développement inclusif.
   </p>
 </div>
