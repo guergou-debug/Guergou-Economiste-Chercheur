@@ -1,0 +1,21 @@
+main:
+  - title: "Accueil"
+    url: /
+  - title: "Formation"
+    url: /formation/
+  - title: "Compétences"
+    url: /competences/
+  - title: "Projets"
+    url: /projets-academiques/
+  - title: "Expériences"
+    url: /experiences/
+  - title: "Data for Niger"
+    url: /data-for-niger/
+  - title: "Recherche"
+    url: /recherche/
+  - title: "Publications"
+    url: /publications/
+  - title: "Vision"
+    url: /vision-niger/
+  - title: "Contact"
+    url: /contact/
