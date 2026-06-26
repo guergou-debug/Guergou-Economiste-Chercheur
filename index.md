@@ -26,7 +26,7 @@ excerpt: " "
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 40px 0;">
 
   <div style="background: rgba(255,255,255,0.05); border-radius: 10px; padding: 30px; flex: 1 1 300px;">
-    <h2 style="color: #fff;">👤 À propos de moi</h2>
+    <h2 style="color: #00008b;">👤 À propos de moi</h2>
     <p style="text-align: justify;">
       Élève ingénieur à l'INSEA, je développe une approche rigoureuse et quantitative des problématiques économiques contemporaines. Ma formation articule trois dimensions essentielles : la <strong>théorie économique</strong>, la <strong>modélisation statistique</strong> et l'<strong>analyse de données à grande échelle</strong>.
     </p>
@@ -48,7 +48,7 @@ excerpt: " "
   </div>
 
   <div style="background: rgba(255,255,255,0.05); border-radius: 10px; padding: 30px; flex: 1 1 300px;">
-    <h2 style="color: #fff;">🛠️ Compétences Clés</h2>
+    <h2 style="color: #00008b;">🛠️ Compétences Techniques</h2>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
       <span style="background: #007BFF; padding: 8px 15px; border-radius: 20px; font-size: 0.9em;">Python</span>
       <span style="background: #28A745; padding: 8px 15px; border-radius: 20px; font-size: 0.9em;">R</span>
@@ -59,7 +59,7 @@ excerpt: " "
       <span style="background: #20C997; padding: 8px 15px; border-radius: 20px; font-size: 0.9em;">Statistiques</span>
     </div>
      <p style="margin-top: 30px;">
-       <a href="/formation/" style="color: #00BFFF; text-decoration: none;">Découvrir ma formation →</a>
+       <a href="_pages/formation.md" style="color: #00BFFF; text-decoration: none;">Découvrir ma formation →</a>
     </p>
   </div>
 
