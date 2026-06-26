@@ -36,15 +36,14 @@ excerpt: " "
   </div>
 
   <div style="background: rgba(255,255,255,0.05); border-radius: 10px; padding: 30px; flex: 1 1 300px;">
-    <h2 style="color: #fff;">🎯 Intérêts de Recherche</h2>
+    <h2 style="color: #00008b;">🎯 Intérêts de Recherche</h2>
     <ul style="list-style: none; padding: 0; text-align: left;">
-      <li style="margin-bottom: 10px;">📈 Évaluation des politiques publiques (DID, RDD, IV)</li>
+      <li style="margin-bottom: 10px;">📈 Évaluation des politiques publiques </li>
       <li style="margin-bottom: 10px;">🌍 Économie du développement (Inégalités, pauvreté, capital humain)</li>
-      <li style="margin-bottom: 10px;">🔬 Microéconométrie appliquée aux pays en développement</li>
       <li style="margin-bottom: 10px;">📊 Dynamiques structurelles (Emploi, informel, transformation productive)</li>
     </ul>
-     <p style="font-style: italic; color: #aaa; margin-top: 20px;">
-      “Ma démarche repose sur l’exploitation rigoureuse des données : \(P(\theta|D) = \frac{P(D|\theta)P(\theta)}{P(D)}\)”
+     <p style="font-style: italic; color: #00008b; margin-top: 20px;">
+      “Ma démarche repose sur l’exploitation rigoureuse des données”
     </p>
   </div>
 
@@ -60,7 +59,7 @@ excerpt: " "
       <span style="background: #20C997; padding: 8px 15px; border-radius: 20px; font-size: 0.9em;">Statistiques</span>
     </div>
      <p style="margin-top: 30px;">
-       <a href="/formation" style="color: #00BFFF; text-decoration: none;">Découvrir ma formation →</a>
+       <a href="/formation/" style="color: #00BFFF; text-decoration: none;">Découvrir ma formation →</a>
     </p>
   </div>
 
