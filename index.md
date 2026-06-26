@@ -9,7 +9,7 @@ header:
   # Tu devras ajouter une image de bannière. Une image de synthèse avec des données et une carte de l'Afrique serait parfaite.
   actions:
     - label: "📊 Explorer mes travaux"
-      url: "/projets/"
+      url: "/projets-academiques/"
     - label: "📬 Me contacter"
       url: "/contact/"
 excerpt: " "
