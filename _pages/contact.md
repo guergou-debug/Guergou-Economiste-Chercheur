@@ -54,7 +54,7 @@ author_profile: true
     </div>
   </a>
 
-  <a href="https://linkedin.com/in/ton-profil" target="_blank" style="text-decoration: none; color: inherit;">
+  <a href="https://www.linkedin.com/in/abdoul-samah-guergou-gagara-9a2905328/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BtHRGoBAKToOrchsm1mruNg%3D%3D" target="_blank" style="text-decoration: none; color: inherit;">
     <div style="background: #f0faf4; padding: 20px; border-radius: 10px; text-align: center; border: 1px solid #28A745; transition: all 0.3s ease;">
       <span style="font-size: 3em;">🔗</span>
       <h4 style="color: #28A745;">LinkedIn</h4>
