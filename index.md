@@ -56,7 +56,15 @@ excerpt: " "
       <span style="background: #FD7E14; padding: 8px 15px; border-radius: 20px; font-size: 0.9em;">Power BI</span>
       <span style="background: #17A2B8; padding: 8px 15px; border-radius: 20px; font-size: 0.9em;">Machine Learning</span>
       <span style="background: #DC3545; padding: 8px 15px; border-radius: 20px; font-size: 0.9em;">Économétrie</span>
-      <span style="background: #20C997; padding: 8px 15px; border-radius: 20px; font-size: 0.9em;">Statistiques</span>
+      <span style="background: #007BFF; padding: 8px 15px; border-radius: 20px; font-size: 0.9em;">Statistiques</span>
+      <span style="background: #20C997; padding: 8px 15px; border-radius: 20px; font-size: 0.9em;">Excel</span>
+      <span style="background: #6F42C1; padding: 8px 15px; border-radius: 20px; font-size: 0.9em;">VBA</span>
+      <span style="background: #007BFF; padding: 8px 15px; border-radius: 20px; font-size: 0.9em;">SPSS</span>
+      <span style="background: #20C997; padding: 8px 15px; border-radius: 20px; font-size: 0.9em;">STATA</span>
+      <span style="background: #DC3545; padding: 8px 15px; border-radius: 20px; font-size: 0.9em;">Latex/Beamer</span>
+      <span style="background: #20C997; padding: 8px 15px; border-radius: 20px; font-size: 0.9em;">SIG</span>
+      <span style="background: #DC3545; padding: 8px 15px; border-radius: 20px; font-size: 0.9em;">Web Scraping</span>
+      <span style="background: #6F42C1; padding: 8px 15px; border-radius: 20px; font-size: 0.9em;">Data Mining/Text Mining</span>
     </div>
      <p style="margin-top: 30px;">
        <a href="{{ site.baseurl }}/formation/" style="color: #00BFFF; text-decoration: none;">Découvrir ma formation →</a>
