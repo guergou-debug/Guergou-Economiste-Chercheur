@@ -190,7 +190,6 @@ Je prépare activement ma candidature pour un **doctorat en économie** dans une
 Je suis ouvert aux collaborations pour :
 
 - 📊 **Projets de recherche** communs sur l'économie du développement
-- 🎓 **Thèses et co-encadrements** de doctorants
 - 📈 **Études et évaluations** pour des organisations internationales
 - 🤝 **Partenariats** entre universités et institutions
 
