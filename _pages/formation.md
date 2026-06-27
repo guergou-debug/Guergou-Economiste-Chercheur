@@ -80,7 +80,7 @@ La filière **Économie Appliquée, Statistique & Big Data** incarne cette visio
     </tr>
   </thead>
   <tbody>
-    <tr style="background: #1a1a2e;">
+    <tr style="background: #FFF;">
       <td style="padding: 10px; border: 1px solid #FFF;">Statistique Descriptive & Outils</td>
       <td style="padding: 10px; border: 1px solid #FFF;">Principes de base de la statistique et outils d'analyse</td>
     </tr>
