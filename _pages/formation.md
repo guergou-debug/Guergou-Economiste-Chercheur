@@ -81,32 +81,32 @@ La filière **Économie Appliquée, Statistique & Big Data** incarne cette visio
   </thead>
   <tbody>
     <tr style="background: #FFF;">
-      <td style="padding: 10px; border: 1px solid #FFF;">Statistique Descriptive & Outils</td>
-      <td style="padding: 10px; border: 1px solid #FFF;">Principes de base de la statistique et outils d'analyse</td>
+      <td style="padding: 10px; border: 1px solid #333;">Statistique Descriptive & Outils</td>
+      <td style="padding: 10px; border: 1px solid #333;">Principes de base de la statistique et outils d'analyse</td>
     </tr>
-    <tr style="background: #0d0d1a;">
-      <td style="padding: 10px; border: 1px solid #FFF;">Principes de l'Économie</td>
-      <td style="padding: 10px; border: 1px solid #FFF;">Fondements de la micro et macroéconomie</td>
+    <tr style="background: #FFF;">
+      <td style="padding: 10px; border: 1px solid #333;">Principes de l'Économie</td>
+      <td style="padding: 10px; border: 1px solid #333;">Fondements de la micro et macroéconomie</td>
     </tr>
-    <tr style="background: #1a1a2e;">
-      <td style="padding: 10px; border: 1px solid #FFF;">Probabilités</td>
-      <td style="padding: 10px; border: 1px solid #FFF;">Théorie des probabilités et applications</td>
+    <tr style="background: #FFF;">
+      <td style="padding: 10px; border: 1px solid #333;">Probabilités</td>
+      <td style="padding: 10px; border: 1px solid #333;">Théorie des probabilités et applications</td>
     </tr>
-    <tr style="background: #0d0d1a;">
-      <td style="padding: 10px; border: 1px solid #FFF;">Algorithmique & Programmation</td>
-      <td style="padding: 10px; border: 1px solid #FFF;">Introduction à l'algorithmique et à la programmation</td>
+    <tr style="background: #FFF;">
+      <td style="padding: 10px; border: 1px solid #333;">Algorithmique & Programmation</td>
+      <td style="padding: 10px; border: 1px solid #333;">Introduction à l'algorithmique et à la programmation</td>
     </tr>
-    <tr style="background: #1a1a2e;">
-      <td style="padding: 10px; border: 1px solid #FFF;">Bases de Données</td>
-      <td style="padding: 10px; border: 1px solid #FFF;">Conception et manipulation de bases de données</td>
+    <tr style="background: #FFF;">
+      <td style="padding: 10px; border: 1px solid #333;">Bases de Données</td>
+      <td style="padding: 10px; border: 1px solid #333;">Conception et manipulation de bases de données</td>
     </tr>
-    <tr style="background: #0d0d1a;">
-      <td style="padding: 10px; border: 1px solid #FFF;">Méthodes Numériques</td>
-      <td style="padding: 10px; border: 1px solid #FFF;">Résolution numérique de problèmes mathématiques</td>
+    <tr style="background: #FFF;">
+      <td style="padding: 10px; border: 1px solid #333;">Méthodes Numériques</td>
+      <td style="padding: 10px; border: 1px solid #333;">Résolution numérique de problèmes mathématiques</td>
     </tr>
-    <tr style="background: #1a1a2e;">
-      <td style="padding: 10px; border: 1px solid #FFF;">Maths Financières & VBA</td>
-      <td style="padding: 10px; border: 1px solid #FFF;">Mathématiques financières et programmation VBA</td>
+    <tr style="background: #FFF;">
+      <td style="padding: 10px; border: 1px solid #333;">Maths Financières & VBA</td>
+      <td style="padding: 10px; border: 1px solid #333;">Mathématiques financières et programmation VBA</td>
     </tr>
   </tbody>
 </table>
@@ -127,27 +127,27 @@ La filière **Économie Appliquée, Statistique & Big Data** incarne cette visio
     </tr>
   </thead>
   <tbody>
-    <tr style="background: #1a1a2e;">
+    <tr style="background: #FFF;">
       <td style="padding: 10px; border: 1px solid #333;">Inférence Statistique & Multivariée</td>
       <td style="padding: 10px; border: 1px solid #333;">Méthodes d'inférence et analyses multivariées</td>
     </tr>
-    <tr style="background: #0d0d1a;">
+    <tr style="background: #FFF;">
       <td style="padding: 10px; border: 1px solid #333;">Analyse Économique & Comptabilité Nationale</td>
       <td style="padding: 10px; border: 1px solid #333;">Macroéconomie et comptabilité nationale</td>
     </tr>
-    <tr style="background: #1a1a2e;">
+    <tr style="background: #FFF;">
       <td style="padding: 10px; border: 1px solid #333;">Programmation Orientée Objet</td>
       <td style="padding: 10px; border: 1px solid #333;">Concepts avancés de programmation</td>
     </tr>
-    <tr style="background: #0d0d1a;">
+    <tr style="background: #FFF;">
       <td style="padding: 10px; border: 1px solid #333;">Modélisation Stochastique</td>
       <td style="padding: 10px; border: 1px solid #333;">Processus stochastiques et applications</td>
     </tr>
-    <tr style="background: #1a1a2e;">
+    <tr style="background: #FFF;">
       <td style="padding: 10px; border: 1px solid #333;">Optimisation Numérique</td>
       <td style="padding: 10px; border: 1px solid #333;">Méthodes d'optimisation</td>
     </tr>
-    <tr style="background: #0d0d1a;">
+    <tr style="background: #FFF;">
       <td style="padding: 10px; border: 1px solid #333;">Structures de Données</td>
       <td style="padding: 10px; border: 1px solid #333;">Gestion avancée des structures de données</td>
     </tr>
@@ -170,19 +170,19 @@ La filière **Économie Appliquée, Statistique & Big Data** incarne cette visio
     </tr>
   </thead>
   <tbody>
-    <tr style="background: #1a1a2e;">
+    <tr style="background: #FFF;">
       <td style="padding: 10px; border: 1px solid #333;">Analyse Macro & Microéconomique</td>
       <td style="padding: 10px; border: 1px solid #333;">Approfondissement de la théorie économique</td>
     </tr>
-    <tr style="background: #0d0d1a;">
+    <tr style="background: #FFF;">
       <td style="padding: 10px; border: 1px solid #333;">Séries Chronologiques & Régression</td>
       <td style="padding: 10px; border: 1px solid #333;">Modélisation temporelle et régression</td>
     </tr>
-    <tr style="background: #1a1a2e;">
+    <tr style="background: #FFF;">
       <td style="padding: 10px; border: 1px solid #333;">Économie Monétaire & Internationale</td>
       <td style="padding: 10px; border: 1px solid #333;">Économie ouverte et politique monétaire</td>
     </tr>
-    <tr style="background: #0d0d1a;">
+    <tr style="background: #FFF;">
       <td style="padding: 10px; border: 1px solid #333;">Modèles Quasi-Comptables & Programmation Dynamique</td>
       <td style="padding: 10px; border: 1px solid #333;">Modélisation avancée</td>
     </tr>
@@ -205,23 +205,23 @@ La filière **Économie Appliquée, Statistique & Big Data** incarne cette visio
     </tr>
   </thead>
   <tbody>
-    <tr style="background: #1a1a2e;">
+    <tr style="background: #FFF;">
       <td style="padding: 10px; border: 1px solid #333;">Modèle Linéaire Généralisé & Ateliers</td>
       <td style="padding: 10px; border: 1px solid #333;">GLM et ateliers pratiques</td>
     </tr>
-    <tr style="background: #0d0d1a;">
+    <tr style="background: #FFF;">
       <td style="padding: 10px; border: 1px solid #333;">Statistique Bayésienne & Analyse de Durée</td>
       <td style="padding: 10px; border: 1px solid #333;">Approche bayésienne et survival analysis</td>
     </tr>
-    <tr style="background: #1a1a2e;">
+    <tr style="background: #FFF;">
       <td style="padding: 10px; border: 1px solid #333;">Apprentissage Statistique & Intelligence Commerciale</td>
       <td style="padding: 10px; border: 1px solid #333;">Machine Learning et BI</td>
     </tr>
-    <tr style="background: #0d0d1a;">
+    <tr style="background: #FFF;">
       <td style="padding: 10px; border: 1px solid #333;">Théorie des Jeux & Choix Social</td>
       <td style="padding: 10px; border: 1px solid #333;">Théorie des jeux et décision collective</td>
     </tr>
-    <tr style="background: #1a1a2e;">
+    <tr style="background: #FFF;">
       <td style="padding: 10px; border: 1px solid #333;">Problèmes Économiques Contemporains</td>
       <td style="padding: 10px; border: 1px solid #333;">Macroéconomie du développement</td>
     </tr>
@@ -244,19 +244,19 @@ La filière **Économie Appliquée, Statistique & Big Data** incarne cette visio
     </tr>
   </thead>
   <tbody>
-    <tr style="background: #1a1a2e;">
+    <tr style="background: #FFF;">
       <td style="padding: 10px; border: 1px solid #333;">Marchés du Travail & Appariement</td>
       <td style="padding: 10px; border: 1px solid #333;">Économie du travail et mécanismes d'appariement</td>
     </tr>
-    <tr style="background: #0d0d1a;">
+    <tr style="background: #FFF;">
       <td style="padding: 10px; border: 1px solid #333;">Évaluation des Politiques & Finances Publiques</td>
       <td style="padding: 10px; border: 1px solid #333;">Évaluation d'impact et finances publiques</td>
     </tr>
-    <tr style="background: #1a1a2e;">
+    <tr style="background: #FFF;">
       <td style="padding: 10px; border: 1px solid #333;">Data Mining & Économétrie Avancée</td>
       <td style="padding: 10px; border: 1px solid #333;">Techniques avancées de data mining</td>
     </tr>
-    <tr style="background: #0d0d1a;">
+    <tr style="background: #FFF;">
       <td style="padding: 10px; border: 1px solid #333;">Modèles Macroéconomiques</td>
       <td style="padding: 10px; border: 1px solid #333;">CGE, DSGE et projets statistiques</td>
     </tr>
