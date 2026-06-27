@@ -31,6 +31,16 @@ author_profile: true
 
 </div>
 
+ <div markdown="1" style="background: #f0faf4; padding: 25px; border-radius: 10px; text-align: center; border: 1px solid #28A745;">
+  <span style="font-size: 3em;">📱</span>
+
+  **WhatsApp**
+
+  [+212 714430432](https://wa.me/212714430432)
+  </div>
+
+</div>
+
 ---
 
 ## 🌐 Me suivre en ligne
@@ -52,15 +62,6 @@ author_profile: true
       <h4 style="color: #28A745;">LinkedIn</h4>
       <p style="font-size: 0.8em; color: #555;">Profil professionnel</p>
       <p style="font-size: 0.85em; color: #333;">Réseautage et opportunités</p>
-    </div>
-  </a>
-
-  <a href="https://abdoul-samahportfolio.netlify.app" target="_blank" style="text-decoration: none; color: inherit;">
-    <div style="background: #fdf4f0; padding: 20px; border-radius: 10px; text-align: center; border: 1px solid #FD7E14; transition: all 0.3s ease;">
-      <span style="font-size: 3em;">🌐</span>
-      <h4 style="color: #FD7E14;">Portfolio</h4>
-      <p style="font-size: 0.8em; color: #555;">abdoul-samahportfolio</p>
-      <p style="font-size: 0.85em; color: #333;">Site personnel</p>
     </div>
   </a>
 
