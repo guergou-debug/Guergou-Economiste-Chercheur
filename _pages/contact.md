@@ -24,20 +24,17 @@ author_profile: true
   <div markdown="1" style="background: #f0faf4; padding: 25px; border-radius: 10px; text-align: center; border: 1px solid #28A745;">
   <span style="font-size: 3em;">📱</span>
 
-  **WhatsApp**
+  **WhatsApp Niger**
 
   [+227 95 23 25 64](https://wa.me/22795232564)
   </div>
 
-
-</div>
-
- <div markdown="1" style="background: #f0faf4; padding: 25px; border-radius: 10px; text-align: center; border: 1px solid #28A745;">
+  <div markdown="1" style="background: #f0faf4; padding: 25px; border-radius: 10px; text-align: center; border: 1px solid #17A2B8;">
   <span style="font-size: 3em;">📱</span>
 
-  **WhatsApp**
+  **WhatsApp Maroc**
 
-  [+212 714430432](https://wa.me/212714430432)
+  [+212 7 14 43 04 32](https://wa.me/212714430432)
   </div>
 
 </div>
