@@ -112,7 +112,7 @@ La filière **Économie Appliquée, Statistique & Big Data** incarne cette visio
 </table>
 
 <div style="text-align: center; margin: 10px 0 30px 0;">
-  <a href="LIEN_DRIVE_S1" style="background: #007BFF; color: white; padding: 10px 25px; border-radius: 20px; text-decoration: none; display: inline-block;">📥 Demander l'accès aux cours - S1</a>
+  <a href="https://drive.google.com/drive/folders/15PFI-e-Z4WuUdaQ_epvGVTX4TtEhCDXh?usp=drive_link" style="background: #007BFF; color: white; padding: 10px 25px; border-radius: 20px; text-decoration: none; display: inline-block;">📥 Demander l'accès aux cours - S1</a>
 </div>
 
 ---
@@ -155,7 +155,7 @@ La filière **Économie Appliquée, Statistique & Big Data** incarne cette visio
 </table>
 
 <div style="text-align: center; margin: 10px 0 30px 0;">
-  <a href="LIEN_DRIVE_S2" style="background: #28A745; color: white; padding: 10px 25px; border-radius: 20px; text-decoration: none; display: inline-block;">📥 Demander l'accès aux cours - S2</a>
+  <a href="https://drive.google.com/drive/folders/1VNF3A4Cbfy441xCp0EUzjOSOHMJjAcxt?usp=drive_link" style="background: #28A745; color: white; padding: 10px 25px; border-radius: 20px; text-decoration: none; display: inline-block;">📥 Demander l'accès aux cours - S2</a>
 </div>
 
 ---
@@ -190,7 +190,7 @@ La filière **Économie Appliquée, Statistique & Big Data** incarne cette visio
 </table>
 
 <div style="text-align: center; margin: 10px 0 30px 0;">
-  <a href="LIEN_DRIVE_S3" style="background: #FD7E14; color: white; padding: 10px 25px; border-radius: 20px; text-decoration: none; display: inline-block;">📥 Demander l'accès aux cours - S3</a>
+  <a href="https://drive.google.com/drive/folders/1RKTrVMCt89Fre_Bj5h0WBhF3aL_kqTQ0?usp=drive_link" style="background: #FD7E14; color: white; padding: 10px 25px; border-radius: 20px; text-decoration: none; display: inline-block;">📥 Demander l'accès aux cours - S3</a>
 </div>
 
 ---
@@ -229,7 +229,7 @@ La filière **Économie Appliquée, Statistique & Big Data** incarne cette visio
 </table>
 
 <div style="text-align: center; margin: 10px 0 30px 0;">
-  <a href="LIEN_DRIVE_S4" style="background: #DC3545; color: white; padding: 10px 25px; border-radius: 20px; text-decoration: none; display: inline-block;">📥 Demander l'accès aux cours - S4</a>
+  <a href="https://drive.google.com/drive/folders/1DTAXm7bGsnkMt3H_8pgGmbLjlETTyxc8?usp=drive_link" style="background: #DC3545; color: white; padding: 10px 25px; border-radius: 20px; text-decoration: none; display: inline-block;">📥 Demander l'accès aux cours - S4</a>
 </div>
 
 ---
