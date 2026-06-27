@@ -47,6 +47,22 @@ author_profile: true
 
   </div>
 
+  <div markdown="1" style="background: #fdf0f0; padding: 25px; border-radius: 10px; border: 1px solid #DC3545; text-align: center;">
+
+  <span style="font-size: 3em;">📕</span>
+
+  **Les Mutations de l'Éducation au Niger**
+
+  *Entre dérives, ignorance et mendicité*
+
+  **Description :** Une réflexion profonde sur les transformations du système éducatif nigérien, ses dérives, les défis de l'ignorance et le fléau de la mendicité chez les jeunes. Cet ouvrage propose des pistes pour une éducation qui prépare véritablement la jeunesse à l'avenir.
+
+  **Avancement :** 🔄 En cours d'écriture
+
+  **Date prévue :** 2026
+
+  </div>
+
 </div>
 
 ---
