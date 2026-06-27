@@ -91,9 +91,9 @@ author_profile: true
 
 | Langue | Niveau |
 |--------|--------|
-| 🇫🇷 Français | Courant (Langue maternelle) |
+| 🇫🇷 Français | Courant  |
 | 🇬🇧 Anglais | Académique (Lecture, écriture, communication) |
-| 🇩🇪 Allemand | Notions |
+
 
 ---
 
