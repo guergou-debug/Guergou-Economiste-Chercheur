@@ -11,7 +11,7 @@ Voici une sélection de mes projets académiques en économétrie, data science 
 
 ## 📊 Analyse des déterminants des IDE au Maroc
 
-<div style="background: #FFF; padding: 20px; border-radius: 10px; margin: 15px 0;">
+<div markdown="1" style="background: #f0f4f8; padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #007BFF;">
 
 **Étude économétrique en séries temporelles**
 
@@ -35,7 +35,7 @@ Voici une sélection de mes projets académiques en économétrie, data science 
 
 ## 🚢 Analyse de survie sur le Titanic
 
-<div style="background: #FFF; padding: 20px; border-radius: 10px; margin: 15px 0;">
+<div markdown="1" style="background: #fdf0f0; padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #DC3545;">
 
 **Régression logistique et évaluation de modèle**
 
@@ -59,7 +59,7 @@ Voici une sélection de mes projets académiques en économétrie, data science 
 
 ## 🏫 Application de gestion scolaire
 
-<div style="background: #FFF; padding: 20px; border-radius: 10px; margin: 15px 0;">
+<div markdown="1" style="background: #f0faf4; padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #28A745;">
 
 **Automatisation Excel VBA**
 
@@ -82,7 +82,7 @@ Voici une sélection de mes projets académiques en économétrie, data science 
 
 ## 🏛️ Projet de Comptabilité Nationale
 
-<div style="background: #FFF; padding: 20px; border-radius: 10px; margin: 15px 0;">
+<div markdown="1" style="background: #f4f0f8; padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #6F42C1;">
 
 **Approche Genre dans la Comptabilité Nationale**
 
@@ -108,15 +108,15 @@ Voici une sélection de mes projets académiques en économétrie, data science 
 Tous mes projets, codes sources et ressources sont disponibles sur GitHub :
 
 <div style="display: flex; gap: 15px; margin: 20px 0; flex-wrap: wrap;">
-  <a href="https://github.com/guergou-debug" target="_blank" style="background: #333; padding: 12px 30px; border-radius: 25px; color: white; text-decoration: none; display: inline-block;">
-    <i class="fab fa-github"></i> Voir tous les projets sur GitHub
+  <a href="https://github.com/guergou-debug" target="_blank" style="background: #333; color: white; padding: 12px 30px; border-radius: 25px; text-decoration: none; display: inline-block;">
+    🐙 Voir tous les projets sur GitHub
   </a>
 </div>
 
 ---
 
-<div style="text-align: center; margin: 30px 0; padding: 20px; background: #0d0d1a; border-radius: 10px; border: 1px solid #333;">
-  <p style="color: #888; font-size: 0.9em;">
+<div style="text-align: center; margin: 30px 0; padding: 20px; background: #f8f9fa; border-radius: 10px; border: 1px solid #ddd;">
+  <p style="color: #555; font-size: 0.9em;">
     💡 <strong>Note :</strong> Pour chaque projet, le code source est disponible sur GitHub et le rapport complet peut être téléchargé.
   </p>
 </div>
