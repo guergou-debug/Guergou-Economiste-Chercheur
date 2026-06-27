@@ -11,7 +11,7 @@ Voici une sélection de mes projets académiques en économétrie, data science 
 
 ## 📊 Analyse des déterminants des IDE au Maroc
 
-<div style="background: #1a1a2e; padding: 20px; border-radius: 10px; margin: 15px 0;">
+<div style="background: #FFF; padding: 20px; border-radius: 10px; margin: 15px 0;">
 
 **Étude économétrique en séries temporelles**
 
@@ -35,7 +35,7 @@ Voici une sélection de mes projets académiques en économétrie, data science 
 
 ## 🚢 Analyse de survie sur le Titanic
 
-<div style="background: #1a1a2e; padding: 20px; border-radius: 10px; margin: 15px 0;">
+<div style="background: #FFF; padding: 20px; border-radius: 10px; margin: 15px 0;">
 
 **Régression logistique et évaluation de modèle**
 
@@ -59,7 +59,7 @@ Voici une sélection de mes projets académiques en économétrie, data science 
 
 ## 🏫 Application de gestion scolaire
 
-<div style="background: #1a1a2e; padding: 20px; border-radius: 10px; margin: 15px 0;">
+<div style="background: #FFF; padding: 20px; border-radius: 10px; margin: 15px 0;">
 
 **Automatisation Excel VBA**
 
@@ -82,7 +82,7 @@ Voici une sélection de mes projets académiques en économétrie, data science 
 
 ## 🏛️ Projet de Comptabilité Nationale
 
-<div style="background: #1a1a2e; padding: 20px; border-radius: 10px; margin: 15px 0;">
+<div style="background: #FFF; padding: 20px; border-radius: 10px; margin: 15px 0;">
 
 **Approche Genre dans la Comptabilité Nationale**
 
