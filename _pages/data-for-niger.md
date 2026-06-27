@@ -4,7 +4,7 @@ permalink: /data-for-niger/
 layout: single
 author_profile: true
 header:
-  overlay_image: /assets/images/niger-banner.jpg
+  overlay_image: /assets/images/data-for-niger.png
   overlay_filter: 0.6
   caption: "Photo: Niger - Terre d'innovation et de données"
 ---
@@ -214,7 +214,7 @@ Le Niger est un pays de contrastes et d'opportunités. Avec une population jeune
 
 <div style="background: #f0f4f8; padding: 20px; border-radius: 10px; margin: 30px 0; text-align: center;">
 
-**Les 8 régions du Niger**
+Les 8 régions du Niger
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px; margin: 20px 0;">
 
