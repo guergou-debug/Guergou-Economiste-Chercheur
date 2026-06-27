@@ -179,15 +179,6 @@ author_profile: true
 
   </div>
 
-  <div markdown="1" style="background: #f0faf4; padding: 15px; border-radius: 10px; text-align: center; border: 1px solid #28A745;">
-
-  **📄 Note INS Niger**
-
-  Note de synthèse
-
-  🔜 Disponible bientôt
-
-  </div>
 
   <div markdown="1" style="background: #fdf4f0; padding: 15px; border-radius: 10px; text-align: center; border: 1px solid #FD7E14;">
 
