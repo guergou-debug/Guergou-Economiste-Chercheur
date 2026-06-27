@@ -270,7 +270,7 @@ Les 8 régions du Niger
 
 Je suis ouvert aux collaborations avec les institutions publiques nigériennes, organisations internationales, universités, entreprises et associations.
 
-**Contact** : [asamahgagara@gmail.com](mailto:asamahgagara@gmail.com)
+**Contact** : [asguergougagara@insea.ac.ma](mailto:asguergougagara@insea.ac.ma)
 
 ---
 
