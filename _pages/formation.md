@@ -81,32 +81,32 @@ La filière **Économie Appliquée, Statistique & Big Data** incarne cette visio
   </thead>
   <tbody>
     <tr style="background: #1a1a2e;">
-      <td style="padding: 10px; border: 1px solid #333;">Statistique Descriptive & Outils</td>
-      <td style="padding: 10px; border: 1px solid #333;">Principes de base de la statistique et outils d'analyse</td>
+      <td style="padding: 10px; border: 1px solid #FFF;">Statistique Descriptive & Outils</td>
+      <td style="padding: 10px; border: 1px solid #FFF;">Principes de base de la statistique et outils d'analyse</td>
     </tr>
     <tr style="background: #0d0d1a;">
-      <td style="padding: 10px; border: 1px solid #333;">Principes de l'Économie</td>
-      <td style="padding: 10px; border: 1px solid #333;">Fondements de la micro et macroéconomie</td>
+      <td style="padding: 10px; border: 1px solid #FFF;">Principes de l'Économie</td>
+      <td style="padding: 10px; border: 1px solid #FFF;">Fondements de la micro et macroéconomie</td>
     </tr>
     <tr style="background: #1a1a2e;">
-      <td style="padding: 10px; border: 1px solid #333;">Probabilités</td>
-      <td style="padding: 10px; border: 1px solid #333;">Théorie des probabilités et applications</td>
+      <td style="padding: 10px; border: 1px solid #FFF;">Probabilités</td>
+      <td style="padding: 10px; border: 1px solid #FFF;">Théorie des probabilités et applications</td>
     </tr>
     <tr style="background: #0d0d1a;">
-      <td style="padding: 10px; border: 1px solid #333;">Algorithmique & Programmation</td>
-      <td style="padding: 10px; border: 1px solid #333;">Introduction à l'algorithmique et à la programmation</td>
+      <td style="padding: 10px; border: 1px solid #FFF;">Algorithmique & Programmation</td>
+      <td style="padding: 10px; border: 1px solid #FFF;">Introduction à l'algorithmique et à la programmation</td>
     </tr>
     <tr style="background: #1a1a2e;">
-      <td style="padding: 10px; border: 1px solid #333;">Bases de Données</td>
-      <td style="padding: 10px; border: 1px solid #333;">Conception et manipulation de bases de données</td>
+      <td style="padding: 10px; border: 1px solid #FFF;">Bases de Données</td>
+      <td style="padding: 10px; border: 1px solid #FFF;">Conception et manipulation de bases de données</td>
     </tr>
     <tr style="background: #0d0d1a;">
-      <td style="padding: 10px; border: 1px solid #333;">Méthodes Numériques</td>
-      <td style="padding: 10px; border: 1px solid #333;">Résolution numérique de problèmes mathématiques</td>
+      <td style="padding: 10px; border: 1px solid #FFF;">Méthodes Numériques</td>
+      <td style="padding: 10px; border: 1px solid #FFF;">Résolution numérique de problèmes mathématiques</td>
     </tr>
     <tr style="background: #1a1a2e;">
-      <td style="padding: 10px; border: 1px solid #333;">Maths Financières & VBA</td>
-      <td style="padding: 10px; border: 1px solid #333;">Mathématiques financières et programmation VBA</td>
+      <td style="padding: 10px; border: 1px solid #FFF;">Maths Financières & VBA</td>
+      <td style="padding: 10px; border: 1px solid #FFF;">Mathématiques financières et programmation VBA</td>
     </tr>
   </tbody>
 </table>
