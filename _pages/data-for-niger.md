@@ -6,7 +6,6 @@ author_profile: true
 header:
   overlay_image: /assets/images/data-for-niger.png
   overlay_filter: 0.6
-  caption: "Photo: Niger - Terre d'innovation et de données"
 ---
 
 > *"Raconter le Niger par le Big Data : transformer les données en politiques publiques pour un développement inclusif."*
