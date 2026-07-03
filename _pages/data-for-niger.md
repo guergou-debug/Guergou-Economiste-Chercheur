@@ -52,32 +52,50 @@ Le Niger est un pays de contrastes et d'opportunités. Avec une population jeune
 
 ### Analyses Socio-Économiques
 
-<div style="background: #f0f8ff; padding: 15px; border-radius: 10px; border: 1px solid #007BFF; text-align: center;">
-  <span style="font-size: 2em;">👥</span>
-  <h4>Démographie</h4>
-  <p style="font-size: 0.85em; color: #555;">Structure de la population, pyramide des âges, répartition urbaine/rurale</p>
-  <img src="/assets/images/niger/carte_densite_expert.png" alt="Carte démographique du Niger" style="width:100%; border-radius:8px; margin-top:10px;">
-</div>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
 
+  <!-- Carte 1 : Démographie -->
+  <div style="background: #f0f8ff; padding: 15px; border-radius: 10px; border: 1px solid #007BFF; text-align: center;">
+    <span style="font-size: 2em;">👥</span>
+    <h4>Démographie</h4>
+    <p style="font-size: 0.85em; color: #555;">Structure de la population, pyramide des âges, répartition urbaine/rurale</p>
+    <img src="/assets/images/niger/carte_densite_expert.png" alt="Carte démographique du Niger" style="width:100%; border-radius:8px; margin-top:10px;">
+  </div>
+
+  <!-- Carte 2 : Pauvreté (à venir) -->
   <div style="background: #f0faf4; padding: 15px; border-radius: 10px; border: 1px solid #28A745; text-align: center;">
     <span style="font-size: 2em;">💰</span>
     <h4>Pauvreté et Inégalités</h4>
     <p style="font-size: 0.85em; color: #555;">Taux de pauvreté, indice de Gini, disparités régionales</p>
-    <p style="font-size: 0.75em; color: #888;">Espace pour cartes R</p>
+    <!-- 
+      🔜 Carte à venir : remplacer ci-dessous par :
+      <img src="/assets/images/niger/carte-pauvrete.png" alt="Carte de la pauvreté au Niger" style="width:100%; border-radius:8px; margin-top:10px;">
+    -->
+    <p style="font-size: 0.75em; color: #888;">🔄 Carte à venir</p>
   </div>
 
+  <!-- Carte 3 : Éducation (à venir) -->
   <div style="background: #fdf4f0; padding: 15px; border-radius: 10px; border: 1px solid #FD7E14; text-align: center;">
     <span style="font-size: 2em;">🏫</span>
     <h4>Éducation</h4>
     <p style="font-size: 0.85em; color: #555;">Taux de scolarisation, alphabétisation, accès à l'éducation par région</p>
-    <p style="font-size: 0.75em; color: #888;">Espace pour cartes R</p>
+    <!-- 
+      🔜 Carte à venir : remplacer ci-dessous par :
+      <img src="/assets/images/niger/carte-education.png" alt="Carte de l'éducation au Niger" style="width:100%; border-radius:8px; margin-top:10px;">
+    -->
+    <p style="font-size: 0.75em; color: #888;">🔄 Carte à venir</p>
   </div>
 
+  <!-- Carte 4 : Santé (à venir) -->
   <div style="background: #fdf0f0; padding: 15px; border-radius: 10px; border: 1px solid #DC3545; text-align: center;">
     <span style="font-size: 2em;">🏥</span>
     <h4>Santé</h4>
     <p style="font-size: 0.85em; color: #555;">Accès aux soins, indicateurs de santé maternelle et infantile</p>
-    <p style="font-size: 0.75em; color: #888;">Espace pour cartes R</p>
+    <!-- 
+      🔜 Carte à venir : remplacer ci-dessous par :
+      <img src="/assets/images/niger/carte-sante.png" alt="Carte de la santé au Niger" style="width:100%; border-radius:8px; margin-top:10px;">
+    -->
+    <p style="font-size: 0.75em; color: #888;">🔄 Carte à venir</p>
   </div>
 
 </div>
@@ -86,32 +104,52 @@ Le Niger est un pays de contrastes et d'opportunités. Avec une population jeune
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
 
+  <!-- Carte 5 : Climat (à venir) -->
   <div style="background: #f0f8ff; padding: 15px; border-radius: 10px; border: 1px solid #17A2B8; text-align: center;">
     <span style="font-size: 2em;">🌡️</span>
     <h4>Climat et Sécheresse</h4>
     <p style="font-size: 0.85em; color: #555;">Évolution des précipitations, stress hydrique, zones arides</p>
-    <p style="font-size: 0.75em; color: #888;">Espace pour cartes R</p>
+    <!-- 
+      🔜 Carte à venir : remplacer ci-dessous par :
+      <img src="/assets/images/niger/carte-climat.png" alt="Carte climatique du Niger" style="width:100%; border-radius:8px; margin-top:10px;">
+    -->
+    <p style="font-size: 0.75em; color: #888;">🔄 Carte à venir</p>
   </div>
 
+  <!-- Carte 6 : Agriculture (à venir) -->
   <div style="background: #f0faf4; padding: 15px; border-radius: 10px; border: 1px solid #20C997; text-align: center;">
     <span style="font-size: 2em;">🌾</span>
     <h4>Agriculture</h4>
     <p style="font-size: 0.85em; color: #555;">Zones agricoles, production, vulnérabilité alimentaire</p>
-    <p style="font-size: 0.75em; color: #888;">Espace pour cartes R</p>
+    <!-- 
+      🔜 Carte à venir : remplacer ci-dessous par :
+      <img src="/assets/images/niger/carte-agriculture.png" alt="Carte agricole du Niger" style="width:100%; border-radius:8px; margin-top:10px;">
+    -->
+    <p style="font-size: 0.75em; color: #888;">🔄 Carte à venir</p>
   </div>
 
+  <!-- Carte 7 : Désertification (à venir) -->
   <div style="background: #fdf4f0; padding: 15px; border-radius: 10px; border: 1px solid #FD7E14; text-align: center;">
     <span style="font-size: 2em;">🏜️</span>
     <h4>Désertification</h4>
     <p style="font-size: 0.85em; color: #555;">Avancée du désert, dégradation des terres, zones à risque</p>
-    <p style="font-size: 0.75em; color: #888;">Espace pour cartes R</p>
+    <!-- 
+      🔜 Carte à venir : remplacer ci-dessous par :
+      <img src="/assets/images/niger/carte-desertification.png" alt="Carte de la désertification au Niger" style="width:100%; border-radius:8px; margin-top:10px;">
+    -->
+    <p style="font-size: 0.75em; color: #888;">🔄 Carte à venir</p>
   </div>
 
+  <!-- Carte 8 : Eau (à venir) -->
   <div style="background: #f4f0f8; padding: 15px; border-radius: 10px; border: 1px solid #6F42C1; text-align: center;">
     <span style="font-size: 2em;">💧</span>
     <h4>Ressources en Eau</h4>
     <p style="font-size: 0.85em; color: #555;">Cours d'eau, nappes phréatiques, accès à l'eau potable</p>
-    <p style="font-size: 0.75em; color: #888;">Espace pour cartes R</p>
+    <!-- 
+      🔜 Carte à venir : remplacer ci-dessous par :
+      <img src="/assets/images/niger/carte-eau.png" alt="Carte des ressources en eau au Niger" style="width:100%; border-radius:8px; margin-top:10px;">
+    -->
+    <p style="font-size: 0.75em; color: #888;">🔄 Carte à venir</p>
   </div>
 
 </div>
@@ -126,9 +164,13 @@ Le Niger est un pays de contrastes et d'opportunités. Avec une population jeune
     <p style="font-size: 0.9em; color: #555;">Indicateurs clés du développement nigérien</p>
   </div>
 
+  <!-- 
+    🔜 Dashboard à venir : remplacer le contenu ci-dessous par :
+    <img src="/assets/images/niger/dashboard-r.png" alt="Tableau de bord du Niger" style="width:100%; border-radius:8px;">
+  -->
   <div style="border: 2px dashed #007BFF; padding: 30px; border-radius: 8px; text-align: center; background: #f8f9fa;">
-    <p style="color: #888; font-size: 1.1em;">🖼️ <strong>Espace pour vos visualisations R</strong></p>
-    <p style="color: #aaa; font-size: 0.85em;">Tableaux de bord, graphiques interactifs, dashboards</p>
+    <p style="color: #888; font-size: 1.1em;">🖼️ <strong>Tableau de bord à venir</strong></p>
+    <p style="color: #aaa; font-size: 0.85em;">Visualisations R, graphiques interactifs, dashboards</p>
   </div>
 
 </div>
