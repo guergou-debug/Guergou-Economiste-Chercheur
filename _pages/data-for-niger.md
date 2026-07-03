@@ -52,14 +52,12 @@ Le Niger est un pays de contrastes et d'opportunités. Avec une population jeune
 
 ### Analyses Socio-Économiques
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
-
-  <div style="background: #f0f8ff; padding: 15px; border-radius: 10px; border: 1px solid #007BFF; text-align: center;">
-    <span style="font-size: 2em;">👥</span>
-    <h4>Démographie</h4>
-    <p style="font-size: 0.85em; color: #555;">Structure de la population, pyramide des âges, répartition urbaine/rurale</p>
-    <p style="font-size: 0.75em; color: #888;">Espace pour cartes R</p>
-  </div>
+<div style="background: #f0f8ff; padding: 15px; border-radius: 10px; border: 1px solid #007BFF; text-align: center;">
+  <span style="font-size: 2em;">👥</span>
+  <h4>Démographie</h4>
+  <p style="font-size: 0.85em; color: #555;">Structure de la population, pyramide des âges, répartition urbaine/rurale</p>
+  <img src="/assets/images/niger/carte_densite_expert.png" alt="Carte démographique du Niger" style="width:100%; border-radius:8px; margin-top:10px;">
+</div>
 
   <div style="background: #f0faf4; padding: 15px; border-radius: 10px; border: 1px solid #28A745; text-align: center;">
     <span style="font-size: 2em;">💰</span>
