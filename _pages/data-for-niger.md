@@ -54,13 +54,13 @@ Le Niger est un pays de contrastes et d'opportunités. Avec une population jeune
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
 
-  <!-- Carte 1 : Démographie -->
-  <div style="background: #f0f8ff; padding: 15px; border-radius: 10px; border: 1px solid #007BFF; text-align: center;">
-    <span style="font-size: 2em;">👥</span>
-    <h4>Démographie</h4>
-    <p style="font-size: 0.85em; color: #555;">Structure de la population, pyramide des âges, répartition urbaine/rurale</p>
-    <img src="/assets/images/niger/carte_densite_expert.png" alt="Carte démographique du Niger" style="width:100%; border-radius:8px; margin-top:10px;">
-  </div>
+ <!-- Carte 1 : Démographie -->
+<div style="background: #f0f8ff; padding: 15px; border-radius: 10px; border: 1px solid #007BFF; text-align: center;">
+  <span style="font-size: 2em;">👥</span>
+  <h4>Démographie</h4>
+  <p style="font-size: 0.85em; color: #555;">Structure de la population, pyramide des âges, répartition urbaine/rurale</p>
+  <img src="{{ site.baseurl }}/assets/images/niger/carte_densite_expert.png" alt="Carte démographique du Niger" style="width:100%; border-radius:8px; margin-top:10px;">
+</div>
 
   <!-- Carte 2 : Pauvreté (à venir) -->
   <div style="background: #f0faf4; padding: 15px; border-radius: 10px; border: 1px solid #28A745; text-align: center;">
