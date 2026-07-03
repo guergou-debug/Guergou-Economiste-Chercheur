@@ -67,8 +67,7 @@ Le Niger est un pays de contrastes et d'opportunités. Avec une population jeune
     <span style="font-size: 2em;">💰</span>
     <h4>Pauvreté et Inégalités</h4>
     <p style="font-size: 0.85em; color: #555;">Taux de pauvreté, indice de Gini, disparités régionales</p>
-    <img src="{{ site.baseurl }}/assets/images/niger/graphe_masculinite_regions.png" alt="Carte de la pauvreté auNiger" 
-  style="width:100%; border-radius:8px; margin-top:10px;">
+<img src="{{ site.baseurl }}/assets/images/niger/graphe_masculinite_regions.png" alt="Carte de la pauvreté au Niger" style="width:100%; border-radius:8px; margin-top:10px;">
   </div>
 
   <!-- Carte 3 : Éducation (à venir) -->
