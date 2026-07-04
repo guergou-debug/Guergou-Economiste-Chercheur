@@ -159,16 +159,17 @@ Le Niger est un pays de contrastes et d'opportunités. Avec une population jeune
     <span style="font-size: 2.5em; display: block; margin-bottom: 5px;">📊</span>
     <h4 style="margin: 0 0 5px 0; color: #111; font-family: serif; font-size: 1.5em;">Tableau de Bord Macroéconomique du Niger</h4>
     <p style="margin: 0 0 15px 0; font-size: 0.95em; color: #555;">Analyse interactive des indicateurs clés de développement</p>
-    <!-- Bouton Optimisation Smartphone / Plein Écran -->
-    <a href="assets/dashboards/dashboard_niger.html" 
+    <!-- Bouton avec site.baseurl -->
+    <a href="{{ site.baseurl }}/assets/dashboards/dashboard_niger.html" 
        target="_blank" 
        style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: #ffffff; text-decoration: none; border-radius: 25px; font-weight: bold; font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,123,255,0.2); transition: all 0.3s ease;">
        📱 Ouvrir en plein écran / Version Mobile ↗
     </a>
   </div>
-  <!-- Conteneur de l'Iframe -->
+
+  <!-- Conteneur de l'Iframe avec site.baseurl -->
   <div class="dashboard-container" style="margin: 0; width: 100%;">
-    <iframe src="assets/dashboards/dashboard_niger.html" 
+    <iframe src="{{ site.baseurl }}/assets/dashboards/dashboard_niger.html" 
             width="100%" 
             height="880px" 
             style="border: none; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background: #ffffff; display: block;"
