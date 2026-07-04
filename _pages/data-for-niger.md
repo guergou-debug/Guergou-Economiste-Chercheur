@@ -160,14 +160,14 @@ Le Niger est un pays de contrastes et d'opportunités. Avec une population jeune
     <p style="font-size: 0.9em; color: #555;">Indicateurs clés du développement nigérien</p>
   </div>
 
-  <!-- 
-    🔜 Dashboard à venir : remplacer le contenu ci-dessous par :
-    <img src="/assets/images/niger/dashboard-r.png" alt="Tableau de bord du Niger" style="width:100%; border-radius:8px;">
-  -->
-  <div style="border: 2px dashed #007BFF; padding: 30px; border-radius: 8px; text-align: center; background: #f8f9fa;">
-    <p style="color: #888; font-size: 1.1em;">🖼️ <strong>Tableau de bord à venir</strong></p>
-    <p style="color: #aaa; font-size: 0.85em;">Visualisations R, graphiques interactifs, dashboards</p>
-  </div>
+<div class="dashboard-container" style="margin: 2em 0;">
+  <iframe src="{{ site.baseurl }}/assets/dashboards/dashboard_niger.html" 
+          width="100%" 
+          height="850px" 
+          style="border: none; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); background: #ffffff;"
+          allowfullscreen>
+  </iframe>
+</div>
 
 </div>
 
