@@ -15,10 +15,10 @@ excerpt: " "
 ---
 
 <div style="text-align: center; margin-top: -10px;">
-  <h1 style="font-size: 3em;">GUERGOU GAGARA Abdoul-Samah</h1>
-  <p style="font-size: 1.5em; color: #00008b;">Élève Ingénieur en Économie Appliquée, Statistique & Big Data (INSEA)</p>
+  <!--<h1 style="font-size: 3em;">GUERGOU GAGARA Abdoul-Samah</h1>-->
+  <p style="font-size: 1.5em; color: #00008b;">Élève Ingénieur en fin de formation en Économie Appliquée, Statistique & Big Data (INSEA)</p>
   <p style="font-size: 1.2em; max-width: 800px; margin: 20px auto; color: #00008b;">
-    Je transforme les données en politiques publiques pour un développement inclusif.
+    j'ai travaillé sur la <strong>cartographie de la sécheresse</strong> au Maroc à l'aide de <strong>données satellitaires haute résolution(2000-2026) au sein de la direction des Etudes et des Prévisions Financières du Ministère de Finance Marocain</strong>
   </p>
 </div>
 
@@ -31,10 +31,10 @@ excerpt: " "
       Élève ingénieur à l'INSEA, je développe une approche rigoureuse et quantitative des problématiques économiques contemporaines. Ma formation articule trois dimensions essentielles : la <strong>théorie économique</strong>, la <strong>modélisation statistique</strong> et l'<strong>analyse de données à grande échelle</strong>.
     </p>
     <p style="text-align: justify;">
-      <strong>Parcours et réalisations :</strong> Actuellement en stage à la <strong>Direction des Études et des Prévisions Financières (DEPF)</strong> du Ministère de l'Économie et des Finances du Maroc, je travaille sur la <strong>cartographie de la sécheresse</strong> au Maroc à l'aide de <strong>données satellitaires haute résolution</strong>.
+     J'ai récemment éffectué un stage à la <strong>Direction des Études et des Prévisions Financières (DEPF)</strong> du Ministère de l'Économie et des Finances du Maroc, j'ai travaillé sur la <strong>cartographie de la sécheresse</strong> au Maroc à l'aide de <strong>données satellitaires haute résolution(2000-2026)</strong>.
     </p>
     <p style="text-align: justify;">
-      <strong>Certifications :</strong> Certifié par l'<strong>African Research Center (ARC)</strong> pour une école d'été en Énergies Renouvelables et Agro-innovation, certifié <strong>Deloitte Data Analytics</strong>, et en cours de certification <strong>DataCamp - Machine Learning</strong>.
+     Je suis Certifié par l'<strong>African Research Center (ARC)</strong> pour une école d'été en Énergies Renouvelables et Agro-innovation, certifié <strong>Deloitte Data Analytics</strong>, et en cours de la préstigieuse certification <strong>DataCamp - Chercheur en Machine Learning</strong>.
     </p>
     <p style="text-align: justify;">
       Mon objectif est de produire des analyses quantitatives solides au service de politiques publiques efficaces, inclusives et basées sur l'évidence empirique.
@@ -52,9 +52,6 @@ excerpt: " "
       <li style="margin-bottom: 10px;">📊 <strong>Statistique et Big Data</strong> pour le développement durable</li>
       <li style="margin-bottom: 10px;">🛰️ <strong>Télédétection et SIG</strong> pour l'analyse des dynamiques territoriales</li>
     </ul>
-    <p style="font-style: italic; color: #00008b; margin-top: 20px;">
-      “Ma démarche repose sur l’exploitation rigoureuse des données”
-    </p>
   </div>
 
   <!-- Bloc 3 : Compétences Techniques -->
