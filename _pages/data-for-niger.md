@@ -75,6 +75,20 @@ Le Niger est un pays de contrastes et d'opportunités. Avec une population jeune
 </div>
 ---
 
+#### 🌾Une application pour l'agriculture : DataForNiger AGRI-AI — Suivi Agro-Hydrologique & Nowcasting
+
+<div markdown="1" style="background: #f4fbf7; padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #008751;">
+
+**Objectif :** Évaluer le bilan agro-hydrologique en temps réel et prédire le stress des cultures à $t+1$ mois sur les périmètres irrigués du Niger.
+
+**Données :** Séries temporelles satellitaires multi-sources 2020–2025 (MODIS pour la biomasse et l'évapotranspiration, CHIRPS pour la pluviométrie).
+
+**Approche :** Traitement géospatial sur Google Earth Engine, réduction dimensionnelle par ACP (Indice Composite Sécheresse) et modélisation prédictive par Random Forest.
+
+**Démo :** [🚀 Lancer l'application interactive](https://asamahgagara.users.earthengine.app/view/data-for-niger-drought-expert)
+
+</div>
+
 ## 📚 Projets Structurants en cours de développement
 
 ### Volet Économique
