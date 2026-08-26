@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.6
 ---
 
-> *"Raconter le Niger par le Big Data : transformer les données en politiques publiques pour un développement inclusif."*
+> *"Transformer les données en politiques publiques pour un développement inclusif."*
 
 ---
 
