@@ -1,7 +1,7 @@
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 # Site Settings
 locale                   : "fr-FR"
-title                    : "Guergou Gagara - Économiste & Data Scientist"
+title                    : "Abdoul-Samah - Économiste & Data Scientist"
 name                     : "GUERGOU GAGARA Abdoul-Samah"
 description              : "Élève Ingénieur en Économie Appliquée, Statistique & Big Data"
 url                      : "https://guergou-debug.github.io"
