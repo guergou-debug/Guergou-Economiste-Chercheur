@@ -52,7 +52,7 @@ Le Niger est un pays de contrastes et d'opportunités. Avec une population jeune
   <!-- En-tête du Bloc -->
   <div style="text-align: center; margin-bottom: 20px;">
     <span style="font-size: 2.5em; display: block; margin-bottom: 5px;">📊</span>
-    <h4 style="margin: 0 0 5px 0; color: #111; font-family: serif; font-size: 1.5em;">Tableau de Bord Macroéconomique du Niger</h4>
+    <h4 style="margin: 0 0 5px 0; color: #111; font-family: serif; font-size: 1.5em;">Tableau de Bord Macroéconomique e social du Niger</h4>
     <p style="margin: 0 0 15px 0; font-size: 0.95em; color: #555;">Analyse interactive des indicateurs clés de développement</p>
     <!-- Bouton avec site.baseurl -->
     <a href="{{ site.baseurl }}/assets/dashboards/dashboard_niger.html" 
@@ -75,11 +75,11 @@ Le Niger est un pays de contrastes et d'opportunités. Avec une population jeune
 </div>
 ---
 
-#### 🌾Une application pour l'agriculture : DataForNiger AGRI-AI — Suivi Agro-Hydrologique & Nowcasting
+#### 🌾Une application pour l'agriculture : DataForNiger AGRI-AI pour le Suivi Agro-Hydrologique 
 
 <div markdown="1" style="background: #f4fbf7; padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #008751;">
 
-**Objectif :** Évaluer le bilan agro-hydrologique en temps réel et prédire le stress des cultures à $t+1$ mois sur les périmètres irrigués du Niger.
+**Objectif :** Évaluer le bilan agro-hydrologique en temps réel et prédire le stress des cultures sur les périmètres irrigués du Niger.
 
 **Données :** Séries temporelles satellitaires multi-sources 2020–2025 (MODIS pour la biomasse et l'évapotranspiration, CHIRPS pour la pluviométrie).
 
@@ -173,7 +173,7 @@ Le Niger est un pays de contrastes et d'opportunités. Avec une population jeune
 
 ---
 
-#### 📱 Projet T2 : Analyse de l'Opinion de la Jeunesse Connectée
+#### 📱 Projet : Analyse de l'Opinion de la Jeunesse Connectée
 
 <div markdown="1" style="background: #fdf4f0; padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #E74C3C;">
 
