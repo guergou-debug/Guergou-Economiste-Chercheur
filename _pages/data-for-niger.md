@@ -16,7 +16,7 @@ header:
 
 Le Niger est un pays de contrastes et d'opportunités. Avec une population jeune, une richesse en ressources naturelles et un potentiel agricole immense, le pays fait face à des défis structurels que la data science peut aider à résoudre.
 
-**Mon engagement** : Utiliser la Big Data, l'économétrie, la télédétection et l'intelligence artificielle pour éclairer les politiques publiques et contribuer au développement économique du Niger.
+**Mon engagement** : Utiliser la science de données dans toutes ses dimensions (Big Data, économétrie, télédétection ,intelligence artificielle...) pour contribuer à élaborer des politiques publiques éfficaces.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin: 30px 0;">
 
@@ -26,12 +26,7 @@ Le Niger est un pays de contrastes et d'opportunités. Avec une population jeune
     <p style="font-size: 0.9em; color: #333;">Analyse de données massives pour des insights uniques</p>
   </div>
 
-  <div style="background: #f0faf4; padding: 20px; border-radius: 10px; text-align: center; border: 1px solid #28A745;">
-    <span style="font-size: 2em;">🔬</span>
-    <h4>Text Mining</h4>
-    <p style="font-size: 0.9em; color: #333;">Extraction de connaissances à partir de textes</p>
-  </div>
-
+ 
   <div style="background: #fdf4f0; padding: 20px; border-radius: 10px; text-align: center; border: 1px solid #FD7E14;">
     <span style="font-size: 2em;">📈</span>
     <h4>Politiques publiques</h4>
@@ -49,106 +44,6 @@ Le Niger est un pays de contrastes et d'opportunités. Avec une population jeune
 ---
 
 ## 🗺️ Niger par les Données
-
-### Analyses Socio-Économiques
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
-
- <!-- Carte 1 : Démographie -->
-<div style="background: #f0f8ff; padding: 15px; border-radius: 10px; border: 1px solid #007BFF; text-align: center;">
-  <span style="font-size: 2em;">👥</span>
-  <h4>Démographie</h4>
-  <p style="font-size: 0.85em; color: #555;">Structure de la population, pyramide des âges, répartition urbaine/rurale</p>
-  <img src="{{ site.baseurl }}/assets/images/niger/carte_densite_expert.png" alt="Carte démographique du Niger" style="width:100%; border-radius:8px; margin-top:10px;">
-</div>
-
-  <!-- Carte 2 : Pauvreté (à venir) -->
-  <div style="background: #f0faf4; padding: 15px; border-radius: 10px; border: 1px solid #28A745; text-align: center;">
-    <span style="font-size: 2em;">💰</span>
-    <h4>Pauvreté et Inégalités</h4>
-    <p style="font-size: 0.85em; color: #555;">Taux de pauvreté, indice de Gini, disparités régionales</p>
-<img src="{{ site.baseurl }}/assets/images/niger/graphe_masculinite_regions.png" alt="Carte de la pauvreté au Niger" style="width:100%; border-radius:8px; margin-top:10px;">
-  </div>
-
-  <!-- Carte 3 : Éducation (à venir) -->
-  <div style="background: #fdf4f0; padding: 15px; border-radius: 10px; border: 1px solid #FD7E14; text-align: center;">
-    <span style="font-size: 2em;">🏫</span>
-    <h4>Éducation</h4>
-    <p style="font-size: 0.85em; color: #555;">Taux de scolarisation, alphabétisation, accès à l'éducation par région</p>
-    <!-- 
-      🔜 Carte à venir : remplacer ci-dessous par :
-      <img src="/assets/images/niger/carte-education.png" alt="Carte de l'éducation au Niger" style="width:100%; border-radius:8px; margin-top:10px;">
-    -->
-    <p style="font-size: 0.75em; color: #888;">🔄 Carte à venir</p>
-  </div>
-
-  <!-- Carte 4 : Santé (à venir) -->
-  <div style="background: #fdf0f0; padding: 15px; border-radius: 10px; border: 1px solid #DC3545; text-align: center;">
-    <span style="font-size: 2em;">🏥</span>
-    <h4>Santé</h4>
-    <p style="font-size: 0.85em; color: #555;">Accès aux soins, indicateurs de santé maternelle et infantile</p>
-    <!-- 
-      🔜 Carte à venir : remplacer ci-dessous par :
-      <img src="/assets/images/niger/carte-sante.png" alt="Carte de la santé au Niger" style="width:100%; border-radius:8px; margin-top:10px;">
-    -->
-    <p style="font-size: 0.75em; color: #888;">🔄 Carte à venir</p>
-  </div>
-
-</div>
-
-### Analyses Environnementales et Climatiques
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
-
-  <!-- Carte 5 : Climat (à venir) -->
-  <div style="background: #f0f8ff; padding: 15px; border-radius: 10px; border: 1px solid #17A2B8; text-align: center;">
-    <span style="font-size: 2em;">🌡️</span>
-    <h4>Climat et Sécheresse</h4>
-    <p style="font-size: 0.85em; color: #555;">Évolution des précipitations, stress hydrique, zones arides</p>
-    <!-- 
-      🔜 Carte à venir : remplacer ci-dessous par :
-      <img src="/assets/images/niger/carte-climat.png" alt="Carte climatique du Niger" style="width:100%; border-radius:8px; margin-top:10px;">
-    -->
-    <p style="font-size: 0.75em; color: #888;">🔄 Carte à venir</p>
-  </div>
-
-  <!-- Carte 6 : Agriculture (à venir) -->
-  <div style="background: #f0faf4; padding: 15px; border-radius: 10px; border: 1px solid #20C997; text-align: center;">
-    <span style="font-size: 2em;">🌾</span>
-    <h4>Agriculture</h4>
-    <p style="font-size: 0.85em; color: #555;">Zones agricoles, production, vulnérabilité alimentaire</p>
-    <!-- 
-      🔜 Carte à venir : remplacer ci-dessous par :
-      <img src="/assets/images/niger/carte-agriculture.png" alt="Carte agricole du Niger" style="width:100%; border-radius:8px; margin-top:10px;">
-    -->
-    <p style="font-size: 0.75em; color: #888;">🔄 Carte à venir</p>
-  </div>
-
-  <!-- Carte 7 : Désertification (à venir) -->
-  <div style="background: #fdf4f0; padding: 15px; border-radius: 10px; border: 1px solid #FD7E14; text-align: center;">
-    <span style="font-size: 2em;">🏜️</span>
-    <h4>Désertification</h4>
-    <p style="font-size: 0.85em; color: #555;">Avancée du désert, dégradation des terres, zones à risque</p>
-    <!-- 
-      🔜 Carte à venir : remplacer ci-dessous par :
-      <img src="/assets/images/niger/carte-desertification.png" alt="Carte de la désertification au Niger" style="width:100%; border-radius:8px; margin-top:10px;">
-    -->
-    <p style="font-size: 0.75em; color: #888;">🔄 Carte à venir</p>
-  </div>
-
-  <!-- Carte 8 : Eau (à venir) -->
-  <div style="background: #f4f0f8; padding: 15px; border-radius: 10px; border: 1px solid #6F42C1; text-align: center;">
-    <span style="font-size: 2em;">💧</span>
-    <h4>Ressources en Eau</h4>
-    <p style="font-size: 0.85em; color: #555;">Cours d'eau, nappes phréatiques, accès à l'eau potable</p>
-    <!-- 
-      🔜 Carte à venir : remplacer ci-dessous par :
-      <img src="/assets/images/niger/carte-eau.png" alt="Carte des ressources en eau au Niger" style="width:100%; border-radius:8px; margin-top:10px;">
-    -->
-    <p style="font-size: 0.75em; color: #888;">🔄 Carte à venir</p>
-  </div>
-
-</div>
 
 ### Tableaux de Bord Interactifs
 
@@ -180,13 +75,13 @@ Le Niger est un pays de contrastes et d'opportunités. Avec une population jeune
 </div>
 ---
 
-## 📚 Projets Structurants
+## 📚 Projets Structurants en cours de développement
 
 ### Volet Économique
 
 ---
 
-#### 📊 Projet E1 : Baromètre des Sentiments Économiques
+#### 📊 Projet 1 : Baromètre des Sentiments Économiques
 
 <div markdown="1" style="background: #f0f8ff; padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #007BFF;">
 
@@ -200,7 +95,7 @@ Le Niger est un pays de contrastes et d'opportunités. Avec une population jeune
 
 ---
 
-#### 🏢 Projet E2 : Typologie de l'Écosystème Entrepreneurial
+#### 🏢 Projet 2 : Typologie de l'Écosystème Entrepreneurial
 
 <div markdown="1" style="background: #f0faf4; padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #28A745;">
 
@@ -214,7 +109,7 @@ Le Niger est un pays de contrastes et d'opportunités. Avec une population jeune
 
 ---
 
-#### 🌍 Projet E3 : Alignement Discursif — Bailleurs vs Réalités Locales
+#### 🌍 Projet 3 : Alignement Discursif : Bailleurs vs Réalités Locales
 
 <div markdown="1" style="background: #fdf4f0; padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #FD7E14;">
 
@@ -232,7 +127,7 @@ Le Niger est un pays de contrastes et d'opportunités. Avec une population jeune
 
 ---
 
-#### 🎓 Projet ED1 : Diagnostic des Blocages du Système Éducatif
+#### 🎓 Projet 1 : Diagnostic des Blocages du Système Éducatif
 
 <div markdown="1" style="background: #fdf0f0; padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #DC3545;">
 
@@ -246,7 +141,7 @@ Le Niger est un pays de contrastes et d'opportunités. Avec une population jeune
 
 ---
 
-#### 📚 Projet ED2 : Analyse des Besoins d'Apprentissage
+#### 📚 Projet 2 : Analyse des Besoins d'Apprentissage
 
 <div markdown="1" style="background: #f4f0f8; padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #6F42C1;">
 
@@ -264,20 +159,6 @@ Le Niger est un pays de contrastes et d'opportunités. Avec une population jeune
 
 ---
 
-#### 🗺️ Projet T1 : Cartographie des Disparités Régionales
-
-<div markdown="1" style="background: #f0faf4; padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #20C997;">
-
-**Objectif :** Modéliser la spécialisation économique et les vulnérabilités des 8 régions du Niger.
-
-**Données :** Corpus de presse nationale et rapports de développement étiquetés géographiquement.
-
-**Approche :** Analyse textuelle géographique et AFC croisée.
-
-</div>
-
----
-
 #### 📱 Projet T2 : Analyse de l'Opinion de la Jeunesse Connectée
 
 <div markdown="1" style="background: #fdf4f0; padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #E74C3C;">
@@ -292,9 +173,8 @@ Le Niger est un pays de contrastes et d'opportunités. Avec une population jeune
 
 ---
 
-## 🔗 Ressources et téléchargements
+## 🔗 Ressources 
 
-- 📄 [Catalogue complet des projets](/assets/documents/Niger_and_Big_Data_By_A_SAMAH.pdf)
 - 🔗 [Tous les projets sur GitHub](https://github.com/guergou-debug)
 
 ---
@@ -305,4 +185,4 @@ Le Niger est un pays de contrastes et d'opportunités. Avec une population jeune
 
 ---
 
-*"Le Niger n'est pas seulement un pays de défis, c'est un pays d'opportunités. La data science nous donne les outils pour les révéler."*
+*"Le Niger n'est pas seulement un pays de défis, c'est un pays d'opportunités. La data science nous donne les outils pour les révéler, si nous voulons en faire usage."*
