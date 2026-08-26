@@ -84,7 +84,7 @@ excerpt: " "
 
 <div style="text-align: center; margin-top: 40px; border-top: 1px solid #444; padding-top: 30px;">
   <p style="color: #888;">
-    Basé à Rabat, Maroc | <a href="mailto:asguergougagara@insea.ac.ma" style="color: #00BFFF;">asguergougagara@insea.ac.ma</a>
+    <a href="mailto:asguergougagara@insea.ac.ma" style="color: #00BFFF;">asguergougagara@insea.ac.ma</a>
   </p>
   <p style="color: #888; font-size: 0.9em;">
     <a href="https://www.linkedin.com/in/abdoul-samah-guergou-gagara-9a2905328/" target="_blank" style="color: #00BFFF;">LinkedIn</a> |
