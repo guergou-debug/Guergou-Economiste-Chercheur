@@ -22,8 +22,8 @@ Le Niger est un pays de contrastes et d'opportunités. Avec une population jeune
 
   <div style="background: #f0f4f8; padding: 20px; border-radius: 10px; text-align: center; border: 1px solid #007BFF;">
     <span style="font-size: 2em;">📊</span>
-    <h4>Big Data</h4>
-    <p style="font-size: 0.9em; color: #333;">Analyse de données massives pour des insights uniques</p>
+    <h4>Data Science</h4>
+    <p style="font-size: 0.9em; color: #333;">Fouetter les données pour faire émerger des insights uniques</p>
   </div>
 
  
