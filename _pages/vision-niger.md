@@ -1,241 +1,202 @@
 ---
-title: "Vision pour le Niger"
-permalink: /vision-niger/
+title: "Bénévolat - Cours SVT Terminale D"
+permalink: /benevolat/
 layout: single
 author_profile: true
 header:
-  overlay_image: /assets/images/data-for-niger.png
+  overlay_image: /assets/images/benevolat-banner.jpg
   overlay_filter: 0.7
+  caption: "Transmettre le savoir pour un avenir meilleur"
 ---
 
-> *"Le Niger n'est pas seulement un pays de défis, c'est un pays d'opportunités. Mon ambition est d'utiliser la science des données pour révéler ces opportunités et contribuer à sa transformation structurelle."*
+> *"L'éducation est l'arme la plus puissante pour changer le monde." — Nelson Mandela*
 
 ---
 
-## 🇳🇪 Mon engagement pour le Niger
+## 📚 Mon engagement pour l'éducation au Niger
 
-Je suis né au Niger, un pays riche de sa diversité, de sa culture et de son potentiel. Comme beaucoup de mes compatriotes, je porte en moi l'ambition de contribuer à son développement. Ma formation à l'INSEA et ma passion pour les données m'ont donné les outils pour transformer cette ambition en action concrète.
+Je suis **Abdoul-Samah GUERGOU GAGARA**, ancien élève de la **Série D** au **Lycée d'Excellence de Niamey**, où j'ai obtenu mon **Baccalauréat Scientifique** avec la **Mention Très Bien** et le **Prix d'Excellence du Niger** en 2022.
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 30px 0;">
+Aujourd'hui, je suis élève ingénieur à l'INSEA, et je souhaite redonner ce que j'ai reçu. C'est dans cet esprit que je dispense bénévolement des **cours de Sciences de la Vie et de la Terre (SVT)** pour les élèves de **Terminale D** au Niger, dans le cadre de la plateforme éducative :
 
-  <div markdown="1" style="background: #f0f8ff; padding: 25px; border-radius: 10px; text-align: center; border: 1px solid #007BFF;">
-  <span style="font-size: 2.5em;">📊</span>
+<div style="text-align: center; margin: 20px 0;">
+  <a href="https://www.tarbiyya-online.com" target="_blank" style="background: #28A745; color: white; padding: 15px 40px; border-radius: 30px; text-decoration: none; font-size: 1.2em; display: inline-block;">
+    🌐 www.tarbiyya-online.com
+  </a>
+</div>
 
-  **Données pour l'action**
+---
 
-  Transformer les données en politiques publiques efficaces
+## 🎯 Objectif de cette page
+
+Cette page est dédiée aux élèves de **Terminale D** qui préparent leur examen du Baccalauréat. Vous y trouverez :
+
+- 📖 **Des cours complets** en SVT conformes au programme nigérien
+- 📝 **Des Travaux Dirigés (TD)** pour s'entraîner
+- 📊 **Des ressources supplémentaires** pour approfondir
+
+Tous les documents sont **téléchargeables gratuitement**.
+
+---
+
+## 📖 Programme de SVT - Terminale D
+
+### Chapitres du cours
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 15px; margin: 25px 0;">
+
+  <!-- Chapitre 1 -->
+  <div style="background: #f0f8ff; padding: 15px; border-radius: 10px; border-left: 4px solid #007BFF;">
+    <h4 style="color: #007BFF; margin: 0;">📘 Chapitre 1</h4>
+    <p style="font-size: 0.95em; font-weight: bold; margin: 5px 0;">Les enzymes</p>
+    <p style="font-size: 0.85em; color: #555;">Structure, fonctionnement, cinétique enzymatique et facteurs influençant l'activité enzymatique.</p>
+    <div style="margin-top: 10px;">
+      <a href="/assets/documents/svt/chapitre1-cours.pdf" style="background: #007BFF; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block; margin-right: 5px;">📥 Cours</a>
+      <a href="/assets/documents/svt/chapitre1-td.pdf" style="background: #28A745; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block; margin-right: 5px;">📝 TD</a>
+      <a href="/assets/documents/svt/chapitre1-ressources.pdf" style="background: #FD7E14; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block;">📊 Ressources</a>
+    </div>
   </div>
 
-  <div markdown="1" style="background: #f0faf4; padding: 25px; border-radius: 10px; text-align: center; border: 1px solid #28A745;">
-  <span style="font-size: 2.5em;">🎓</span>
-
-  **Éducation pour tous**
-
-  Contribuer à un système éducatif inclusif et performant
+  <!-- Chapitre 2 -->
+  <div style="background: #f0faf4; padding: 15px; border-radius: 10px; border-left: 4px solid #28A745;">
+    <h4 style="color: #28A745; margin: 0;">📘 Chapitre 2</h4>
+    <p style="font-size: 0.95em; font-weight: bold; margin: 5px 0;">La photosynthèse</p>
+    <p style="font-size: 0.85em; color: #555;">Réactions photochimiques et biochimiques, facteurs influençant la photosynthèse.</p>
+    <div style="margin-top: 10px;">
+      <a href="/assets/documents/svt/chapitre2-cours.pdf" style="background: #007BFF; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block; margin-right: 5px;">📥 Cours</a>
+      <a href="/assets/documents/svt/chapitre2-td.pdf" style="background: #28A745; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block; margin-right: 5px;">📝 TD</a>
+      <a href="/assets/documents/svt/chapitre2-ressources.pdf" style="background: #FD7E14; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block;">📊 Ressources</a>
+    </div>
   </div>
 
-  <div markdown="1" style="background: #fdf4f0; padding: 25px; border-radius: 10px; text-align: center; border: 1px solid #FD7E14;">
-  <span style="font-size: 2.5em;">💼</span>
+  <!-- Chapitre 3 -->
+  <div style="background: #fdf4f0; padding: 15px; border-radius: 10px; border-left: 4px solid #FD7E14;">
+    <h4 style="color: #FD7E14; margin: 0;">📘 Chapitre 3</h4>
+    <p style="font-size: 0.95em; font-weight: bold; margin: 5px 0;">La respiration cellulaire</p>
+    <p style="font-size: 0.85em; color: #555;">Glycolyse, cycle de Krebs, chaîne respiratoire, bilan énergétique.</p>
+    <div style="margin-top: 10px;">
+      <a href="/assets/documents/svt/chapitre3-cours.pdf" style="background: #007BFF; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block; margin-right: 5px;">📥 Cours</a>
+      <a href="/assets/documents/svt/chapitre3-td.pdf" style="background: #28A745; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block; margin-right: 5px;">📝 TD</a>
+      <a href="/assets/documents/svt/chapitre3-ressources.pdf" style="background: #FD7E14; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block;">📊 Ressources</a>
+    </div>
+  </div>
 
-  **Emploi et entrepreneuriat**
+  <!-- Chapitre 4 -->
+  <div style="background: #fdf0f0; padding: 15px; border-radius: 10px; border-left: 4px solid #DC3545;">
+    <h4 style="color: #DC3545; margin: 0;">📘 Chapitre 4</h4>
+    <p style="font-size: 0.95em; font-weight: bold; margin: 5px 0;">La génétique</p>
+    <p style="font-size: 0.85em; color: #555;">Hérédité, gènes, allèles, lois de Mendel, génétique des populations.</p>
+    <div style="margin-top: 10px;">
+      <a href="/assets/documents/svt/chapitre4-cours.pdf" style="background: #007BFF; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block; margin-right: 5px;">📥 Cours</a>
+      <a href="/assets/documents/svt/chapitre4-td.pdf" style="background: #28A745; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block; margin-right: 5px;">📝 TD</a>
+      <a href="/assets/documents/svt/chapitre4-ressources.pdf" style="background: #FD7E14; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block;">📊 Ressources</a>
+    </div>
+  </div>
 
-  Créer les conditions d'une économie dynamique et inclusive
+  <!-- Chapitre 5 -->
+  <div style="background: #f4f0f8; padding: 15px; border-radius: 10px; border-left: 4px solid #6F42C1;">
+    <h4 style="color: #6F42C1; margin: 0;">📘 Chapitre 5</h4>
+    <p style="font-size: 0.95em; font-weight: bold; margin: 5px 0;">L'immunologie</p>
+    <p style="font-size: 0.85em; color: #555;">Système immunitaire, réponses immunitaires, vaccination, sida.</p>
+    <div style="margin-top: 10px;">
+      <a href="/assets/documents/svt/chapitre5-cours.pdf" style="background: #007BFF; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block; margin-right: 5px;">📥 Cours</a>
+      <a href="/assets/documents/svt/chapitre5-td.pdf" style="background: #28A745; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block; margin-right: 5px;">📝 TD</a>
+      <a href="/assets/documents/svt/chapitre5-ressources.pdf" style="background: #FD7E14; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block;">📊 Ressources</a>
+    </div>
+  </div>
+
+  <!-- Chapitre 6 -->
+  <div style="background: #f0f8ff; padding: 15px; border-radius: 10px; border-left: 4px solid #17A2B8;">
+    <h4 style="color: #17A2B8; margin: 0;">📘 Chapitre 6</h4>
+    <p style="font-size: 0.95em; font-weight: bold; margin: 5px 0;">La neurophysiologie</p>
+    <p style="font-size: 0.85em; color: #555;">Système nerveux, neurone, influx nerveux, synapses, réflexe.</p>
+    <div style="margin-top: 10px;">
+      <a href="/assets/documents/svt/chapitre6-cours.pdf" style="background: #007BFF; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block; margin-right: 5px;">📥 Cours</a>
+      <a href="/assets/documents/svt/chapitre6-td.pdf" style="background: #28A745; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block; margin-right: 5px;">📝 TD</a>
+      <a href="/assets/documents/svt/chapitre6-ressources.pdf" style="background: #FD7E14; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block;">📊 Ressources</a>
+    </div>
+  </div>
+
+  <!-- Chapitre 7 -->
+  <div style="background: #f0faf4; padding: 15px; border-radius: 10px; border-left: 4px solid #20C997;">
+    <h4 style="color: #20C997; margin: 0;">📘 Chapitre 7</h4>
+    <p style="font-size: 0.95em; font-weight: bold; margin: 5px 0;">L'écologie</p>
+    <p style="font-size: 0.85em; color: #555;">Écosystèmes, relations trophiques, cycles biogéochimiques, dynamique des populations.</p>
+    <div style="margin-top: 10px;">
+      <a href="/assets/documents/svt/chapitre7-cours.pdf" style="background: #007BFF; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block; margin-right: 5px;">📥 Cours</a>
+      <a href="/assets/documents/svt/chapitre7-td.pdf" style="background: #28A745; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block; margin-right: 5px;">📝 TD</a>
+      <a href="/assets/documents/svt/chapitre7-ressources.pdf" style="background: #FD7E14; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block;">📊 Ressources</a>
+    </div>
+  </div>
+
+  <!-- Chapitre 8 -->
+  <div style="background: #fdf4f0; padding: 15px; border-radius: 10px; border-left: 4px solid #FD7E14;">
+    <h4 style="color: #FD7E14; margin: 0;">📘 Chapitre 8</h4>
+    <p style="font-size: 0.95em; font-weight: bold; margin: 5px 0;">La géologie</p>
+    <p style="font-size: 0.85em; color: #555;">Structure de la Terre, tectonique des plaques, séismes, volcanisme.</p>
+    <div style="margin-top: 10px;">
+      <a href="/assets/documents/svt/chapitre8-cours.pdf" style="background: #007BFF; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block; margin-right: 5px;">📥 Cours</a>
+      <a href="/assets/documents/svt/chapitre8-td.pdf" style="background: #28A745; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block; margin-right: 5px;">📝 TD</a>
+      <a href="/assets/documents/svt/chapitre8-ressources.pdf" style="background: #FD7E14; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block;">📊 Ressources</a>
+    </div>
   </div>
 
 </div>
 
 ---
 
-## 🎯 Mes ambitions pour le Niger
+## 📂 Ressources supplémentaires
 
-### 1. Une économie basée sur les données
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 20px 0;">
 
-Le Niger dispose d'un potentiel économique immense, mais il manque souvent d'informations fiables et d'analyses quantitatives pour guider les décisions. Mon ambition est de contribuer à la création d'un **écosystème de données** qui permette :
-
-- 📈 **Suivi en temps réel** des indicateurs économiques
-- 🔍 **Évaluation rigoureuse** des politiques publiques
-- 📊 **Prévisions économiques** pour anticiper les crises
-- 🎯 **Ciblage précis** des interventions de développement
-
-### 2. Une éducation de qualité pour tous
-
-L'éducation est la clé du développement. Le Niger a besoin d'un système éducatif qui forme une jeunesse compétente, créative et engagée. Je souhaite contribuer à :
-
-- 🏫 **Améliorer la qualité** de l'enseignement
-- 🎓 **Réduire les inégalités** d'accès à l'éducation
-- 💻 **Intégrer les technologies** dans l'apprentissage
-- 📚 **Adapter les programmes** aux besoins du marché du travail
-
-### 3. Un entrepreneuriat dynamique et inclusif
-
-Les jeunes Nigériens sont créatifs, entreprenants et déterminés. Ils ont besoin d'un environnement favorable pour transformer leurs idées en entreprises prospères. Je veux contribuer à :
-
-- 🌱 **Faciliter l'accès au financement** pour les PME
-- 🤝 **Créer des réseaux** d'entrepreneurs et d'innovateurs
-- 📊 **Identifier les secteurs porteurs** d'investissement
-- 🌍 **Connecter les entrepreneurs nigériens** aux marchés internationaux
-
-### 4. Une gouvernance transparente et efficace
-
-La bonne gouvernance est essentielle pour le développement. Les données peuvent jouer un rôle clé dans la transparence et l'efficacité de l'action publique. Mon ambition est de :
-
-- 📊 **Développer des outils** de suivi et d'évaluation
-- 🔍 **Promouvoir la transparence** dans la gestion des ressources
-- 🎯 **Évaluer l'impact** des politiques publiques
-- 🤝 **Renforcer la participation** citoyenne
-
----
-
-## 🚀 Projets concrets pour le Niger
-
-### À court terme (2026-2028)
-
-<div markdown="1" style="background: #f0f8ff; padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #007BFF;">
-
-**🔹 Baromètre des Sentiments Économiques du Niger**
-
-Développement d'un indice en temps réel de la confiance économique à partir de l'analyse des médias et des réseaux sociaux.
-
-**🔹 Diagnostic du Système Éducatif Nigérien**
-
-Modélisation des blocages structurels de l'éducation au Niger à partir des rapports d'inspection et des données administratives.
-
-**🔹 Cartographie des Disparités Régionales**
-
-Analyse spatiale des inégalités économiques et sociales entre les 8 régions du Niger.
-
-</div>
-
-### À moyen terme (2028-2030)
-
-<div markdown="1" style="background: #f0faf4; padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #28A745;">
-
-**🔹 Observatoire National de l'Économie**
-
-Création d'un centre de recherche et d'analyse économique pour le Niger.
-
-**🔹 Plateforme d'Innovation et d'Entrepreneuriat**
-
-Accompagnement des start-ups et PME nigériennes dans leur développement.
-
-**🔹 Programme de Bourses d'Excellence**
-
-Soutien aux étudiants nigériens pour des formations d'excellence en économie et data science.
-
-</div>
-
-### À long terme (2030-2040)
-
-<div markdown="1" style="background: #fdf4f0; padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #FD7E14;">
-
-**🔹 Think Tank pour le Développement du Niger**
-
-Création d'un institut de recherche indépendant pour éclairer les politiques publiques.
-
-**🔹 Fondation pour l'Éducation et l'Innovation**
-
-Soutien à l'éducation et à l'innovation au Niger.
-
-**🔹 Réseau des Experts Nigériens**
-
-Mise en réseau des compétences nigériennes à travers le monde pour contribuer au développement du pays.
-
-</div>
-
----
-
-## 💡 Ce que je propose
-
-### Pour les institutions publiques
-
-- 📊 **Évaluation des politiques publiques** : Méthodes quantitatives pour mesurer l'impact des programmes gouvernementaux
-- 📈 **Systèmes d'information** : Conception et mise en place de bases de données et de tableaux de bord
-- 🎯 **Conseil stratégique** : Orientation des politiques économiques basée sur les données
-
-### Pour les organisations internationales
-
-- 🔍 **Recherche et analyse** : Études approfondies sur les enjeux de développement au Niger
-- 📊 **Suivi et évaluation** : Conception et mise en œuvre de systèmes de suivi-évaluation
-- 🤝 **Renforcement des capacités** : Formation des acteurs locaux aux méthodes quantitatives
-
-### Pour le secteur privé
-
-- 📈 **Études de marché** : Analyses approfondies des opportunités d'investissement
-- 💼 **Conseil en stratégie** : Accompagnement des entreprises dans leur développement
-- 📊 **Data science appliquée** : Solutions sur mesure pour les entreprises nigériennes
-
----
-
-## 🌟 Ma vision pour le Niger en 2040
-
-<div markdown="1" style="background: #f0f8ff; padding: 25px; border-radius: 10px; margin: 30px 0; text-align: center; border: 2px solid #007BFF;">
-
-> *"En 2040, le Niger est un pays où les décisions sont guidées par les données, où la jeunesse est formée aux métiers d'avenir, où l'entrepreneuriat est florissant, et où la gouvernance est transparente et efficace."*
-
-</div>
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin: 30px 0;">
-
-  <div markdown="1" style="background: #f0f8ff; padding: 15px; border-radius: 10px; text-align: center; border: 1px solid #007BFF;">
-  <span style="font-size: 2em;">📊</span>
-
-  Politiques publiques
-
-  **Basées sur les données**
+  <div style="background: #f0f8ff; padding: 15px; border-radius: 10px; text-align: center; border: 1px solid #007BFF;">
+    <span style="font-size: 2em;">📝</span>
+    <h4>Annales Bac SVT</h4>
+    <p style="font-size: 0.8em; color: #555;">Sujets corrigés des années précédentes</p>
+    <a href="/assets/documents/svt/annales-bac-svt.pdf" style="background: #007BFF; color: white; padding: 5px 15px; border-radius: 12px; text-decoration: none; font-size: 0.8em; display: inline-block; margin-top: 5px;">📥 Télécharger</a>
   </div>
 
-  <div markdown="1" style="background: #f0faf4; padding: 15px; border-radius: 10px; text-align: center; border: 1px solid #28A745;">
-  <span style="font-size: 2em;">🎓</span>
-
-  Système éducatif
-
-  **D'excellence et inclusif**
+  <div style="background: #f0faf4; padding: 15px; border-radius: 10px; text-align: center; border: 1px solid #28A745;">
+    <span style="font-size: 2em;">📖</span>
+    <h4>Fiches de révision</h4>
+    <p style="font-size: 0.8em; color: #555;">Synthèses par chapitre pour réviser efficacement</p>
+    <a href="/assets/documents/svt/fiches-revision-svt.pdf" style="background: #28A745; color: white; padding: 5px 15px; border-radius: 12px; text-decoration: none; font-size: 0.8em; display: inline-block; margin-top: 5px;">📥 Télécharger</a>
   </div>
 
-  <div markdown="1" style="background: #fdf4f0; padding: 15px; border-radius: 10px; text-align: center; border: 1px solid #FD7E14;">
-  <span style="font-size: 2em;">💼</span>
-
-  Économie
-
-  **Dynamique et diversifiée**
-  </div>
-
-  <div markdown="1" style="background: #fdf0f0; padding: 15px; border-radius: 10px; text-align: center; border: 1px solid #DC3545;">
-  <span style="font-size: 2em;">🌍</span>
-
-  Niger
-
-  **Modèle de développement**
+  <div style="background: #fdf4f0; padding: 15px; border-radius: 10px; text-align: center; border: 1px solid #FD7E14;">
+    <span style="font-size: 2em;">🔗</span>
+    <h4>Liens utiles</h4>
+    <p style="font-size: 0.8em; color: #555;">Ressources en ligne pour approfondir</p>
+    <a href="https://www.tarbiyya-online.com" target="_blank" style="background: #FD7E14; color: white; padding: 5px 15px; border-radius: 12px; text-decoration: none; font-size: 0.8em; display: inline-block; margin-top: 5px;">🌐 Visiter Tarbiyya</a>
   </div>
 
 </div>
 
 ---
 
-## 📬 Rejoignez-moi dans cette aventure
+## 📬 Suivez les cours en direct
 
-Je suis convaincu que le développement du Niger est l'affaire de tous. Que vous soyez :
+Les cours sont dispensés en direct sur la plateforme **Tarbiyya Online**. Rejoignez la communauté :
 
-- 🏛️ **Décideur public** : Ensemble, construisons des politiques efficaces
-- 📚 **Chercheur** : Collaborons pour produire des connaissances utiles
-- 💼 **Entrepreneur** : Créons ensemble des entreprises prospères
-- 🎓 **Étudiant** : Travaillons pour notre avenir commun
-- 🌍 **Citoyen engagé** : Participez à la transformation de notre pays
-
-**Contactez-moi** : [asguergougagara@insea.ac.ma](mailto:asguergougagara@insea.ac.ma)
+<div style="text-align: center; margin: 20px 0;">
+  <a href="https://www.tarbiyya-online.com" target="_blank" style="background: #007BFF; color: white; padding: 12px 35px; border-radius: 25px; text-decoration: none; display: inline-block; font-size: 1.1em;">
+    🌐 Rejoindre les cours sur Tarbiyya Online
+  </a>
+</div>
 
 ---
 
-## 🔗 Ressources
+## 💬 Contact pour les élèves
 
-- 📄 [Mon projet Data for Niger](/data-for-niger/)
-- 📄 [Mon parcours académique](/formation/)
-- 📄 [Mes projets de recherche](/projets-academiques/)
+Pour toute question sur les cours ou les TD :
+
+**Email** : [asguergougagara@insea.ac.ma](mailto:asguergougagara@insea.ac.ma)
 
 ---
 
-*"Le Niger a besoin de toutes ses filles et de tous ses fils pour construire son avenir. Je suis prêt à apporter ma pierre à l'édifice."*
+*"Le savoir est la seule richesse qui s'accroît quand on la partage."*
 
 **GUERGOU GAGARA Abdoul-Samah**  
-*Élève Ingénieur - INSEA*  
-*Ambassadeur du Niger par les Données*
+*Ancien élève de la Série D - Lycée d'Excellence de Niamey*  
+*Baccalauréat 2022 - Mention Très Bien - Prix d'Excellence du Niger*  
+*Élève Ingénieur - INSEA*
