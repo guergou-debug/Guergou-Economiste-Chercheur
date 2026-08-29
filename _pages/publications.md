@@ -9,45 +9,11 @@ author_profile: true
 
 ---
 
-## 📚 Publications en préparation
+## 📚 Ouvrage en cours
 
-### Ouvrages à venir
+<div style="display: grid; grid-template-columns: 1fr; max-width: 700px; margin: 30px auto;">
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 30px; margin: 30px 0;">
-
-  <div markdown="1" style="background: #f0f8ff; padding: 25px; border-radius: 10px; border: 1px solid #007BFF; text-align: center;">
-
-  <span style="font-size: 3em;">📖</span>
-
-  **Le Big Data au Service du Sahel**
-
-  *Analyse de données pour le développement de la région sahélienne*
-
-  **Description :** Cet ouvrage explore comment les données massives et les techniques d'analyse de textes peuvent éclairer les politiques publiques au Sahel, avec un focus sur le Niger.
-
-  **Avancement :** 🔄 En cours de rédaction
-
-  **Date prévue :** 2027
-
-  </div>
-
-  <div markdown="1" style="background: #f0faf4; padding: 25px; border-radius: 10px; border: 1px solid #28A745; text-align: center;">
-
-  <span style="font-size: 3em;">📘</span>
-
-  **Économétrie Appliquée aux Pays en Développement**
-
-  *Méthodes et applications pratiques*
-
-  **Description :** Un manuel pratique d'économétrie appliquée avec des cas d'étude spécifiques aux pays d'Afrique subsaharienne.
-
-  **Avancement :** 🔄 Phase de recherche
-
-  **Date prévue :** 2028
-
-  </div>
-
-  <div markdown="1" style="background: #fdf0f0; padding: 25px; border-radius: 10px; border: 1px solid #DC3545; text-align: center;">
+  <div markdown="1" style="background: #fdf0f0; padding: 30px; border-radius: 12px; border: 1px solid #DC3545; text-align: center; box-shadow: 0 2px 8px rgba(0,0,0,0.06);">
 
   <span style="font-size: 3em;">📕</span>
 
@@ -67,126 +33,47 @@ author_profile: true
 
 ---
 
-### Rapports de recherche
+## 📄 Rapports de recherche
 
-<div markdown="1" style="background: #f0f8ff; padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #007BFF;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 20px; margin: 25px 0;">
 
-#### 📊 Évaluation de la qualité des eaux souterraines - Vallée Feija
+  <!-- Rapport DEPF -->
+  <div style="background: #ffffff; padding: 25px; border-radius: 12px; border: 1px solid #0050B3; box-shadow: 0 2px 8px rgba(0,0,0,0.06);">
 
-**Approche multi-contaminants**
+    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 8px;">
+      <span style="background: #0050B3; color: white; padding: 3px 12px; border-radius: 12px; font-size: 0.7em; font-weight: bold;">Rapport</span>
+      <span style="color: #888; font-size: 0.8em;">2026</span>
+    </div>
 
-*Cabinet d'expertise en données statistiques et décisionnelles, Casablanca*
+    <h4 style="color: #0050B3; margin: 0 0 8px 0;">Cartographie de la sévérité de la sécheresse au Maroc</h4>
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap; margin: 10px 0;">
-  <span style="background: #007BFF; padding: 4px 12px; border-radius: 15px; color: white; font-size: 0.75em;">Rapport technique</span>
-  <span style="background: #28A745; padding: 4px 12px; border-radius: 15px; color: white; font-size: 0.75em;">Analyse de données</span>
-  <span style="background: #17A2B8; padding: 4px 12px; border-radius: 15px; color: white; font-size: 0.75em;">Environnement</span>
-</div>
+    <p style="color: #444; font-size: 0.92em; line-height: 1.5; margin: 0 0 12px 0;">
+      Stage à la Direction des Études et des Prévisions Financières (DEPF) — Ministère de l'Économie et des Finances du Maroc.
+    </p>
 
-**Résumé :** Étude approfondie de la qualité des eaux souterraines dans la vallée Feija, utilisant une approche multi-contaminants pour évaluer les risques environnementaux et sanitaires.
-
-**Méthodologie :** Collecte de données, structuration, analyse statistique, rapport technique
-
-</div>
-
----
-
-### Notes de synthèse
-
-<div markdown="1" style="background: #f0faf4; padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #28A745;">
-
-#### 📈 Analyse des indicateurs socio-économiques du Niger
-
-*Stage à l'Institut National de la Statistique du Niger*
-
-<div style="display: flex; gap: 10px; flex-wrap: wrap; margin: 10px 0;">
-  <span style="background: #FD7E14; padding: 4px 12px; border-radius: 15px; color: white; font-size: 0.75em;">Note de synthèse</span>
-  <span style="background: #6F42C1; padding: 4px 12px; border-radius: 15px; color: white; font-size: 0.75em;">Statistiques officielles</span>
-  <span style="background: #DC3545; padding: 4px 12px; border-radius: 15px; color: white; font-size: 0.75em;">Politiques publiques</span>
-</div>
-
-**Résumé :** Synthèse des principaux indicateurs socio-économiques du Niger, avec recommandations pour les politiques publiques.
-
-</div>
-
----
-
-## 📄 Articles et working papers
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 30px 0;">
-
-  <div markdown="1" style="background: #f0f8ff; padding: 20px; border-radius: 10px; border: 1px solid #007BFF;">
-
-  **🔹 Working Paper 1**
-
-  **Baromètre des Sentiments Économiques**
-
-  Analyse textuelle pour le suivi de la confiance économique au Niger
-
-  État : 🔄 En cours
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; padding-top: 12px; border-top: 1px solid #eee;">
+      <a href="/assets/documents/Rapport_Stage_DEPF_VFinale.pdf" style="background: #0050B3; color: white; padding: 6px 18px; border-radius: 15px; text-decoration: none; font-size: 0.8em;">📥 Télécharger</a>
+    </div>
 
   </div>
 
-  <div markdown="1" style="background: #f0faf4; padding: 20px; border-radius: 10px; border: 1px solid #28A745;">
+  <!-- PFE à venir -->
+  <div style="background: #ffffff; padding: 25px; border-radius: 12px; border: 1px dashed #FD7E14; box-shadow: 0 2px 8px rgba(0,0,0,0.06);">
 
-  **🔹 Working Paper 2**
+    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 8px;">
+      <span style="background: #FD7E14; color: white; padding: 3px 12px; border-radius: 12px; font-size: 0.7em; font-weight: bold;">PFE</span>
+      <span style="color: #888; font-size: 0.8em;">🔜 À venir</span>
+    </div>
 
-  **Évaluation des Politiques Éducatives**
+    <h4 style="color: #FD7E14; margin: 0 0 8px 0;">Projet de Fin d'Études (PFE)</h4>
 
-  Analyse d'impact des réformes éducatives au Sahel
+    <p style="color: #444; font-size: 0.92em; line-height: 1.5; margin: 0 0 12px 0;">
+      Thèse d'ingénieur en économie appliquée — Sujet en cours de définition.
+    </p>
 
-  État : 🔄 En préparation
-
-  </div>
-
-</div>
-
----
-
-## 🎓 Thèses et mémoires
-
-<div markdown="1" style="background: #fdf4f0; padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #FD7E14;">
-
-#### 📊 Projet de Fin d'Études (PFE) - INSEA
-
-**Analyse des Déterminants des Investissements Directs Étrangers au Maroc**
-
-**Méthodologie :** Séries temporelles, cointégration, modélisation VECM
-
-**Résultats :** Identification des facteurs clés influençant les IDE au Maroc
-
-<div style="display: flex; gap: 10px; margin-top: 10px; flex-wrap: wrap;">
-  <span style="background: #306998; padding: 4px 12px; border-radius: 15px; color: white; font-size: 0.75em;">R</span>
-  <span style="background: #276DC3; padding: 4px 12px; border-radius: 15px; color: white; font-size: 0.75em;">EViews</span>
-  <span style="background: #333; padding: 4px 12px; border-radius: 15px; color: white; font-size: 0.75em;">LaTeX</span>
-</div>
-
-</div>
-
----
-
-## 📂 Téléchargements
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 30px 0;">
-
-  <div markdown="1" style="background: #f0f8ff; padding: 15px; border-radius: 10px; text-align: center; border: 1px solid #007BFF;">
-
-  **📄 Rapport Vallée Feija**
-
-  Rapport technique
-
-  🔜 Disponible bientôt
-
-  </div>
-
-
-  <div markdown="1" style="background: #fdf4f0; padding: 15px; border-radius: 10px; text-align: center; border: 1px solid #FD7E14;">
-
-  **📄 Rapport Approche Genre**
-
-  Comptabilité nationale
-
-  📥 [Télécharger](/assets/documents/rapport-genre.pdf)
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; padding-top: 12px; border-top: 1px solid #eee;">
+      <span style="background: #e9ecef; color: #888; padding: 6px 18px; border-radius: 15px; font-size: 0.8em;">📄 PDF à venir</span>
+    </div>
 
   </div>
 
@@ -198,7 +85,7 @@ author_profile: true
 
 Je suis ouvert à des propositions de :
 
-- 📖 **Co-écriture d'ouvrages** sur l'économie et les données en Afrique
+- 📖 **Co-écriture d'ouvrages** sur l'éducation et le développement en Afrique
 - 📄 **Articles pour des revues** académiques et professionnelles
 - 📊 **Études et rapports** pour des institutions
 - 🎓 **Thèses et mémoires** en collaboration
