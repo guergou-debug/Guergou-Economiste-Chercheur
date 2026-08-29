@@ -25,8 +25,8 @@ Voici une sélection de mes projets en économétrie, data science et analyse de
   </p>
 
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="/assets/documents/rapport-ide.pdf" style="background: #007BFF; color: white; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">📥 Télécharger le rapport</a>
-    <a href="https://github.com/guergou-debug/ide-maroc" target="_blank" style="background: #f0f4f8; color: #333; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">🐙 Voir le projet sur GitHub</a>
+    <a href="https://github.com/guergou-debug/Projets-Academiques-/blob/main/Econom%C3%A9trie/Rapport%20Analyse%20des%20determinants%20IDE%20MRC.pdf" style="background: #007BFF; color: white; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">📥 Télécharger le rapport</a>
+    <a href="https://github.com/guergou-debug/Projets-Academiques-/tree/main/Econom%C3%A9trie" target="_blank" style="background: #f0f4f8; color: #333; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">🐙 Voir le projet sur GitHub</a>
   </div>
 
 </div>
@@ -49,8 +49,8 @@ Voici une sélection de mes projets en économétrie, data science et analyse de
   </p>
 
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="/assets/documents/rapport-titanic.pdf" style="background: #DC3545; color: white; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">📥 Télécharger le rapport</a>
-    <a href="https://github.com/guergou-debug/titanic-survival" target="_blank" style="background: #fdf0f0; color: #333; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">🐙 Voir le projet sur GitHub</a>
+    <a href="https://github.com/guergou-debug/Projets-Academiques-/blob/main/GLM/Rapport%20Analyse%20de%20Survie%20TITANIC.pdf" style="background: #DC3545; color: white; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">📥 Télécharger le rapport</a>
+    <a href="https://github.com/guergou-debug/Projets-Academiques-/tree/main/GLM" target="_blank" style="background: #fdf0f0; color: #333; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">🐙 Voir le projet sur GitHub</a>
   </div>
 
 </div>
@@ -73,8 +73,8 @@ Voici une sélection de mes projets en économétrie, data science et analyse de
   </p>
 
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="/assets/documents/rapport-scolaire.pdf" style="background: #28A745; color: white; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">📥 Télécharger le rapport</a>
-    <a href="https://github.com/guergou-debug/gestion-scolaire" target="_blank" style="background: #f0faf4; color: #333; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">🐙 Voir le projet sur GitHub</a>
+    <a href="https://github.com/guergou-debug/Projets-Academiques-/tree/main/Application%20de%20g%C3%A9neration%20automatis%C3%A9e%20de%20bulletins%20Scolaire" style="background: #28A745; color: white; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">📥 Télécharger le rapport</a>
+    <a href="https://github.com/guergou-debug/Projets-Academiques-/tree/main/Application%20de%20g%C3%A9neration%20automatis%C3%A9e%20de%20bulletins%20Scolaire" target="_blank" style="background: #f0faf4; color: #333; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">🐙 Voir le projet sur GitHub</a>
   </div>
 
 </div>
@@ -90,7 +90,7 @@ Voici une sélection de mes projets en économétrie, data science et analyse de
     🐙 Tous mes projets, codes sources et ressources sont disponibles sur GitHub
   </p>
 
-  <a href="https://github.com/guergou-debug" target="_blank" style="background: #333; color: white; padding: 12px 35px; border-radius: 25px; text-decoration: none; display: inline-block; font-size: 1em;">
+  <a href="https://github.com/guergou-debug/Projets-Academiques-" target="_blank" style="background: #333; color: white; padding: 12px 35px; border-radius: 25px; text-decoration: none; display: inline-block; font-size: 1em;">
     🔗 Voir tous les projets sur GitHub
   </a>
 
