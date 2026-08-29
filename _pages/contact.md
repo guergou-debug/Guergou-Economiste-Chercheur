@@ -120,13 +120,6 @@ author_profile: true
     </div>
   </a>
 
-  <a href="/assets/documents/Niger_and_Big_Data_By_A_SAMAH.pdf" style="text-decoration: none;">
-    <div style="background: #f8f9fa; padding: 15px 20px; border-radius: 10px; text-align: center; border: 1px solid #dee2e6; transition: all 0.2s;">
-      <span style="font-size: 1.5em;">📄</span>
-      <p style="color: #333; font-size: 0.9em; margin: 5px 0 0 0; font-weight: 500;">Projet Data for Niger - Catalogue complet</p>
-    </div>
-  </a>
-
 </div>
 
 ---
