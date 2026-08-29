@@ -143,7 +143,7 @@ La filière **Économie Appliquée, Statistique & Big Data** incarne cette visio
 </table>
 
 <div style="text-align: center; margin: 10px 0 30px 0;">
-  <a href="LIEN_DRIVE_S1" style="background: #007BFF; color: white; padding: 10px 25px; border-radius: 20px; text-decoration: none; display: inline-block;">📥 Demander l'accès aux cours - S1</a>
+  <a href="https://drive.google.com/drive/folders/15PFI-e-Z4WuUdaQ_epvGVTX4TtEhCDXh?usp=drive_link" style="background: #007BFF; color: white; padding: 10px 25px; border-radius: 20px; text-decoration: none; display: inline-block;">📥 Demander l'accès aux cours - S1</a>
 </div>
 
 ### 📗 Semestre 2
@@ -166,7 +166,7 @@ La filière **Économie Appliquée, Statistique & Big Data** incarne cette visio
 </table>
 
 <div style="text-align: center; margin: 10px 0 30px 0;">
-  <a href="LIEN_DRIVE_S2" style="background: #28A745; color: white; padding: 10px 25px; border-radius: 20px; text-decoration: none; display: inline-block;">📥 Demander l'accès aux cours - S2</a>
+  <a href="https://drive.google.com/drive/folders/1VNF3A4Cbfy441xCp0EUzjOSOHMJjAcxt?usp=drive_link" style="background: #28A745; color: white; padding: 10px 25px; border-radius: 20px; text-decoration: none; display: inline-block;">📥 Demander l'accès aux cours - S2</a>
 </div>
 
 ### 📙 Semestre 3
@@ -187,7 +187,7 @@ La filière **Économie Appliquée, Statistique & Big Data** incarne cette visio
 </table>
 
 <div style="text-align: center; margin: 10px 0 30px 0;">
-  <a href="LIEN_DRIVE_S3" style="background: #FD7E14; color: white; padding: 10px 25px; border-radius: 20px; text-decoration: none; display: inline-block;">📥 Demander l'accès aux cours - S3</a>
+  <a href="https://drive.google.com/drive/folders/1RKTrVMCt89Fre_Bj5h0WBhF3aL_kqTQ0?usp=drive_link" style="background: #FD7E14; color: white; padding: 10px 25px; border-radius: 20px; text-decoration: none; display: inline-block;">📥 Demander l'accès aux cours - S3</a>
 </div>
 
 ### 📕 Semestre 4
@@ -209,7 +209,7 @@ La filière **Économie Appliquée, Statistique & Big Data** incarne cette visio
 </table>
 
 <div style="text-align: center; margin: 10px 0 30px 0;">
-  <a href="LIEN_DRIVE_S4" style="background: #DC3545; color: white; padding: 10px 25px; border-radius: 20px; text-decoration: none; display: inline-block;">📥 Demander l'accès aux cours - S4</a>
+  <a href="https://drive.google.com/drive/folders/1DTAXm7bGsnkMt3H_8pgGmbLjlETTyxc8?usp=drive_link" style="background: #DC3545; color: white; padding: 10px 25px; border-radius: 20px; text-decoration: none; display: inline-block;">📥 Demander l'accès aux cours - S4</a>
 </div>
 
 ### 📒 Semestre 5
@@ -305,21 +305,15 @@ La filière **Économie Appliquée, Statistique & Big Data** incarne cette visio
   <span style="font-size: 2em;">📚</span>
   <h4 style="color: #007BFF; margin: 10px 0;">Supports de cours</h4>
   <p style="font-size: 0.85em; color: #555;">Accéder aux slides et TD</p>
-  <a href="LIEN_DRIVE_COURS" style="background: #007BFF; color: white; padding: 8px 20px; border-radius: 15px; text-decoration: none; display: inline-block; margin-top: 10px; font-size: 0.85em;">📥 Demander l'accès</a>
+  <a href="https://drive.google.com/drive/folders/1gRlp2T7kfpjllzxlsR5z6DBm_q_kl_M6?usp=drive_link" style="background: #007BFF; color: white; padding: 8px 20px; border-radius: 15px; text-decoration: none; display: inline-block; margin-top: 10px; font-size: 0.85em;">📥 Demander l'accès</a>
 </div>
 
-<div style="background: #f0faf4; padding: 20px; border-radius: 10px; text-align: center; border: 1px solid #28A745;">
-  <span style="font-size: 2em;">📝</span>
-  <h4 style="color: #28A745; margin: 10px 0;">Notes de synthèse</h4>
-  <p style="font-size: 0.85em; color: #555;">Résumés et fiches de révision</p>
-  <a href="LIEN_DRIVE_NOTES" style="background: #28A745; color: white; padding: 8px 20px; border-radius: 15px; text-decoration: none; display: inline-block; margin-top: 10px; font-size: 0.85em;">📥 Demander l'accès</a>
-</div>
 
 <div style="background: #fdf4f0; padding: 20px; border-radius: 10px; text-align: center; border: 1px solid #FD7E14;">
   <span style="font-size: 2em;">📖</span>
   <h4 style="color: #FD7E14; margin: 10px 0;">Bibliographie</h4>
   <p style="font-size: 0.85em; color: #555;">Ouvrages et articles recommandés</p>
-  <a href="LIEN_DRIVE_BIBLIO" style="background: #FD7E14; color: white; padding: 8px 20px; border-radius: 15px; text-decoration: none; display: inline-block; margin-top: 10px; font-size: 0.85em;">📥 Demander l'accès</a>
+  <a href="https://drive.google.com/drive/folders/1gRlp2T7kfpjllzxlsR5z6DBm_q_kl_M6?usp=drive_link" style="background: #FD7E14; color: white; padding: 8px 20px; border-radius: 15px; text-decoration: none; display: inline-block; margin-top: 10px; font-size: 0.85em;">📥 Demander l'accès</a>
 </div>
 
 </div>
