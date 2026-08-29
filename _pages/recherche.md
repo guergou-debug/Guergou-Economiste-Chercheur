@@ -8,10 +8,6 @@ header:
   overlay_filter: 0.6
 ---
 
-> *"Ma démarche scientifique repose sur la conviction que les modèles économiques doivent être confrontés aux données réelles pour éclairer les politiques publiques."*
-
----
-
 ## 🎯 Mon projet doctoral
 
 Je prépare activement ma candidature pour un **doctorat en économie** dans une université de premier plan, avec pour objectif de contribuer à la recherche en économie du développement et en économétrie appliquée aux pays en développement.
@@ -55,7 +51,7 @@ Je prépare activement ma candidature pour un **doctorat en économie** dans une
   <div markdown="1" style="background: #f0faf4; padding: 20px; border-radius: 10px; border-left: 4px solid #20C997;">
   **🏛️ Évaluation des politiques**
 
-  Méthodes causales (DID, RDD, IV) pour l'évaluation d'impact
+  Méthodes causales  pour l'évaluation d'impact
   </div>
 
 </div>
