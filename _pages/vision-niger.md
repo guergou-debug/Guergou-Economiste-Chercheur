@@ -9,13 +9,13 @@ header:
   caption: "Transmettre le savoir pour un avenir meilleur"
 ---
 
-> *"L'éducation est l'arme la plus puissante pour changer le monde." — Nelson Mandela*
+> *"Le savoir est la seule richesse qui s'accroît quand on la partage."*
 
 ---
 
 ## 🎓 Mon engagement pour l'éducation au Niger
 
-Je suis **Abdoul-Samah GUERGOU GAGARA**, ancien élève de la **Série D** au **Lycée d'Excellence de Niamey**, où j'ai obtenu mon **Baccalauréat Scientifique** avec la **Mention Très Bien** et le **Prix d'Excellence du Niger** en 2022.
+Je suis **Abdoul-Samah GUERGOU GAGARA**, ancien élève de la **Série D** au **Lycée d'Excellence de Niamey**, où j'ai obtenu mon **Baccalauréat** avec la **Mention Très Bien** et le **Prix d'Excellence du Niger** en 2022.
 
 Aujourd'hui élève ingénieur à l'INSEA, je dispense bénévolement des **cours de Sciences de la Vie et de la Terre (SVT)** pour les élèves de **Terminale D** à travers la plateforme éducative nigérienne :
 
@@ -465,18 +465,6 @@ Aujourd'hui élève ingénieur à l'INSEA, je dispense bénévolement des **cour
 
 ---
 
-## 🔗 Rejoignez les cours en ligne
-
-Tous les cours sont dispensés en direct sur **Tarbiyya Online**. Inscrivez-vous et rejoignez la communauté !
-
-<div style="text-align: center; margin: 25px 0;">
-  <a href="https://www.tarbiyya-online.com" target="_blank" style="background: #007BFF; color: white; padding: 14px 45px; border-radius: 30px; text-decoration: none; font-size: 1.15em; display: inline-block;">
-    🌐 Rejoindre Tarbiyya Online
-  </a>
-</div>
-
----
-
 ## 📬 Contact
 
 Pour toute question relative aux cours, exercices ou ressources :
@@ -491,10 +479,3 @@ Pour toute question relative aux cours, exercices ou ressources :
 </div>
 
 ---
-
-*"Le savoir est la seule richesse qui s'accroît quand on la partage."*
-
-**GUERGOU GAGARA Abdoul-Samah**  
-*Ancien élève de la Série D - Lycée d'Excellence de Niamey*  
-*Baccalauréat 2022 - Mention Très Bien - Prix d'Excellence du Niger*  
-*Élève Ingénieur - INSEA*
