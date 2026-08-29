@@ -53,34 +53,34 @@ author_profile: true
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin: 30px 0;">
 
-  <div style="background: #1a1a2e; padding: 20px; border-radius: 10px; border-left: 4px solid #007BFF;">
+  <div style="background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 4px solid #007BFF;">
     <h4 style="margin: 0; color: #007BFF;">🔍 Rigueur analytique</h4>
-    <p style="font-size: 0.9em; color: #aaa;">Approche méthodique et précision dans l'analyse des données</p>
+    <p style="font-size: 0.9em; color: #333;">Approche méthodique et précision dans l'analyse des données</p>
   </div>
 
-  <div style="background: #1a1a2e; padding: 20px; border-radius: 10px; border-left: 4px solid #28A745;">
+  <div style="background: #f0faf4; padding: 20px; border-radius: 10px; border-left: 4px solid #28A745;">
     <h4 style="margin: 0; color: #28A745;">🧠 Esprit critique</h4>
-    <p style="font-size: 0.9em; color: #aaa;">Évaluation rigoureuse des modèles et des résultats</p>
+    <p style="font-size: 0.9em; color: #333;">Évaluation rigoureuse des modèles et des résultats</p>
   </div>
 
-  <div style="background: #1a1a2e; padding: 20px; border-radius: 10px; border-left: 4px solid #FD7E14;">
+  <div style="background: #fdf4f0; padding: 20px; border-radius: 10px; border-left: 4px solid #FD7E14;">
     <h4 style="margin: 0; color: #FD7E14;">🤝 Travail d'équipe</h4>
-    <p style="font-size: 0.9em; color: #aaa;">Collaboration efficace en environnement interdisciplinaire</p>
+    <p style="font-size: 0.9em; color: #333;">Collaboration efficace en environnement interdisciplinaire</p>
   </div>
 
-  <div style="background: #1a1a2e; padding: 20px; border-radius: 10px; border-left: 4px solid #DC3545;">
+  <div style="background: #fdf0f0; padding: 20px; border-radius: 10px; border-left: 4px solid #DC3545;">
     <h4 style="margin: 0; color: #DC3545;">📢 Communication</h4>
-    <p style="font-size: 0.9em; color: #aaa;">Traduction des résultats techniques en décisions stratégiques</p>
+    <p style="font-size: 0.9em; color: #333;">Traduction des résultats techniques en décisions stratégiques</p>
   </div>
 
-  <div style="background: #1a1a2e; padding: 20px; border-radius: 10px; border-left: 4px solid #6F42C1;">
+  <div style="background: #f4f0f8; padding: 20px; border-radius: 10px; border-left: 4px solid #6F42C1;">
     <h4 style="margin: 0; color: #6F42C1;">🚀 Autonomie</h4>
-    <p style="font-size: 0.9em; color: #aaa;">Capacité à mener des projets de manière indépendante</p>
+    <p style="font-size: 0.9em; color: #333;">Capacité à mener des projets de manière indépendante</p>
   </div>
 
-  <div style="background: #1a1a2e; padding: 20px; border-radius: 10px; border-left: 4px solid #20C997;">
+  <div style="background: #f0faf4; padding: 20px; border-radius: 10px; border-left: 4px solid #20C997;">
     <h4 style="margin: 0; color: #20C997;">🌍 Curiosité intellectuelle</h4>
-    <p style="font-size: 0.9em; color: #aaa;">Veille scientifique et intérêt pour les innovations méthodologiques</p>
+    <p style="font-size: 0.9em; color: #333;">Veille scientifique et intérêt pour les innovations méthodologiques</p>
   </div>
 
 </div>
@@ -91,40 +91,101 @@ author_profile: true
 
 | Langue | Niveau |
 |--------|--------|
-| 🇫🇷 Français | Courant  |
+| 🇫🇷 Français | Courant |
 | 🇬🇧 Anglais | Académique (Lecture, écriture, communication) |
-
 
 ---
 
 ## 📜 Certifications
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 15px; margin: 20px 0;">
 
-  <div style="background: #1a1a2e; padding: 15px 20px; border-radius: 10px; border: 1px solid #333; flex: 1 1 200px;">
-    <h4 style="margin: 0; color: #007BFF;">📊 Analyse de données</h4>
-    <p style="font-size: 0.8em; color: #aaa; margin: 5px 0;">Certification en data analysis</p>
+  <!-- Certifications majeures -->
+  <div style="background: #f0f8ff; padding: 18px; border-radius: 10px; border-left: 4px solid #007BFF;">
+    <h4 style="margin: 0; color: #007BFF;">🌍 ARC Summer School 2026</h4>
+    <p style="font-size: 0.85em; color: #333; margin: 5px 0;"><strong>Agriculture & Agro-Innovation</strong></p>
+    <p style="font-size: 0.8em; color: #555;">Africa Research Center — Août 2026</p>
+    <a href="/assets/documents/certificats/ARC-Agriculture.png" target="_blank" style="color: #007BFF; text-decoration: none; font-size: 0.8em;">📄 Voir le certificat</a>
   </div>
 
-  <div style="background: #1a1a2e; padding: 15px 20px; border-radius: 10px; border: 1px solid #333; flex: 1 1 200px;">
-    <h4 style="margin: 0; color: #28A745;">📈 Programmation en R</h4>
-    <p style="font-size: 0.8em; color: #aaa; margin: 5px 0;">Certification en data science avec R</p>
+  <div style="background: #f0faf4; padding: 18px; border-radius: 10px; border-left: 4px solid #28A745;">
+    <h4 style="margin: 0; color: #28A745;">🌞 ARC Summer School 2026</h4>
+    <p style="font-size: 0.85em; color: #333; margin: 5px 0;"><strong>Énergies Renouvelables</strong></p>
+    <p style="font-size: 0.8em; color: #555;">Africa Research Center — Août 2026</p>
+    <a href="/assets/documents/certificats/ARC-Energie.png" target="_blank" style="color: #28A745; text-decoration: none; font-size: 0.8em;">📄 Voir le certificat</a>
   </div>
 
-  <div style="background: #1a1a2e; padding: 15px 20px; border-radius: 10px; border: 1px solid #333; flex: 1 1 200px;">
+  <div style="background: #fdf4f0; padding: 18px; border-radius: 10px; border-left: 4px solid #FD7E14;">
     <h4 style="margin: 0; color: #FD7E14;">💼 Deloitte Data Analytics</h4>
-    <p style="font-size: 0.8em; color: #aaa; margin: 5px 0;">Simulation Deloitte Data Analytics</p>
+    <p style="font-size: 0.85em; color: #333; margin: 5px 0;"><strong>Data Analytics Job Simulation</strong></p>
+    <p style="font-size: 0.8em; color: #555;">Deloitte — Juin 2025</p>
+    <a href="/assets/documents/certificats/Deloitte.pdf" target="_blank" style="color: #FD7E14; text-decoration: none; font-size: 0.8em;">📄 Voir le certificat</a>
   </div>
 
-  <div style="background: #1a1a2e; padding: 15px 20px; border-radius: 10px; border: 1px solid #333; flex: 1 1 200px;">
+  <div style="background: #fdf0f0; padding: 18px; border-radius: 10px; border-left: 4px solid #DC3545;">
     <h4 style="margin: 0; color: #DC3545;">📊 Tata Data Analytics</h4>
-    <p style="font-size: 0.8em; color: #aaa; margin: 5px 0;">Simulation Tata Data Analytics</p>
+    <p style="font-size: 0.85em; color: #333; margin: 5px 0;"><strong>Data Visualisation</strong></p>
+    <p style="font-size: 0.8em; color: #555;">Tata Group — Juin 2025</p>
+    <a href="/assets/documents/certificats/TATA.pdf" target="_blank" style="color: #DC3545; text-decoration: none; font-size: 0.8em;">📄 Voir le certificat</a>
+  </div>
+
+  <div style="background: #f4f0f8; padding: 18px; border-radius: 10px; border-left: 4px solid #6F42C1;">
+    <h4 style="margin: 0; color: #6F42C1;">📈 Programmation R</h4>
+    <p style="font-size: 0.85em; color: #333; margin: 5px 0;"><strong>Analyse de données avec R</strong></p>
+    <p style="font-size: 0.8em; color: #555;">Google — Coursera — Décembre 2024</p>
+    <a href="/assets/documents/certificats/Coursera-R.pdf" target="_blank" style="color: #6F42C1; text-decoration: none; font-size: 0.8em;">📄 Voir le certificat</a>
+  </div>
+
+  <div style="background: #f0f8ff; padding: 18px; border-radius: 10px; border-left: 4px solid #17A2B8;">
+    <h4 style="margin: 0; color: #17A2B8;">🕸️ Web Scraping</h4>
+    <p style="font-size: 0.85em; color: #333; margin: 5px 0;"><strong>Web Scraping in Python</strong></p>
+    <p style="font-size: 0.8em; color: #555;">DataCamp — Juillet 2026</p>
+    <a href="/assets/documents/certificats/Web_Scrapping.pdf" target="_blank" style="color: #17A2B8; text-decoration: none; font-size: 0.8em;">📄 Voir le certificat</a>
   </div>
 
 </div>
+
+### Certifications complémentaires
+
+<details style="margin: 15px 0; padding: 15px; background: #f8f9fa; border-radius: 10px;">
+  <summary style="font-weight: bold; color: #007BFF; cursor: pointer;">📂 Voir les autres certifications</summary>
+
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 10px; margin-top: 15px;">
+
+    <div style="background: white; padding: 12px; border-radius: 8px; border: 1px solid #ddd;">
+      <h5 style="margin: 0; color: #333;">📊 Data Analytics Essentials</h5>
+      <p style="font-size: 0.75em; color: #666; margin: 2px 0;">Cisco Networking Academy</p>
+      <a href="/assets/documents/certificats/Data-Analytics-Essentials.png" target="_blank" style="font-size: 0.75em; color: #007BFF;">Voir</a>
+    </div>
+
+    <div style="background: white; padding: 12px; border-radius: 8px; border: 1px solid #ddd;">
+      <h5 style="margin: 0; color: #333;">📝 Programme du Jeune Entrepreneur</h5>
+      <p style="font-size: 0.75em; color: #666; margin: 2px 0;">Cursa — Osez Innover (Nov. 2024)</p>
+      <a href="/assets/documents/certificats/Entrepreneuriat.jpg" target="_blank" style="font-size: 0.75em; color: #007BFF;">Voir</a>
+    </div>
+
+    <div style="background: white; padding: 12px; border-radius: 8px; border: 1px solid #ddd;">
+      <h5 style="margin: 0; color: #333;">📄 Word - Rédacteur Web</h5>
+      <p style="font-size: 0.75em; color: #666; margin: 2px 0;">Cursa (Nov. 2024)</p>
+      <a href="/assets/documents/certificats/Word-Format.jpg" target="_blank" style="font-size: 0.75em; color: #007BFF;">Voir</a>
+    </div>
+
+    <div style="background: white; padding: 12px; border-radius: 8px; border: 1px solid #ddd;">
+      <h5 style="margin: 0; color: #333;">🎯 10 conseils pour un CV percutant</h5>
+      <p style="font-size: 0.75em; color: #666; margin: 2px 0;">LinkedIn Learning — Déc. 2024</p>
+      <a href="/assets/documents/certificats/LinkedIn-Learning.pdf" target="_blank" style="font-size: 0.75em; color: #007BFF;">Voir</a>
+    </div>
+
+  </div>
+
+</details>
 
 ---
 
 ## 🏆 Distinctions
 
-- **Prix d'Excellence du Niger** - Baccalauréat 2022 (Dans les Top 5 National)
+<div style="background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 4px solid #FFD700;">
+  <p style="font-size: 1.05em; color: #222; margin: 0;">
+    🏅 <strong>Prix d'Excellence du Niger</strong> — Baccalauréat 2022 (Top 5 National)
+  </p>
+</div>
