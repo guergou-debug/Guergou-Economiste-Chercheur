@@ -5,17 +5,13 @@ layout: single
 author_profile: true
 ---
 
-Mon parcours professionnel combine l'analyse de données, la recherche économique et l'évaluation de politiques publiques.
-
----
-
 ## 💼 Stage d'Application
 
 **Ministère de l'Économie et des Finances du Royaume du Maroc** | Rabat, Maroc
 
 *Direction des Études et des Prévisions Financières (DEPF)*
 
-*Février 2026 – Août 2026*
+*Juin 2026 – Août 2026*
 
 <div style="background: #ffffff; padding: 25px; border-radius: 12px; margin: 15px 0; border: 1px solid #e8ecf1; box-shadow: 0 2px 8px rgba(0,0,0,0.06);">
 
@@ -46,13 +42,12 @@ Mon parcours professionnel combine l'analyse de données, la recherche économiq
       <li>Identification d'une <strong>fracture Nord/Sud</strong> marquée : le Nord résilient face au stress hydrique, les provinces du Sud et du Sud-Est structurellement vulnérables.</li>
       <li>Mise en évidence d'une <strong>rupture systémique en 2025</strong> avec une dégradation sans précédent des indicateurs de stress hydrique.</li>
       <li>Modèle de nowcasting opérationnel identifiant <strong>6 régions à risque extrême</strong> pour 2026 avec une probabilité de 100%.</li>
-      <li>Développement d'une <strong>chaîne de traitement automatisée</strong> sous Google Earth Engine et R, reproductible et transférable.</li>
     </ul>
   </div>
 
   <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 15px;">
-    <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/documents/Rapport_Stage_DEPF_VFinale.pdf" style="background: #0050B3; color: white; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">📥 Télécharger le rapport</a>
-    <a href="https://github.com/guergou-debug/cartographie-severite-secheresse-au-maroc-par-donnees-satellitaire" target="_blank" style="background: #f0f4f8; color: #333; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">🐙 Voir le projet sur GitHub</a>
+    <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/Rapport_Stage_DEPF_VFinale.pdf" style="background: #0050B3; color: white; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">📥 Télécharger le rapport</a>
+    <a href="https://github.com/guergou-debug/cartographie-severite-secheresse-au-maroc-par-donnees-satellitaires-HR" target="_blank" style="background: #f0f4f8; color: #333; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">🐙 Voir le projet sur GitHub</a>
   </div>
 
   <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 15px;">
@@ -90,7 +85,6 @@ Mon parcours professionnel combine l'analyse de données, la recherche économiq
   <ul style="margin: 0 0 15px 0; padding-left: 20px; color: #444; font-size: 0.9em; line-height: 1.7;">
     <li><strong>Analyse de données</strong> économiques pour clients institutionnels (banques, administrations, entreprises).</li>
     <li><strong>Création de dashboards interactifs</strong> avec Power BI et Tableau pour le suivi des indicateurs de performance.</li>
-    <li><strong>Étude multi-contaminants</strong> sur la qualité des eaux souterraines dans la vallée Feija : structuration des données, analyses statistiques et rédaction du rapport technique.</li>
     <li><strong>Visualisation de données</strong> pour la prise de décision stratégique.</li>
   </ul>
 
@@ -115,7 +109,7 @@ Mon parcours professionnel combine l'analyse de données, la recherche économiq
 
   <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 8px;">
     <span style="background: #E67E22; color: white; padding: 2px 12px; border-radius: 12px; font-size: 0.7em; font-weight: bold;">Bénévolat</span>
-    <span style="color: #888; font-size: 0.85em;">Depuis 2023</span>
+    <span style="color: #888; font-size: 0.85em;">Depuis 2025</span>
   </div>
 
   <h3 style="color: #E67E22; margin: 0 0 8px 0;">Plateforme éducative 100% gratuite</h3>
