@@ -13,11 +13,11 @@ header:
 
 ---
 
-## 🎓 Mon engagement pour l'éducation au Niger
+## 🎓 A propos de moi 
 
 Je suis **Abdoul-Samah GUERGOU GAGARA**, ancien élève de la **Série D** au **Lycée d'Excellence de Niamey**, où j'ai obtenu mon **Baccalauréat** avec la **Mention Très Bien** et le **Prix d'Excellence du Niger** en 2022.
 
-Aujourd'hui élève ingénieur à l'INSEA, je dispense bénévolement des **cours de Sciences de la Vie et de la Terre (SVT)** pour les élèves de **Terminale D** à travers la plateforme éducative nigérienne :
+Je dispense bénévolement des **cours de Sciences de la Vie et de la Terre (SVT)** pour les élèves de **Terminale D** pour le compte de la plateforme éducative nigérienne Tarbiyya Online :
 
 <div style="text-align: center; margin: 25px 0;">
   <a href="https://www.tarbiyya-online.com" target="_blank" style="background: #28A745; color: white; padding: 14px 45px; border-radius: 30px; text-decoration: none; font-size: 1.2em; display: inline-block;">
@@ -27,7 +27,7 @@ Aujourd'hui élève ingénieur à l'INSEA, je dispense bénévolement des **cour
 
 ---
 
-## 📖 Programme SVT - Terminale D (2026-2027)
+## 📖 Cours SVT - Terminale D (2026-2027)
 
 ### PREMIÈRE PARTIE : L'INFORMATION GÉNÉTIQUE
 
