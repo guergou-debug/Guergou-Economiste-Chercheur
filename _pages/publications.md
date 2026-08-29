@@ -21,7 +21,7 @@ author_profile: true
 
   **Avancement :** 🔄 En cours d'écriture
 
-  **Date prévue :** 2026
+  **Date prévue :** 2028
 
   </div>
 
