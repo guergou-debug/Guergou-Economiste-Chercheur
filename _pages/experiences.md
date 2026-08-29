@@ -103,7 +103,7 @@ author_profile: true
 
 **Tarbiyya Online - Plateforme Éducative Nigérienne** | Niger
 
-*Depuis 2023*
+*Depuis 2025*
 
 <div style="background: #ffffff; padding: 25px; border-radius: 12px; margin: 15px 0; border: 1px solid #f0ece8; box-shadow: 0 2px 8px rgba(0,0,0,0.06);">
 
