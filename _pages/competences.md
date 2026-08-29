@@ -127,5 +127,4 @@ author_profile: true
 
 ## 🏆 Distinctions
 
-- **Prix d'Excellence du Niger** - Baccalauréat 2022 (Mention Très Bien)
-- **Lycée d'Excellence de Niamey** - Parcours d'excellence académique
+- **Prix d'Excellence du Niger** - Baccalauréat 2022 (Dans les Top 5 National)
