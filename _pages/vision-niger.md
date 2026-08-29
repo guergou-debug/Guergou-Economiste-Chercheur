@@ -13,131 +13,57 @@ header:
 
 ---
 
-## 📚 Mon engagement pour l'éducation au Niger
+## 🎓 Mon engagement pour l'éducation au Niger
 
 Je suis **Abdoul-Samah GUERGOU GAGARA**, ancien élève de la **Série D** au **Lycée d'Excellence de Niamey**, où j'ai obtenu mon **Baccalauréat Scientifique** avec la **Mention Très Bien** et le **Prix d'Excellence du Niger** en 2022.
 
-Aujourd'hui, je suis élève ingénieur à l'INSEA, et je souhaite redonner ce que j'ai reçu. C'est dans cet esprit que je dispense bénévolement des **cours de Sciences de la Vie et de la Terre (SVT)** pour les élèves de **Terminale D** au Niger, dans le cadre de la plateforme éducative :
+Aujourd'hui élève ingénieur à l'INSEA, je dispense bénévolement des **cours de Sciences de la Vie et de la Terre (SVT)** pour les élèves de **Terminale D** à travers la plateforme éducative nigérienne :
 
-<div style="text-align: center; margin: 20px 0;">
-  <a href="https://www.tarbiyya-online.com" target="_blank" style="background: #28A745; color: white; padding: 15px 40px; border-radius: 30px; text-decoration: none; font-size: 1.2em; display: inline-block;">
+<div style="text-align: center; margin: 25px 0;">
+  <a href="https://www.tarbiyya-online.com" target="_blank" style="background: #28A745; color: white; padding: 14px 45px; border-radius: 30px; text-decoration: none; font-size: 1.2em; display: inline-block;">
     🌐 www.tarbiyya-online.com
   </a>
 </div>
 
 ---
 
-## 🎯 Objectif de cette page
+## 📖 Programme SVT - Terminale D (2026-2027)
 
-Cette page est dédiée aux élèves de **Terminale D** qui préparent leur examen du Baccalauréat. Vous y trouverez :
+### PREMIÈRE PARTIE : L'INFORMATION GÉNÉTIQUE
 
-- 📖 **Des cours complets** en SVT conformes au programme nigérien
-- 📝 **Des Travaux Dirigés (TD)** pour s'entraîner
-- 📊 **Des ressources supplémentaires** pour approfondir
+#### THÈME 1 - Le support de l'information génétique
 
-Tous les documents sont **téléchargeables gratuitement**.
+<div style="display: grid; grid-template-columns: 1fr; gap: 15px; margin: 15px 0;">
 
----
-
-## 📖 Programme de SVT - Terminale D
-
-### Chapitres du cours
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 15px; margin: 25px 0;">
-
-  <!-- Chapitre 1 -->
-  <div style="background: #f0f8ff; padding: 15px; border-radius: 10px; border-left: 4px solid #007BFF;">
-    <h4 style="color: #007BFF; margin: 0;">📘 Chapitre 1</h4>
-    <p style="font-size: 0.95em; font-weight: bold; margin: 5px 0;">Les enzymes</p>
-    <p style="font-size: 0.85em; color: #555;">Structure, fonctionnement, cinétique enzymatique et facteurs influençant l'activité enzymatique.</p>
-    <div style="margin-top: 10px;">
-      <a href="/assets/documents/svt/chapitre1-cours.pdf" style="background: #007BFF; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block; margin-right: 5px;">📥 Cours</a>
-      <a href="/assets/documents/svt/chapitre1-td.pdf" style="background: #28A745; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block; margin-right: 5px;">📝 TD</a>
-      <a href="/assets/documents/svt/chapitre1-ressources.pdf" style="background: #FD7E14; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block;">📊 Ressources</a>
+  <!-- Chapitre 1.1 -->
+  <div style="background: #f0f8ff; padding: 18px; border-radius: 10px; border-left: 5px solid #007BFF;">
+    <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+      <div>
+        <span style="background: #007BFF; color: white; padding: 2px 12px; border-radius: 12px; font-size: 0.7em; font-weight: bold;">CHAPITRE 1.1</span>
+        <h4 style="margin: 5px 0; color: #007BFF;">Notion de l'information génétique</h4>
+        <p style="font-size: 0.85em; color: #555; margin: 5px 0;">Introduction à la notion d'information génétique, son rôle et sa localisation dans la cellule.</p>
+      </div>
+      <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+        <a href="LIEN_DRIVE_CH1_1_COURS" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
+        <a href="LIEN_DRIVE_CH1_1_EXOS" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
+        <a href="LIEN_DRIVE_CH1_1_RESUME" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Résumé</a>
+      </div>
     </div>
   </div>
 
-  <!-- Chapitre 2 -->
-  <div style="background: #f0faf4; padding: 15px; border-radius: 10px; border-left: 4px solid #28A745;">
-    <h4 style="color: #28A745; margin: 0;">📘 Chapitre 2</h4>
-    <p style="font-size: 0.95em; font-weight: bold; margin: 5px 0;">La photosynthèse</p>
-    <p style="font-size: 0.85em; color: #555;">Réactions photochimiques et biochimiques, facteurs influençant la photosynthèse.</p>
-    <div style="margin-top: 10px;">
-      <a href="/assets/documents/svt/chapitre2-cours.pdf" style="background: #007BFF; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block; margin-right: 5px;">📥 Cours</a>
-      <a href="/assets/documents/svt/chapitre2-td.pdf" style="background: #28A745; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block; margin-right: 5px;">📝 TD</a>
-      <a href="/assets/documents/svt/chapitre2-ressources.pdf" style="background: #FD7E14; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block;">📊 Ressources</a>
-    </div>
-  </div>
-
-  <!-- Chapitre 3 -->
-  <div style="background: #fdf4f0; padding: 15px; border-radius: 10px; border-left: 4px solid #FD7E14;">
-    <h4 style="color: #FD7E14; margin: 0;">📘 Chapitre 3</h4>
-    <p style="font-size: 0.95em; font-weight: bold; margin: 5px 0;">La respiration cellulaire</p>
-    <p style="font-size: 0.85em; color: #555;">Glycolyse, cycle de Krebs, chaîne respiratoire, bilan énergétique.</p>
-    <div style="margin-top: 10px;">
-      <a href="/assets/documents/svt/chapitre3-cours.pdf" style="background: #007BFF; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block; margin-right: 5px;">📥 Cours</a>
-      <a href="/assets/documents/svt/chapitre3-td.pdf" style="background: #28A745; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block; margin-right: 5px;">📝 TD</a>
-      <a href="/assets/documents/svt/chapitre3-ressources.pdf" style="background: #FD7E14; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block;">📊 Ressources</a>
-    </div>
-  </div>
-
-  <!-- Chapitre 4 -->
-  <div style="background: #fdf0f0; padding: 15px; border-radius: 10px; border-left: 4px solid #DC3545;">
-    <h4 style="color: #DC3545; margin: 0;">📘 Chapitre 4</h4>
-    <p style="font-size: 0.95em; font-weight: bold; margin: 5px 0;">La génétique</p>
-    <p style="font-size: 0.85em; color: #555;">Hérédité, gènes, allèles, lois de Mendel, génétique des populations.</p>
-    <div style="margin-top: 10px;">
-      <a href="/assets/documents/svt/chapitre4-cours.pdf" style="background: #007BFF; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block; margin-right: 5px;">📥 Cours</a>
-      <a href="/assets/documents/svt/chapitre4-td.pdf" style="background: #28A745; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block; margin-right: 5px;">📝 TD</a>
-      <a href="/assets/documents/svt/chapitre4-ressources.pdf" style="background: #FD7E14; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block;">📊 Ressources</a>
-    </div>
-  </div>
-
-  <!-- Chapitre 5 -->
-  <div style="background: #f4f0f8; padding: 15px; border-radius: 10px; border-left: 4px solid #6F42C1;">
-    <h4 style="color: #6F42C1; margin: 0;">📘 Chapitre 5</h4>
-    <p style="font-size: 0.95em; font-weight: bold; margin: 5px 0;">L'immunologie</p>
-    <p style="font-size: 0.85em; color: #555;">Système immunitaire, réponses immunitaires, vaccination, sida.</p>
-    <div style="margin-top: 10px;">
-      <a href="/assets/documents/svt/chapitre5-cours.pdf" style="background: #007BFF; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block; margin-right: 5px;">📥 Cours</a>
-      <a href="/assets/documents/svt/chapitre5-td.pdf" style="background: #28A745; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block; margin-right: 5px;">📝 TD</a>
-      <a href="/assets/documents/svt/chapitre5-ressources.pdf" style="background: #FD7E14; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block;">📊 Ressources</a>
-    </div>
-  </div>
-
-  <!-- Chapitre 6 -->
-  <div style="background: #f0f8ff; padding: 15px; border-radius: 10px; border-left: 4px solid #17A2B8;">
-    <h4 style="color: #17A2B8; margin: 0;">📘 Chapitre 6</h4>
-    <p style="font-size: 0.95em; font-weight: bold; margin: 5px 0;">La neurophysiologie</p>
-    <p style="font-size: 0.85em; color: #555;">Système nerveux, neurone, influx nerveux, synapses, réflexe.</p>
-    <div style="margin-top: 10px;">
-      <a href="/assets/documents/svt/chapitre6-cours.pdf" style="background: #007BFF; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block; margin-right: 5px;">📥 Cours</a>
-      <a href="/assets/documents/svt/chapitre6-td.pdf" style="background: #28A745; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block; margin-right: 5px;">📝 TD</a>
-      <a href="/assets/documents/svt/chapitre6-ressources.pdf" style="background: #FD7E14; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block;">📊 Ressources</a>
-    </div>
-  </div>
-
-  <!-- Chapitre 7 -->
-  <div style="background: #f0faf4; padding: 15px; border-radius: 10px; border-left: 4px solid #20C997;">
-    <h4 style="color: #20C997; margin: 0;">📘 Chapitre 7</h4>
-    <p style="font-size: 0.95em; font-weight: bold; margin: 5px 0;">L'écologie</p>
-    <p style="font-size: 0.85em; color: #555;">Écosystèmes, relations trophiques, cycles biogéochimiques, dynamique des populations.</p>
-    <div style="margin-top: 10px;">
-      <a href="/assets/documents/svt/chapitre7-cours.pdf" style="background: #007BFF; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block; margin-right: 5px;">📥 Cours</a>
-      <a href="/assets/documents/svt/chapitre7-td.pdf" style="background: #28A745; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block; margin-right: 5px;">📝 TD</a>
-      <a href="/assets/documents/svt/chapitre7-ressources.pdf" style="background: #FD7E14; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block;">📊 Ressources</a>
-    </div>
-  </div>
-
-  <!-- Chapitre 8 -->
-  <div style="background: #fdf4f0; padding: 15px; border-radius: 10px; border-left: 4px solid #FD7E14;">
-    <h4 style="color: #FD7E14; margin: 0;">📘 Chapitre 8</h4>
-    <p style="font-size: 0.95em; font-weight: bold; margin: 5px 0;">La géologie</p>
-    <p style="font-size: 0.85em; color: #555;">Structure de la Terre, tectonique des plaques, séismes, volcanisme.</p>
-    <div style="margin-top: 10px;">
-      <a href="/assets/documents/svt/chapitre8-cours.pdf" style="background: #007BFF; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block; margin-right: 5px;">📥 Cours</a>
-      <a href="/assets/documents/svt/chapitre8-td.pdf" style="background: #28A745; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block; margin-right: 5px;">📝 TD</a>
-      <a href="/assets/documents/svt/chapitre8-ressources.pdf" style="background: #FD7E14; color: white; padding: 4px 12px; border-radius: 12px; text-decoration: none; font-size: 0.75em; display: inline-block;">📊 Ressources</a>
+  <!-- Chapitre 1.2 -->
+  <div style="background: #f0faf4; padding: 18px; border-radius: 10px; border-left: 5px solid #28A745;">
+    <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+      <div>
+        <span style="background: #28A745; color: white; padding: 2px 12px; border-radius: 12px; font-size: 0.7em; font-weight: bold;">CHAPITRE 1.2</span>
+        <h4 style="margin: 5px 0; color: #28A745;">Nature chimique et structure de l'information génétique</h4>
+        <p style="font-size: 0.85em; color: #555; margin: 5px 0;">La molécule d'ADN : structure, composition chimique et organisation dans le noyau.</p>
+      </div>
+      <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+        <a href="LIEN_DRIVE_CH1_2_COURS" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
+        <a href="LIEN_DRIVE_CH1_2_EXOS" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
+        <a href="LIEN_DRIVE_CH1_2_RESUME" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Résumé</a>
+      </div>
     </div>
   </div>
 
@@ -145,52 +71,424 @@ Tous les documents sont **téléchargeables gratuitement**.
 
 ---
 
-## 📂 Ressources supplémentaires
+#### THÈME 2 - La transmission de l'information génétique
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 20px 0;">
+<div style="display: grid; grid-template-columns: 1fr; gap: 15px; margin: 15px 0;">
 
-  <div style="background: #f0f8ff; padding: 15px; border-radius: 10px; text-align: center; border: 1px solid #007BFF;">
-    <span style="font-size: 2em;">📝</span>
-    <h4>Annales Bac SVT</h4>
-    <p style="font-size: 0.8em; color: #555;">Sujets corrigés des années précédentes</p>
-    <a href="/assets/documents/svt/annales-bac-svt.pdf" style="background: #007BFF; color: white; padding: 5px 15px; border-radius: 12px; text-decoration: none; font-size: 0.8em; display: inline-block; margin-top: 5px;">📥 Télécharger</a>
+  <!-- Chapitre 2.1 -->
+  <div style="background: #fdf4f0; padding: 18px; border-radius: 10px; border-left: 5px solid #FD7E14;">
+    <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+      <div>
+        <span style="background: #FD7E14; color: white; padding: 2px 12px; border-radius: 12px; font-size: 0.7em; font-weight: bold;">CHAPITRE 2.1</span>
+        <h4 style="margin: 5px 0; color: #FD7E14;">La reproduction conforme</h4>
+        <p style="font-size: 0.85em; color: #555; margin: 5px 0;">La mitose : mécanismes de division cellulaire assurant la transmission conforme du patrimoine génétique.</p>
+      </div>
+      <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+        <a href="LIEN_DRIVE_CH2_1_COURS" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
+        <a href="LIEN_DRIVE_CH2_1_EXOS" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
+        <a href="LIEN_DRIVE_CH2_1_RESUME" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Résumé</a>
+      </div>
+    </div>
   </div>
 
-  <div style="background: #f0faf4; padding: 15px; border-radius: 10px; text-align: center; border: 1px solid #28A745;">
-    <span style="font-size: 2em;">📖</span>
-    <h4>Fiches de révision</h4>
-    <p style="font-size: 0.8em; color: #555;">Synthèses par chapitre pour réviser efficacement</p>
-    <a href="/assets/documents/svt/fiches-revision-svt.pdf" style="background: #28A745; color: white; padding: 5px 15px; border-radius: 12px; text-decoration: none; font-size: 0.8em; display: inline-block; margin-top: 5px;">📥 Télécharger</a>
-  </div>
-
-  <div style="background: #fdf4f0; padding: 15px; border-radius: 10px; text-align: center; border: 1px solid #FD7E14;">
-    <span style="font-size: 2em;">🔗</span>
-    <h4>Liens utiles</h4>
-    <p style="font-size: 0.8em; color: #555;">Ressources en ligne pour approfondir</p>
-    <a href="https://www.tarbiyya-online.com" target="_blank" style="background: #FD7E14; color: white; padding: 5px 15px; border-radius: 12px; text-decoration: none; font-size: 0.8em; display: inline-block; margin-top: 5px;">🌐 Visiter Tarbiyya</a>
+  <!-- Chapitre 2.2 -->
+  <div style="background: #fdf0f0; padding: 18px; border-radius: 10px; border-left: 5px solid #DC3545;">
+    <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+      <div>
+        <span style="background: #DC3545; color: white; padding: 2px 12px; border-radius: 12px; font-size: 0.7em; font-weight: bold;">CHAPITRE 2.2</span>
+        <h4 style="margin: 5px 0; color: #DC3545;">Cycle cellulaire et évolution de la quantité d'ADN</h4>
+        <p style="font-size: 0.85em; color: #555; margin: 5px 0;">Étude du cycle cellulaire et des variations de la quantité d'ADN au cours des différentes phases.</p>
+      </div>
+      <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+        <a href="LIEN_DRIVE_CH2_2_COURS" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
+        <a href="LIEN_DRIVE_CH2_2_EXOS" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
+        <a href="LIEN_DRIVE_CH2_2_RESUME" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Résumé</a>
+      </div>
+    </div>
   </div>
 
 </div>
 
 ---
 
-## 📬 Suivez les cours en direct
+#### THÈME 3 - L'expression de l'information génétique dans la cellule
 
-Les cours sont dispensés en direct sur la plateforme **Tarbiyya Online**. Rejoignez la communauté :
+<div style="display: grid; grid-template-columns: 1fr; gap: 15px; margin: 15px 0;">
 
-<div style="text-align: center; margin: 20px 0;">
-  <a href="https://www.tarbiyya-online.com" target="_blank" style="background: #007BFF; color: white; padding: 12px 35px; border-radius: 25px; text-decoration: none; display: inline-block; font-size: 1.1em;">
-    🌐 Rejoindre les cours sur Tarbiyya Online
+  <!-- Chapitre 3.1 -->
+  <div style="background: #f4f0f8; padding: 18px; border-radius: 10px; border-left: 5px solid #6F42C1;">
+    <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+      <div>
+        <span style="background: #6F42C1; color: white; padding: 2px 12px; border-radius: 12px; font-size: 0.7em; font-weight: bold;">CHAPITRE 3.1</span>
+        <h4 style="margin: 5px 0; color: #6F42C1;">Protéines</h4>
+        <p style="font-size: 0.85em; color: #555; margin: 5px 0;">Structure, classification et fonctions des protéines dans l'organisme.</p>
+      </div>
+      <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+        <a href="LIEN_DRIVE_CH3_1_COURS" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
+        <a href="LIEN_DRIVE_CH3_1_EXOS" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
+        <a href="LIEN_DRIVE_CH3_1_RESUME" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Résumé</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Chapitre 3.2 -->
+  <div style="background: #f0f8ff; padding: 18px; border-radius: 10px; border-left: 5px solid #17A2B8;">
+    <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+      <div>
+        <span style="background: #17A2B8; color: white; padding: 2px 12px; border-radius: 12px; font-size: 0.7em; font-weight: bold;">CHAPITRE 3.2</span>
+        <h4 style="margin: 5px 0; color: #17A2B8;">Mécanismes d'expression des gènes</h4>
+        <p style="font-size: 0.85em; color: #555; margin: 5px 0;">La synthèse des protéines : transcription et traduction du message génétique.</p>
+      </div>
+      <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+        <a href="LIEN_DRIVE_CH3_2_COURS" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
+        <a href="LIEN_DRIVE_CH3_2_EXOS" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
+        <a href="LIEN_DRIVE_CH3_2_RESUME" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Résumé</a>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+---
+
+#### THÈME 4 - Reproduction sexuée et brassage génétique
+
+<div style="display: grid; grid-template-columns: 1fr; gap: 15px; margin: 15px 0;">
+
+  <!-- Chapitre 4.1 -->
+  <div style="background: #f0faf4; padding: 18px; border-radius: 10px; border-left: 5px solid #20C997;">
+    <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+      <div>
+        <span style="background: #20C997; color: white; padding: 2px 12px; border-radius: 12px; font-size: 0.7em; font-weight: bold;">CHAPITRE 4.1</span>
+        <h4 style="margin: 5px 0; color: #20C997;">Reproduction sexuée</h4>
+        <p style="font-size: 0.85em; color: #555; margin: 5px 0;">La méiose et la fécondation : mécanismes de la reproduction sexuée chez les êtres vivants.</p>
+      </div>
+      <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+        <a href="LIEN_DRIVE_CH4_1_COURS" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
+        <a href="LIEN_DRIVE_CH4_1_EXOS" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
+        <a href="LIEN_DRIVE_CH4_1_RESUME" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Résumé</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Chapitre 4.2 -->
+  <div style="background: #fdf4f0; padding: 18px; border-radius: 10px; border-left: 5px solid #FD7E14;">
+    <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+      <div>
+        <span style="background: #FD7E14; color: white; padding: 2px 12px; border-radius: 12px; font-size: 0.7em; font-weight: bold;">CHAPITRE 4.2</span>
+        <h4 style="margin: 5px 0; color: #FD7E14;">Brassage des gènes</h4>
+        <p style="font-size: 0.85em; color: #555; margin: 5px 0;">Les sources de diversité génétique : brassage interchromosomique et intrachromosomique.</p>
+      </div>
+      <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+        <a href="LIEN_DRIVE_CH4_2_COURS" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
+        <a href="LIEN_DRIVE_CH4_2_EXOS" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
+        <a href="LIEN_DRIVE_CH4_2_RESUME" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Résumé</a>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+---
+
+#### THÈME 5 - Hérédité et génétique humaine
+
+<div style="display: grid; grid-template-columns: 1fr; gap: 15px; margin: 15px 0;">
+
+  <!-- Chapitre 5.1 -->
+  <div style="background: #fdf0f0; padding: 18px; border-radius: 10px; border-left: 5px solid #DC3545;">
+    <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+      <div>
+        <span style="background: #DC3545; color: white; padding: 2px 12px; border-radius: 12px; font-size: 0.7em; font-weight: bold;">CHAPITRE 5.1</span>
+        <h4 style="margin: 5px 0; color: #DC3545;">Transmission des caractères héréditaires chez l'Homme</h4>
+        <p style="font-size: 0.85em; color: #555; margin: 5px 0;">Étude des modes de transmission des caractères héréditaires et des arbres généalogiques.</p>
+      </div>
+      <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+        <a href="LIEN_DRIVE_CH5_1_COURS" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
+        <a href="LIEN_DRIVE_CH5_1_EXOS" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
+        <a href="LIEN_DRIVE_CH5_1_RESUME" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Résumé</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Chapitre 5.2 -->
+  <div style="background: #f4f0f8; padding: 18px; border-radius: 10px; border-left: 5px solid #6F42C1;">
+    <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+      <div>
+        <span style="background: #6F42C1; color: white; padding: 2px 12px; border-radius: 12px; font-size: 0.7em; font-weight: bold;">CHAPITRE 5.2</span>
+        <h4 style="margin: 5px 0; color: #6F42C1;">Anomalies chromosomiques</h4>
+        <p style="font-size: 0.85em; color: #555; margin: 5px 0;">Les principales anomalies chromosomiques humaines : causes et conséquences.</p>
+      </div>
+      <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+        <a href="LIEN_DRIVE_CH5_2_COURS" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
+        <a href="LIEN_DRIVE_CH5_2_EXOS" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
+        <a href="LIEN_DRIVE_CH5_2_RESUME" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Résumé</a>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+---
+
+### DEUXIÈME PARTIE : PHYSIOLOGIE DE L'ORGANISME
+
+#### THÈME 6 - Communication par voies nerveuse et humorale
+
+<div style="display: grid; grid-template-columns: 1fr; gap: 15px; margin: 15px 0;">
+
+  <!-- Chapitre 6.1 -->
+  <div style="background: #f0f8ff; padding: 18px; border-radius: 10px; border-left: 5px solid #007BFF;">
+    <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+      <div>
+        <span style="background: #007BFF; color: white; padding: 2px 12px; border-radius: 12px; font-size: 0.7em; font-weight: bold;">CHAPITRE 6.1</span>
+        <h4 style="margin: 5px 0; color: #007BFF;">Tissu nerveux et notions de réflexes</h4>
+        <p style="font-size: 0.85em; color: #555; margin: 5px 0;">Structure et fonctionnement du tissu nerveux, l'arc réflexe et les différents types de réflexes.</p>
+      </div>
+      <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+        <a href="LIEN_DRIVE_CH6_1_COURS" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
+        <a href="LIEN_DRIVE_CH6_1_EXOS" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
+        <a href="LIEN_DRIVE_CH6_1_RESUME" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Résumé</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Chapitre 6.2 -->
+  <div style="background: #f0faf4; padding: 18px; border-radius: 10px; border-left: 5px solid #28A745;">
+    <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+      <div>
+        <span style="background: #28A745; color: white; padding: 2px 12px; border-radius: 12px; font-size: 0.7em; font-weight: bold;">CHAPITRE 6.2</span>
+        <h4 style="margin: 5px 0; color: #28A745;">Messages nerveux</h4>
+        <p style="font-size: 0.85em; color: #555; margin: 5px 0;">Nature et transmission des messages nerveux : potentiel de repos et potentiel d'action.</p>
+      </div>
+      <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+        <a href="LIEN_DRIVE_CH6_2_COURS" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
+        <a href="LIEN_DRIVE_CH6_2_EXOS" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
+        <a href="LIEN_DRIVE_CH6_2_RESUME" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Résumé</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Chapitre 6.3 -->
+  <div style="background: #fdf4f0; padding: 18px; border-radius: 10px; border-left: 5px solid #FD7E14;">
+    <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+      <div>
+        <span style="background: #FD7E14; color: white; padding: 2px 12px; border-radius: 12px; font-size: 0.7em; font-weight: bold;">CHAPITRE 6.3</span>
+        <h4 style="margin: 5px 0; color: #FD7E14;">La glycémie</h4>
+        <p style="font-size: 0.85em; color: #555; margin: 5px 0;">Régulation de la glycémie : rôles du pancréas, de l'insuline et du glucagon.</p>
+      </div>
+      <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+        <a href="LIEN_DRIVE_CH6_3_COURS" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
+        <a href="LIEN_DRIVE_CH6_3_EXOS" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
+        <a href="LIEN_DRIVE_CH6_3_RESUME" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Résumé</a>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+---
+
+### TROISIÈME PARTIE : LA REPRODUCTION CHEZ L'HOMME
+
+#### THÈME 7 - Fonctionnement des appareils génitaux et leur régulation
+
+<div style="display: grid; grid-template-columns: 1fr; gap: 15px; margin: 15px 0;">
+
+  <!-- Chapitre 7.1 -->
+  <div style="background: #fdf0f0; padding: 18px; border-radius: 10px; border-left: 5px solid #DC3545;">
+    <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+      <div>
+        <span style="background: #DC3545; color: white; padding: 2px 12px; border-radius: 12px; font-size: 0.7em; font-weight: bold;">CHAPITRE 7.1</span>
+        <h4 style="margin: 5px 0; color: #DC3545;">Les appareils génitaux et leur fonctionnement</h4>
+        <p style="font-size: 0.85em; color: #555; margin: 5px 0;">Anatomie et physiologie des appareils génitaux masculin et féminin.</p>
+      </div>
+      <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+        <a href="LIEN_DRIVE_CH7_1_COURS" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
+        <a href="LIEN_DRIVE_CH7_1_EXOS" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
+        <a href="LIEN_DRIVE_CH7_1_RESUME" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Résumé</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Chapitre 7.2 -->
+  <div style="background: #f4f0f8; padding: 18px; border-radius: 10px; border-left: 5px solid #6F42C1;">
+    <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+      <div>
+        <span style="background: #6F42C1; color: white; padding: 2px 12px; border-radius: 12px; font-size: 0.7em; font-weight: bold;">CHAPITRE 7.2</span>
+        <h4 style="margin: 5px 0; color: #6F42C1;">Régulation du fonctionnement des organes génitaux</h4>
+        <p style="font-size: 0.85em; color: #555; margin: 5px 0;">Contrôle hormonal de la fonction de reproduction chez l'homme et la femme.</p>
+      </div>
+      <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+        <a href="LIEN_DRIVE_CH7_2_COURS" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
+        <a href="LIEN_DRIVE_CH7_2_EXOS" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
+        <a href="LIEN_DRIVE_CH7_2_RESUME" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Résumé</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Chapitre 7.3 -->
+  <div style="background: #f0f8ff; padding: 18px; border-radius: 10px; border-left: 5px solid #17A2B8;">
+    <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+      <div>
+        <span style="background: #17A2B8; color: white; padding: 2px 12px; border-radius: 12px; font-size: 0.7em; font-weight: bold;">CHAPITRE 7.3</span>
+        <h4 style="margin: 5px 0; color: #17A2B8;">De la fécondation à la nidation</h4>
+        <p style="font-size: 0.85em; color: #555; margin: 5px 0;">Les étapes de la fécondation, de la division de l'œuf à la nidation dans l'utérus.</p>
+      </div>
+      <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+        <a href="LIEN_DRIVE_CH7_3_COURS" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
+        <a href="LIEN_DRIVE_CH7_3_EXOS" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
+        <a href="LIEN_DRIVE_CH7_3_RESUME" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Résumé</a>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+---
+
+#### THÈME 8 - Régulation des naissances
+
+<div style="display: grid; grid-template-columns: 1fr; gap: 15px; margin: 15px 0;">
+
+  <!-- Chapitre 8.1 -->
+  <div style="background: #f0faf4; padding: 18px; border-radius: 10px; border-left: 5px solid #20C997;">
+    <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+      <div>
+        <span style="background: #20C997; color: white; padding: 2px 12px; border-radius: 12px; font-size: 0.7em; font-weight: bold;">CHAPITRE 8</span>
+        <h4 style="margin: 5px 0; color: #20C997;">Régulation des naissances</h4>
+        <p style="font-size: 0.85em; color: #555; margin: 5px 0;">Méthodes de contraception, planification familiale et enjeux sociosanitaires.</p>
+      </div>
+      <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+        <a href="LIEN_DRIVE_CH8_1_COURS" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
+        <a href="LIEN_DRIVE_CH8_1_EXOS" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
+        <a href="LIEN_DRIVE_CH8_1_RESUME" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Résumé</a>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+---
+
+### QUATRIÈME PARTIE : IMMUNOLOGIE
+
+#### THÈME 9 - Mécanismes de l'immunité
+
+<div style="display: grid; grid-template-columns: 1fr; gap: 15px; margin: 15px 0;">
+
+  <!-- Chapitre 9.1 -->
+  <div style="background: #fdf4f0; padding: 18px; border-radius: 10px; border-left: 5px solid #FD7E14;">
+    <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+      <div>
+        <span style="background: #FD7E14; color: white; padding: 2px 12px; border-radius: 12px; font-size: 0.7em; font-weight: bold;">CHAPITRE 9.1</span>
+        <h4 style="margin: 5px 0; color: #FD7E14;">Le soi et le non-soi</h4>
+        <p style="font-size: 0.85em; color: #555; margin: 5px 0;">Notion d'immunité, distinction entre le soi et le non-soi dans l'organisme.</p>
+      </div>
+      <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+        <a href="LIEN_DRIVE_CH9_1_COURS" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
+        <a href="LIEN_DRIVE_CH9_1_EXOS" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
+        <a href="LIEN_DRIVE_CH9_1_RESUME" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Résumé</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Chapitre 9.2 -->
+  <div style="background: #fdf0f0; padding: 18px; border-radius: 10px; border-left: 5px solid #DC3545;">
+    <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+      <div>
+        <span style="background: #DC3545; color: white; padding: 2px 12px; border-radius: 12px; font-size: 0.7em; font-weight: bold;">CHAPITRE 9.2</span>
+        <h4 style="margin: 5px 0; color: #DC3545;">Les réponses immunitaires</h4>
+        <p style="font-size: 0.85em; color: #555; margin: 5px 0;">Réponse immunitaire innée et adaptative, cellules et molécules de l'immunité.</p>
+      </div>
+      <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+        <a href="LIEN_DRIVE_CH9_2_COURS" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
+        <a href="LIEN_DRIVE_CH9_2_EXOS" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
+        <a href="LIEN_DRIVE_CH9_2_RESUME" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Résumé</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Chapitre 9.3 -->
+  <div style="background: #f4f0f8; padding: 18px; border-radius: 10px; border-left: 5px solid #6F42C1;">
+    <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+      <div>
+        <span style="background: #6F42C1; color: white; padding: 2px 12px; border-radius: 12px; font-size: 0.7em; font-weight: bold;">CHAPITRE 9.3</span>
+        <h4 style="margin: 5px 0; color: #6F42C1;">Dysfonctionnement du système immunitaire</h4>
+        <p style="font-size: 0.85em; color: #555; margin: 5px 0;">Cas du VIH/SIDA : mode de transmission, effet sur le système immunitaire, prévention.</p>
+      </div>
+      <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+        <a href="LIEN_DRIVE_CH9_3_COURS" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
+        <a href="LIEN_DRIVE_CH9_3_EXOS" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
+        <a href="LIEN_DRIVE_CH9_3_RESUME" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Résumé</a>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+---
+
+## 📂 Ressources SVT
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 30px 0;">
+
+  <div style="background: #f0f8ff; padding: 20px; border-radius: 10px; text-align: center; border: 1px solid #007BFF;">
+    <span style="font-size: 2.5em;">📖</span>
+    <h4 style="color: #007BFF;">Cours</h4>
+    <p style="font-size: 0.85em; color: #555;">Tous les chapitres détaillés</p>
+    <a href="LIEN_DRIVE_RESSOURCES_COURS" style="background: #007BFF; color: white; padding: 5px 20px; border-radius: 15px; text-decoration: none; display: inline-block; margin-top: 8px; font-size: 0.8em;">📥 Accéder</a>
+  </div>
+
+  <div style="background: #f0faf4; padding: 20px; border-radius: 10px; text-align: center; border: 1px solid #28A745;">
+    <span style="font-size: 2.5em;">📝</span>
+    <h4 style="color: #28A745;">Exercices et TD</h4>
+    <p style="font-size: 0.85em; color: #555;">Travaux dirigés par chapitre</p>
+    <a href="LIEN_DRIVE_RESSOURCES_TD" style="background: #28A745; color: white; padding: 5px 20px; border-radius: 15px; text-decoration: none; display: inline-block; margin-top: 8px; font-size: 0.8em;">📥 Accéder</a>
+  </div>
+
+  <div style="background: #fdf4f0; padding: 20px; border-radius: 10px; text-align: center; border: 1px solid #FD7E14;">
+    <span style="font-size: 2.5em;">📊</span>
+    <h4 style="color: #FD7E14;">Résumés</h4>
+    <p style="font-size: 0.85em; color: #555;">Synthèses pour réviser efficacement</p>
+    <a href="LIEN_DRIVE_RESSOURCES_RESUMES" style="background: #FD7E14; color: white; padding: 5px 20px; border-radius: 15px; text-decoration: none; display: inline-block; margin-top: 8px; font-size: 0.8em;">📥 Accéder</a>
+  </div>
+
+  <div style="background: #fdf0f0; padding: 20px; border-radius: 10px; text-align: center; border: 1px solid #DC3545;">
+    <span style="font-size: 2.5em;">📚</span>
+    <h4 style="color: #DC3545;">Annales Bac</h4>
+    <p style="font-size: 0.85em; color: #555;">Sujets corrigés des années précédentes</p>
+    <a href="LIEN_DRIVE_RESSOURCES_ANNALES" style="background: #DC3545; color: white; padding: 5px 20px; border-radius: 15px; text-decoration: none; display: inline-block; margin-top: 8px; font-size: 0.8em;">📥 Accéder</a>
+  </div>
+
+</div>
+
+---
+
+## 🔗 Rejoignez les cours en ligne
+
+Tous les cours sont dispensés en direct sur **Tarbiyya Online**. Inscrivez-vous et rejoignez la communauté !
+
+<div style="text-align: center; margin: 25px 0;">
+  <a href="https://www.tarbiyya-online.com" target="_blank" style="background: #007BFF; color: white; padding: 14px 45px; border-radius: 30px; text-decoration: none; font-size: 1.15em; display: inline-block;">
+    🌐 Rejoindre Tarbiyya Online
   </a>
 </div>
 
 ---
 
-## 💬 Contact pour les élèves
+## 📬 Contact
 
-Pour toute question sur les cours ou les TD :
+Pour toute question relative aux cours, exercices ou ressources :
 
-**Email** : [asguergougagara@insea.ac.ma](mailto:asguergougagara@insea.ac.ma)
+<div style="background: #f0f4f8; padding: 20px; border-radius: 10px; text-align: center; margin: 20px 0;">
+  <p style="font-size: 1.1em; margin: 5px 0;">
+    📱 <strong>WhatsApp :</strong> <a href="https://wa.me/22795232564" style="color: #25D366; text-decoration: none; font-weight: bold;">+227 95 23 25 64</a>
+  </p>
+  <p style="font-size: 0.9em; color: #555; margin: 5px 0;">
+    📧 <strong>Email :</strong> <a href="mailto:asguergougagara@insea.ac.ma" style="color: #007BFF; text-decoration: none;">asguergougagara@insea.ac.ma</a>
+  </p>
+</div>
 
 ---
 
