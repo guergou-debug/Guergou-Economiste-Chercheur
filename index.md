@@ -24,34 +24,33 @@ excerpt: " "
 
   <div style="display: flex; flex-direction: column; gap: 15px;">
     <h2 style="color: #00008b; margin: 0; font-size: 1.8em;">👤 À propos de moi</h2>
-    
+
     <p style="font-size: 1.1em; line-height: 1.6; color: #222; text-align: justify;">
-      Élève ingénieur à l'INSEA, je développe une approche rigoureuse et quantitative des problématiques économiques contemporaines. Ma formation articule trois dimensions essentielles : la <strong>théorie économique</strong>, la <strong>modélisation statistique</strong> et l'<strong>analyse de données à grande échelle</strong>.
+      Élève ingénieur à l'INSEA, je me spécialise dans l'analyse quantitative des enjeux économiques, sociaux et environnementaux du développement. Ma formation associe <strong>économie appliquée</strong>, <strong>statistique</strong>, <strong>économétrie</strong> et <strong>science des données</strong>, avec une attention particulière portée à leur mobilisation pour comprendre les dynamiques économiques et éclairer la décision publique.
     </p>
 
     <div style="background: #ffffff; padding: 20px; border-radius: 10px; border: 1px solid #007BFF20; margin: 5px 0;">
       <h3 style="color: #007BFF; margin: 0 0 10px 0;">🏛️ Expérience marquante</h3>
       <p style="font-size: 1.05em; line-height: 1.6; color: #222; text-align: justify; margin: 0;">
-        J'ai récemment effectué un stage à la <strong>Direction des Études et des Prévisions Financières (DEPF)</strong> du Ministère de l'Économie et des Finances du Maroc, où j'ai travaillé sur la <strong>cartographie de la sécheresse</strong> au Maroc à l'aide de <strong>données satellitaires haute résolution (2000-2026)</strong>.
+        J'ai récemment effectué un stage à la <strong>Direction des Études et des Prévisions Financières (DEPF)</strong> du Ministère de l'Économie et des Finances du Maroc, consacré à la <strong>cartographie de la sévérité de la sécheresse au Maroc</strong> à partir de données satellitaires sur la période <strong>2000-2026</strong>. Cette expérience m'a permis de croiser <strong>statistique, analyse spatiale, télédétection et science des données</strong> autour d'un enjeu majeur pour les économies vulnérables aux changements environnementaux.
       </p>
     </div>
 
     <div style="background: #ffffff; padding: 20px; border-radius: 10px; border: 1px solid #28A74520; margin: 5px 0;">
       <h3 style="color: #28A745; margin: 0 0 10px 0;">🏅 Certifications</h3>
-      <ul style="list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 15px;">
-        <li style="background: #f0faf4; padding: 8px 20px; border-radius: 20px; font-size: 0.95em;">🔬 <strong>ARC</strong> - Énergies Renouvelables & Agro-innovation</li>
-        <li style="background: #f0f8ff; padding: 8px 20px; border-radius: 20px; font-size: 0.95em;">📊 <strong>Deloitte</strong> - Data Analytics</li>
-        <li style="background: #fdf4f0; padding: 8px 20px; border-radius: 20px; font-size: 0.95em;">🤖 <strong>DataCamp</strong> - Chercheur en Machine Learning</li>
-      </ul>
+      <p style="font-size: 1.05em; line-height: 1.8; color: #222; text-align: justify; margin: 0;">
+        Je suis certifié par l'<strong>African Research Center (ARC)</strong> à l'issue d'une école d'été consacrée aux <strong>énergies renouvelables et à l'agro-innovation</strong>, ainsi que par <strong>Deloitte en Data Analytics</strong>. Je poursuis également une spécialisation en <strong>Machine Learning</strong> afin de renforcer mes capacités en modélisation prédictive et en analyse avancée des données.
+      </p>
     </div>
 
     <p style="font-size: 1.05em; line-height: 1.6; color: #222; text-align: justify; margin: 5px 0 0 0;">
-      Mon objectif est de produire des analyses quantitatives solides au service de politiques publiques efficaces, inclusives et basées sur l'évidence empirique.
+      À terme, je souhaite contribuer à une recherche appliquée capable de transformer les données en <strong>évidence empirique utile à la décision</strong>, notamment sur les enjeux de développement, de transformation économique, de résilience climatique et d'efficacité des politiques publiques en Afrique.
     </p>
 
-    <div style="text-align: right; font-style: italic; color: #00008b; margin-top: 5px;">
-      “Ma démarche repose sur l’exploitation rigoureuse des données”
+    <div style="text-align: right; font-style: italic; color: #00008b; margin-top: 5px; font-size: 1.1em;">
+      “Transformer les données en évidence pour mieux comprendre, anticiper et décider.”
     </div>
+
   </div>
 
 </div>
@@ -61,28 +60,28 @@ excerpt: " "
   <h2 style="color: #00008b; text-align: center; font-size: 1.8em;">🎯 Intérêts de Recherche</h2>
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 15px; margin-top: 20px;">
     <div style="background: #f0f8ff; padding: 15px 20px; border-radius: 10px; border-left: 4px solid #007BFF;">
-      <strong>🌍 Économie quantitative du développement</strong>
-      <p style="font-size: 0.9em; color: #555; margin: 5px 0 0 0;">Inégalités, pauvreté, capital humain</p>
+      <strong>🌍 Économie du développement & transformation structurelle</strong>
+      <p style="font-size: 0.9em; color: #555; margin: 5px 0 0 0;">Pauvreté, inégalités, capital humain, emploi et dynamiques de développement en Afrique</p>
     </div>
     <div style="background: #f0faf4; padding: 15px 20px; border-radius: 10px; border-left: 4px solid #28A745;">
-      <strong>🌾 Économie agricole et environnementale</strong>
-      <p style="font-size: 0.9em; color: #555; margin: 5px 0 0 0;">Sécheresse, stress hydrique, ressources naturelles</p>
+      <strong>🌾 Économie agricole, climat & ressources naturelles</strong>
+      <p style="font-size: 0.9em; color: #555; margin: 5px 0 0 0;">Sécheresse, vulnérabilité climatique, stress hydrique, agriculture et résilience des territoires</p>
     </div>
     <div style="background: #fdf4f0; padding: 15px 20px; border-radius: 10px; border-left: 4px solid #FD7E14;">
-      <strong>📈 Évaluation des politiques publiques</strong>
-      <p style="font-size: 0.9em; color: #555; margin: 5px 0 0 0;">Méthodes causales et analyse d'impact</p>
+      <strong>📈 Politiques publiques & évaluation d'impact</strong>
+      <p style="font-size: 0.9em; color: #555; margin: 5px 0 0 0;">Évaluation quantitative, méthodes causales et analyse empirique des politiques de développement</p>
     </div>
     <div style="background: #fdf0f0; padding: 15px 20px; border-radius: 10px; border-left: 4px solid #DC3545;">
-      <strong>🤖 Machine Learning appliqué</strong>
-      <p style="font-size: 0.9em; color: #555; margin: 5px 0 0 0;">Économie et données environnementales</p>
+      <strong>🤖 Machine Learning & modélisation prédictive</strong>
+      <p style="font-size: 0.9em; color: #555; margin: 5px 0 0 0;">Prévision, classification et détection de phénomènes économiques, sociaux et environnementaux</p>
     </div>
     <div style="background: #f4f0f8; padding: 15px 20px; border-radius: 10px; border-left: 4px solid #6F42C1;">
-      <strong>📊 Statistique et Big Data</strong>
-      <p style="font-size: 0.9em; color: #555; margin: 5px 0 0 0;">Pour le développement durable</p>
+      <strong>📊 Économétrie, statistique & Big Data</strong>
+      <p style="font-size: 0.9em; color: #555; margin: 5px 0 0 0;">Modélisation économique, séries temporelles, analyse multivariée et exploitation de données massives</p>
     </div>
     <div style="background: #f0faf4; padding: 15px 20px; border-radius: 10px; border-left: 4px solid #20C997;">
-      <strong>🛰️ Télédétection et SIG</strong>
-      <p style="font-size: 0.9em; color: #555; margin: 5px 0 0 0;">Analyse des dynamiques territoriales</p>
+      <strong>🛰️ Télédétection, SIG & analyse spatiale</strong>
+      <p style="font-size: 0.9em; color: #555; margin: 5px 0 0 0;">Observation des territoires, dynamiques environnementales et analyse spatiale au service du développement</p>
     </div>
   </div>
 </div>
