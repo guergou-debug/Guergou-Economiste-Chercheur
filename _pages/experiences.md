@@ -51,12 +51,11 @@ Mon parcours professionnel combine l'analyse de données, la recherche économiq
   </div>
 
   <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 15px;">
-    <a href="/assets/documents/Rapport_Stage_DEPF_VFinale.pdf" style="background: #0050B3; color: white; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">📥 Télécharger le rapport</a>
+    <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/documents/Rapport_Stage_DEPF_VFinale.pdf" style="background: #0050B3; color: white; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">📥 Télécharger le rapport</a>
     <a href="https://github.com/guergou-debug/cartographie-severite-secheresse-au-maroc-par-donnees-satellitaire" target="_blank" style="background: #f0f4f8; color: #333; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">🐙 Voir le projet sur GitHub</a>
   </div>
 
   <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 15px;">
-    <span style="background: #306998; padding: 4px 12px; border-radius: 15px; color: white; font-size: 0.75em;">Python</span>
     <span style="background: #276DC3; padding: 4px 12px; border-radius: 15px; color: white; font-size: 0.75em;">R</span>
     <span style="background: #2C3E50; padding: 4px 12px; border-radius: 15px; color: white; font-size: 0.75em;">Google Earth Engine</span>
     <span style="background: #F39C12; padding: 4px 12px; border-radius: 15px; color: white; font-size: 0.75em;">Télédétection</span>
