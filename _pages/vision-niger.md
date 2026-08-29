@@ -4,7 +4,7 @@ permalink: /benevolat/
 layout: single
 author_profile: true
 header:
-  overlay_image: /assets/images/benevolat-banner.jpg
+  overlay_image: /assets/images/benevolat-banner.png
   overlay_filter: 0.7
   caption: "Transmettre le savoir pour un avenir meilleur"
 ---
