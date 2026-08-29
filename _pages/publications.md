@@ -5,10 +5,6 @@ layout: single
 author_profile: true
 ---
 
-> *"Partager la connaissance est la plus grande contribution que l'on puisse faire au développement."*
-
----
-
 ## 📚 Ouvrage en cours
 
 <div style="display: grid; grid-template-columns: 1fr; max-width: 700px; margin: 30px auto;">
@@ -52,7 +48,7 @@ author_profile: true
     </p>
 
     <div style="display: flex; flex-wrap: wrap; gap: 8px; padding-top: 12px; border-top: 1px solid #eee;">
-      <a href="/assets/documents/Rapport_Stage_DEPF_VFinale.pdf" style="background: #0050B3; color: white; padding: 6px 18px; border-radius: 15px; text-decoration: none; font-size: 0.8em;">📥 Télécharger</a>
+      <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/Rapport_Stage_DEPF_VFinale.pdf" style="background: #0050B3; color: white; padding: 6px 18px; border-radius: 15px; text-decoration: none; font-size: 0.8em;">📥 Télécharger</a>
     </div>
 
   </div>
