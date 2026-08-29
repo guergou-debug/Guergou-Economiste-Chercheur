@@ -61,8 +61,6 @@ author_profile: true
 
 ## 🎓 Filière Économie Appliquée, Statistique & Big Data
 
-> *"Les données sont le nouveau pétrole. Savoir les raffiner est la compétence clé du XXIe siècle."*
-
 ### Présentation de la filière
 
 L'**Institut National de Statistique et d'Économie Appliquée (INSEA)** est une grande école d'ingénieurs publique marocaine, référence historique dans la formation de statisticiens-économistes pour les secteurs public et privé. Sa mission : former des ingénieurs de haut niveau en statistique, économie et data science.
@@ -298,34 +296,6 @@ La filière **Économie Appliquée, Statistique & Big Data** incarne cette visio
 
 ---
 
-## 🌍 Partenariats internationaux
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 20px 0;">
-
-<div style="background: #f0f8ff; padding: 15px; border-radius: 8px; text-align: center; border: 1px solid #007BFF;">
-  <span style="font-size: 2em;">🇨🇦</span>
-  <h4 style="color: #007BFF; margin: 5px 0;">Université Laval</h4>
-  <p style="font-size: 0.8em; color: #555;">Canada</p>
-  <p style="font-size: 0.8em; color: #666;">Échanges et doubles diplômes</p>
-</div>
-
-<div style="background: #f0faf4; padding: 15px; border-radius: 8px; text-align: center; border: 1px solid #28A745;">
-  <span style="font-size: 2em;">🇫🇷</span>
-  <h4 style="color: #28A745; margin: 5px 0;">ENSAI/ENSAE</h4>
-  <p style="font-size: 0.8em; color: #555;">France</p>
-  <p style="font-size: 0.8em; color: #666;">Double diplôme en statistique</p>
-</div>
-
-<div style="background: #fdf4f0; padding: 15px; border-radius: 8px; text-align: center; border: 1px solid #FD7E14;">
-  <span style="font-size: 2em;">🎓</span>
-  <h4 style="color: #FD7E14; margin: 5px 0;">Programmes Doctoraux</h4>
-  <p style="font-size: 0.8em; color: #555;">Canada</p>
-  <p style="font-size: 0.8em; color: #666;">Université Laval & Montréal</p>
-</div>
-
-</div>
-
----
 
 ## 📂 Ressources académiques
 
@@ -352,13 +322,4 @@ La filière **Économie Appliquée, Statistique & Big Data** incarne cette visio
   <a href="LIEN_DRIVE_BIBLIO" style="background: #FD7E14; color: white; padding: 8px 20px; border-radius: 15px; text-decoration: none; display: inline-block; margin-top: 10px; font-size: 0.85em;">📥 Demander l'accès</a>
 </div>
 
-</div>
-
----
-
-<div style="text-align: center; margin: 30px 0; padding: 20px; background: #f0f4f8; border-radius: 10px; border: 1px solid #ddd;">
-  <p style="color: #555; font-size: 0.9em;">
-    <strong>INSEA</strong> — Institut National de Statistique et d'Économie Appliquée<br>
-    Rabat, Maroc
-  </p>
 </div>
