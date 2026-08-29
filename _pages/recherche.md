@@ -16,9 +16,11 @@ header:
 
 Je prépare activement ma candidature pour un **doctorat en économie** dans une université de premier plan, avec pour objectif de contribuer à la recherche en économie du développement et en économétrie appliquée aux pays en développement.
 
-### Thèmes de recherche prioritaires
+---
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 30px 0;">
+## 🔬 Intérêts de Recherche
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 25px 0;">
 
   <div markdown="1" style="background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 4px solid #007BFF;">
   **📊 Économétrie appliquée**
@@ -60,140 +62,80 @@ Je prépare activement ma candidature pour un **doctorat en économie** dans une
 
 ---
 
-## 📚 Projets de recherche en préparation
+## 📄 Projets de doctorat
 
-### 1. Baromètre des Sentiments Économiques du Niger
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 25px; margin: 25px 0;">
 
-<div markdown="1" style="background: #f0f8ff; padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #007BFF;">
+  <!-- Projet 1 -->
+  <div style="background: #ffffff; padding: 25px; border-radius: 12px; border: 1px solid #007BFF; box-shadow: 0 2px 8px rgba(0,0,0,0.06);">
 
-**Objectif :** Construire un indice en temps réel de la confiance économique au Niger à partir de l'analyse des médias et des réseaux sociaux.
+    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+      <span style="background: #007BFF; color: white; padding: 3px 12px; border-radius: 12px; font-size: 0.7em; font-weight: bold;">Projet 1</span>
+      <span style="color: #888; font-size: 0.8em;">🔜 À venir</span>
+    </div>
 
-**Méthodologie :** Collecte automatisée de données textuelles, analyse de sentiments, extraction de séries temporelles, modélisation économétrique.
+    <h4 style="color: #007BFF; margin: 0 0 8px 0;">Économétrie appliquée aux politiques éducatives</h4>
 
-**État :** Phase de conception et collecte de données pilote
+    <p style="color: #444; font-size: 0.92em; line-height: 1.5; margin: 10px 0;">
+      Évaluation de l'impact des réformes éducatives sur la qualité de l'enseignement et la réduction des inégalités au Sahel.
+    </p>
 
-</div>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; padding-top: 12px; border-top: 1px solid #eee;">
+      <a href="#" style="background: #007BFF; color: white; padding: 5px 16px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📄 FR</a>
+      <a href="#" style="background: #28A745; color: white; padding: 5px 16px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📄 EN</a>
+    </div>
 
-### 2. Évaluation des Politiques Éducatives au Niger
-
-<div markdown="1" style="background: #f0faf4; padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #28A745;">
-
-**Objectif :** Mesurer l'impact des réformes éducatives sur les performances scolaires et la réduction des inégalités.
-
-**Méthodologie :** Analyse de données d'enquêtes (EMC, PASEC), méthodes quasi-expérimentales (DID, RDD), modélisation multiniveau.
-
-**État :** Revue de littérature et identification des données disponibles
-
-</div>
-
-### 3. Transformation Structurelle et Emploi au Sahel
-
-<div markdown="1" style="background: #fdf4f0; padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #FD7E14;">
-
-**Objectif :** Analyser les dynamiques de transformation structurelle et leurs implications pour l'emploi au Niger et dans les pays du Sahel.
-
-**Méthodologie :** Analyse de données de comptabilité nationale, modèles de croissance et de transformation, enquêtes auprès des ménages et des entreprises.
-
-**État :** Phase exploratoire
-
-</div>
-
----
-
-## 📖 Publications et communications
-
-### En préparation
-
-| Titre | Type | Statut |
-|-------|------|--------|
-| Baromètre des Sentiments Économiques au Niger | Article de recherche | En cours |
-| Évaluation des Politiques Éducatives au Sahel | Note de politique | En cours |
-| Transformation Structurelle au Niger | Rapport de recherche | En cours |
-
-### Communications à venir
-
-- 🔹 Conférence annuelle de l'Association Africaine de Science des Données (2026)
-- 🔹 Séminaire de recherche INSEA (2026)
-- 🔹 Journées de l'Économie Appliquée (Club EA INSEA)
-
----
-
-## 🎓 Projets de doctorat envisagés
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 30px 0;">
-
-  <div markdown="1" style="background: #f0f8ff; padding: 20px; border-radius: 10px; border: 1px solid #007BFF;">
-  **📊 Thèse 1 : Économétrie appliquée aux politiques éducatives**
-
-  Évaluation de l'impact des réformes éducatives sur la qualité de l'enseignement et la réduction des inégalités au Sahel
   </div>
 
-  <div markdown="1" style="background: #f0faf4; padding: 20px; border-radius: 10px; border: 1px solid #28A745;">
-  **🌍 Thèse 2 : Transformation structurelle et emploi**
+  <!-- Projet 2 -->
+  <div style="background: #ffffff; padding: 25px; border-radius: 12px; border: 1px solid #28A745; box-shadow: 0 2px 8px rgba(0,0,0,0.06);">
 
-  Analyse des déterminants de la transformation structurelle et de ses implications pour l'emploi des jeunes au Niger
+    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+      <span style="background: #28A745; color: white; padding: 3px 12px; border-radius: 12px; font-size: 0.7em; font-weight: bold;">Projet 2</span>
+      <span style="color: #888; font-size: 0.8em;">🔜 À venir</span>
+    </div>
+
+    <h4 style="color: #28A745; margin: 0 0 8px 0;">Transformation structurelle et emploi</h4>
+
+    <p style="color: #444; font-size: 0.92em; line-height: 1.5; margin: 10px 0;">
+      Analyse des déterminants de la transformation structurelle et de ses implications pour l'emploi des jeunes au Niger.
+    </p>
+
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; padding-top: 12px; border-top: 1px solid #eee;">
+      <a href="#" style="background: #007BFF; color: white; padding: 5px 16px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📄 FR</a>
+      <a href="#" style="background: #28A745; color: white; padding: 5px 16px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📄 EN</a>
+    </div>
+
   </div>
 
-  <div markdown="1" style="background: #fdf4f0; padding: 20px; border-radius: 10px; border: 1px solid #FD7E14;">
-  **📈 Thèse 3 : Big Data pour le développement**
+  <!-- Projet 3 -->
+  <div style="background: #ffffff; padding: 25px; border-radius: 12px; border: 1px solid #FD7E14; box-shadow: 0 2px 8px rgba(0,0,0,0.06);">
 
-  Utilisation des données non conventionnelles (médias sociaux, satellites) pour le suivi des indicateurs de développement
+    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+      <span style="background: #FD7E14; color: white; padding: 3px 12px; border-radius: 12px; font-size: 0.7em; font-weight: bold;">Projet 3</span>
+      <span style="color: #888; font-size: 0.8em;">🔜 À venir</span>
+    </div>
+
+    <h4 style="color: #FD7E14; margin: 0 0 8px 0;">Big Data pour le développement</h4>
+
+    <p style="color: #444; font-size: 0.92em; line-height: 1.5; margin: 10px 0;">
+      Utilisation des données non conventionnelles (médias sociaux, satellites) pour le suivi des indicateurs de développement.
+    </p>
+
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; padding-top: 12px; border-top: 1px solid #eee;">
+      <a href="#" style="background: #007BFF; color: white; padding: 5px 16px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📄 FR</a>
+      <a href="#" style="background: #28A745; color: white; padding: 5px 16px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📄 EN</a>
+    </div>
+
   </div>
 
 </div>
 
 ---
 
-## 🧠 Ma philosophie de recherche
+## 📬 Contact
 
-### Principes fondamentaux
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 15px 0;">
-
-  <div markdown="1" style="background: #f0f8ff; padding: 15px; border-radius: 8px; text-align: center; border: 1px solid #007BFF;">
-  **📐 Rigueur méthodologique**
-
-  Des méthodes quantitatives solides pour des résultats fiables
-  </div>
-
-  <div markdown="1" style="background: #f0faf4; padding: 15px; border-radius: 8px; text-align: center; border: 1px solid #28A745;">
-  **🔍 Pertinence empirique**
-
-  Des recherches qui répondent aux enjeux réels du développement
-  </div>
-
-  <div markdown="1" style="background: #fdf4f0; padding: 15px; border-radius: 8px; text-align: center; border: 1px solid #FD7E14;">
-  **🎯 Impact sur les politiques**
-
-  Des résultats qui éclairent les décisions publiques
-  </div>
-
-  <div markdown="1" style="background: #f4f0f8; padding: 15px; border-radius: 8px; text-align: center; border: 1px solid #6F42C1;">
-  **🤝 Collaboration**
-
-  Des partenariats avec les institutions locales et internationales
-  </div>
-
-</div>
-
-### Engagement éthique
-
-- 🔹 Recherche inclusive et participative
-- 🔹 Respect des populations étudiées
-- 🔹 Transparence méthodologique
-- 🔹 Reproducibilité des résultats
-
----
-
-## 📬 Collaborations et opportunités
-
-Je suis ouvert aux collaborations pour :
-
-- 📊 **Projets de recherche** communs sur l'économie du développement
-- 📈 **Études et évaluations** pour des organisations internationales
-- 🤝 **Partenariats** entre universités et institutions
-
-**Contact** : [asguergougagara@insea.ac.ma](mailto:asguergougagara@insea.ac.ma)
+**Email** : [asguergougagara@insea.ac.ma](mailto:asguergougagara@insea.ac.ma)
 
 ---
 
