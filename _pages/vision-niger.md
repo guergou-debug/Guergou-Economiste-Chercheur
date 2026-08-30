@@ -44,9 +44,9 @@ Je dispense bénévolement des **cours de Sciences de la Vie et de la Terre (SVT
         <p style="font-size: 0.85em; color: #555; margin: 5px 0;">Introduction à la notion d'information génétique, son rôle et sa localisation dans la cellule.</p>
       </div>
       <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-        <a href="https://github.com/guergou-debug/cours-svt-td/chapitre-1.1.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
-        <a href="https://github.com/guergou-debug/cours-svt-td/blob/main/exercices-1.1.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
-        <a href="https://github.com/guergou-debug/cours-svt-td/blob/main/TestQCM-1.1.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Tester sa compréhesnion</a>
+        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/chapitre-1.1.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
+        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/exercices-1.1.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
+        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/TestQCM-1.1.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Tester sa compréhesnion</a>
       </div>
     </div>
   </div>
@@ -430,22 +430,6 @@ Je dispense bénévolement des **cours de Sciences de la Vie et de la Terre (SVT
 ---
 
 ## 📂 Ressources SVT
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 30px 0;">
-
-  <div style="background: #f0f8ff; padding: 20px; border-radius: 10px; text-align: center; border: 1px solid #007BFF;">
-    <span style="font-size: 2.5em;">📖</span>
-    <h4 style="color: #007BFF;">Cours</h4>
-    <p style="font-size: 0.85em; color: #555;">Tous les chapitres détaillés</p>
-    <a href="LIEN_DRIVE_RESSOURCES_COURS" style="background: #007BFF; color: white; padding: 5px 20px; border-radius: 15px; text-decoration: none; display: inline-block; margin-top: 8px; font-size: 0.8em;">📥 Accéder</a>
-  </div>
-
-  <div style="background: #f0faf4; padding: 20px; border-radius: 10px; text-align: center; border: 1px solid #28A745;">
-    <span style="font-size: 2.5em;">📝</span>
-    <h4 style="color: #28A745;">Exercices et TD</h4>
-    <p style="font-size: 0.85em; color: #555;">Travaux dirigés par chapitre</p>
-    <a href="LIEN_DRIVE_RESSOURCES_TD" style="background: #28A745; color: white; padding: 5px 20px; border-radius: 15px; text-decoration: none; display: inline-block; margin-top: 8px; font-size: 0.8em;">📥 Accéder</a>
-  </div>
 
   <div style="background: #fdf0f0; padding: 20px; border-radius: 10px; text-align: center; border: 1px solid #DC3545;">
     <span style="font-size: 2.5em;">📚</span>
