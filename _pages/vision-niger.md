@@ -437,9 +437,6 @@ Je dispense bénévolement des **cours de Sciences de la Vie et de la Terre (SVT
     <p style="font-size: 0.85em; color: #555;">Sujets corrigés des années précédentes</p>
     <a href="https://drive.google.com/drive/folders/1ofsmX244yb3vnCxuufFP0jcPFKRu9su2?usp=sharing" style="background: #DC3545; color: white; padding: 5px 20px; border-radius: 15px; text-decoration: none; display: inline-block; margin-top: 8px; font-size: 0.8em;">📥 Accéder</a>
   </div>
-
-</div>
-
 ---
 
 ## 📬 Contact
