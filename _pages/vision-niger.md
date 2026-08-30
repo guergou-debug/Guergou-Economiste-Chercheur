@@ -433,8 +433,8 @@ Je dispense bénévolement des **cours de Sciences de la Vie et de la Terre (SVT
 
   <div style="background: #fdf0f0; padding: 20px; border-radius: 10px; text-align: center; border: 1px solid #DC3545;">
     <span style="font-size: 2.5em;">📚</span>
-    <h4 style="color: #DC3545;">Annales Bac</h4>
-    <p style="font-size: 0.85em; color: #555;">Sujets corrigés des années précédentes</p>
+    <h4 style="color: #DC3545;">Ressources pour BAC</h4>
+    <p style="font-size: 0.85em; color: #555;">Livres, annales et documents divers</p>
     <a href="https://drive.google.com/drive/folders/1ofsmX244yb3vnCxuufFP0jcPFKRu9su2?usp=sharing" style="background: #DC3545; color: white; padding: 5px 20px; border-radius: 15px; text-decoration: none; display: inline-block; margin-top: 8px; font-size: 0.8em;">📥 Accéder</a>
   </div>
 ---
