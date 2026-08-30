@@ -44,9 +44,9 @@ Je dispense bénévolement des **cours de Sciences de la Vie et de la Terre (SVT
         <p style="font-size: 0.85em; color: #555; margin: 5px 0;">Introduction à la notion d'information génétique, son rôle et sa localisation dans la cellule.</p>
       </div>
       <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-        <a href="LIEN_DRIVE_CH1_1_COURS" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
-        <a href="LIEN_DRIVE_CH1_1_EXOS" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
-        <a href="LIEN_DRIVE_CH1_1_RESUME" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Résumé</a>
+        <a href="https://github.com/guergou-debug/cours-svt-td/chapitre-1.1.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
+        <a href="https://github.com/guergou-debug/cours-svt-td/blob/main/exercices-1.1.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
+        <a href="https://github.com/guergou-debug/cours-svt-td/blob/main/TestQCM-1.1.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Tester sa compréhesnion</a>
       </div>
     </div>
   </div>
@@ -447,18 +447,11 @@ Je dispense bénévolement des **cours de Sciences de la Vie et de la Terre (SVT
     <a href="LIEN_DRIVE_RESSOURCES_TD" style="background: #28A745; color: white; padding: 5px 20px; border-radius: 15px; text-decoration: none; display: inline-block; margin-top: 8px; font-size: 0.8em;">📥 Accéder</a>
   </div>
 
-  <div style="background: #fdf4f0; padding: 20px; border-radius: 10px; text-align: center; border: 1px solid #FD7E14;">
-    <span style="font-size: 2.5em;">📊</span>
-    <h4 style="color: #FD7E14;">Résumés</h4>
-    <p style="font-size: 0.85em; color: #555;">Synthèses pour réviser efficacement</p>
-    <a href="LIEN_DRIVE_RESSOURCES_RESUMES" style="background: #FD7E14; color: white; padding: 5px 20px; border-radius: 15px; text-decoration: none; display: inline-block; margin-top: 8px; font-size: 0.8em;">📥 Accéder</a>
-  </div>
-
   <div style="background: #fdf0f0; padding: 20px; border-radius: 10px; text-align: center; border: 1px solid #DC3545;">
     <span style="font-size: 2.5em;">📚</span>
     <h4 style="color: #DC3545;">Annales Bac</h4>
     <p style="font-size: 0.85em; color: #555;">Sujets corrigés des années précédentes</p>
-    <a href="LIEN_DRIVE_RESSOURCES_ANNALES" style="background: #DC3545; color: white; padding: 5px 20px; border-radius: 15px; text-decoration: none; display: inline-block; margin-top: 8px; font-size: 0.8em;">📥 Accéder</a>
+    <a href="https://drive.google.com/drive/folders/1ofsmX244yb3vnCxuufFP0jcPFKRu9su2?usp=sharing" style="background: #DC3545; color: white; padding: 5px 20px; border-radius: 15px; text-decoration: none; display: inline-block; margin-top: 8px; font-size: 0.8em;">📥 Accéder</a>
   </div>
 
 </div>
